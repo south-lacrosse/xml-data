@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="North v South Juniors">
+  <summary>
+    <team>North</team>
+    <team>South</team>
+    <team>Drawn</team>
+  </summary>
+  <winner year="1982" rup="South" result="13 - 8">North</winner>
+  <winner year="1980" rup="South" result="25 - 6">North</winner>
+  <winner year="1979" rup="South" result="13 - 4">North</winner>
+  <winner year="1978" rup="South" result="14 - 4">North</winner>
+  <winner year="1977" rup="South" result="21 - 2">North</winner>
+  <winner year="1976" result="3 - 3">Drawn</winner>
+  <winner year="1975" rup="South" result="20 - 6">North</winner>
+  <winner year="1974" rup="South" result="17 - 3">North</winner>
+  <winner year="1973" rup="South" result="13 - 1">North</winner>
+  <winner year="1972" rup="South" result="9 - 4">North</winner>
+  <winner year="1971" rup="South" result="13 - 3">North</winner>
+  <winner year="1970" rup="South" result="6 - 3">North</winner>
+  <winner year="1969" rup="South" result="17 - 6">North</winner>
+  <winner year="1968" rup="South" result="12 - 1">North</winner>
+  <winner year="1967" rup="South" result="10 - 8">North</winner>
+  <winner year="1966" rup="South" result="11 - 0">North</winner>
+  <winner year="1965" rup="South" result="14 - 5">North</winner>
+  <winner year="1964" rup="South" result="17 - 6">North</winner>
+  <winner year="1963" rup="South" result="6 - 6">Drawn</winner>
+  <winner year="1962" rup="North" result="7 - 6">South</winner>
+</results>

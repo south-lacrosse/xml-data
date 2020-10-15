@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1965">
+<division><division-name>Division 1</division-name>
+<team><team-name>Purley</team-name><won>13</won><drawn>0</drawn><lost>1</lost><points>26</points><for>148</for><against>45</against></team>
+<team><team-name>Lee</team-name><won>11</won><drawn>0</drawn><lost>3</lost><points>22</points><for>124</for><against>49</against></team>
+<team><team-name>London Uni</team-name><won>10</won><drawn>0</drawn><lost>4</lost><points>20</points><for>119</for><against>69</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>8</won><drawn>1</drawn><lost>5</lost><points>17</points><for>68</for><against>85</against></team>
+<team><team-name>Kenton</team-name><won>6</won><drawn>0</drawn><lost>8</lost><points>12</points><for>59</for><against>81</against></team>
+<team><team-name>Beckenham</team-name><won>4</won><drawn>0</drawn><lost>10</lost><points>8</points><for>60</for><against>145</against></team>
+<team><team-name>Old Thorntonians</team-name><won>2</won><drawn>0</drawn><lost>12</lost><points>4</points><for>34</for><against>53</against></team>
+<team><team-name>Hampstead</team-name><won>1</won><drawn>1</drawn><lost>12</lost><points>3</points><for>35</for><against>120</against></team>
+</division>
+<division cols="pts-avg"><division-name>Division 2</division-name>
+<team><team-name>Lee A</team-name><won>20</won><drawn>1</drawn><lost>1</lost><points>41</points><for>138</for><against>49</against></team>
+<team><team-name>Westminster College</team-name><won>18</won><drawn>0</drawn><lost>2</lost><points>36</points><for>82</for><against>51</against></team>
+<team><team-name>Old Sedcopians</team-name><won>14</won><drawn>0</drawn><lost>5</lost><points>28</points><for>186</for><against>94</against></team>
+<team><team-name>Bristol Uni</team-name><won>14</won><drawn>0</drawn><lost>8</lost><points>28</points><for>78</for><against>41</against></team>
+<team><team-name>Cambridge Eagles</team-name><won>11</won><drawn>1</drawn><lost>8</lost><points>23</points><for>60</for><against>42</against></team>
+<team><team-name>Purley A</team-name><won>13</won><drawn>0</drawn><lost>10</lost><points>26</points><for>127</for><against>105</against></team>
+<team><team-name>Beckenham A</team-name><won>10</won><drawn>0</drawn><lost>13</lost><points>20</points><for>60</for><against>125</against></team>
+<team><team-name>London Uni A</team-name><won>8</won><drawn>0</drawn><lost>12</lost><points>16</points><for>33</for><against>19</against></team>
+<team><team-name>Croydon</team-name><won>9</won><drawn>0</drawn><lost>14</lost><points>18</points><for>67</for><against>110</against></team>
+<team><team-name>Henry Thornton School</team-name><won>7</won><drawn>1</drawn><lost>15</lost><points>15</points><for>77</for><against>123</against></team>
+<team><team-name>Oxford Iroquois</team-name><won>6</won><drawn>2</drawn><lost>16</lost><points>14</points><for>51</for><against>74</against></team>
+<team><team-name>Purley B</team-name><won>5</won><drawn>1</drawn><lost>18</lost><points>11</points><for>92</for><against>177</against></team>
+<team><team-name>Old Sedcopians A</team-name><won>4</won><drawn>2</drawn><lost>17</lost><points>10</points><for>61</for><against>102</against></team>
+</division>
+</league-tables>

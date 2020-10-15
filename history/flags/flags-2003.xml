@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2003">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Round 1" short="R1" date="2002-11-02">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Penarth</team2>
+        <score>16 - 5</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Purley</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Bye</team1>
+        <team2>Hampstead</team2>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Spencer</team1>
+        <team2>Hillcroft</team2>
+        <score>11 - 2</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2002-11-30">
+      <match matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Purley</team2>
+        <score>2 - 14</score>
+      </match>
+      <match matchNum="2">
+        <team1>Hampstead</team1>
+        <team2>Spencer</team2>
+        <score>19 - 4</score>
+      </match>
+    </round>
+    <round name="Final" date="2003-02-22">
+      <match matchNum="1">
+        <team1>Purley</team1>
+        <team2>Hampstead</team2>
+        <score>10 - 8</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2002-12-07">
+      <match home="1" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Croydon</team2>
+        <score>12 - 6</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Oxford Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Hitchin</team1>
+        <team2>Walcountian Blues</team2>
+        <score>16 - 5</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2003-01-25">
+      <match home="1" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Oxford Uni</team2>
+        <score>7 - 12</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Cambridge Uni</team2>
+        <score>25 - 4</score>
+      </match>
+    </round>
+    <round name="Final" date="2003-02-22">
+      <match matchNum="1">
+        <team1>Oxford Uni</team1>
+        <team2>Hitchin</team2>
+        <score>14 - 11</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="2002-12-09">
+      <match home="1" matchNum="1">
+        <team1>Buckhurst Hill</team1>
+        <team2>UWIC</team2>
+        <score>17 - 3</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Bath Uni</team1>
+        <team2>Wasps</team2>
+        <score>12 - 2</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Hitchin A</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>11 - 5</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Reading Uni</team1>
+        <team2>Southampton Tridents</team2>
+        <score>2 - 19</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2003-01-18">
+      <match matchNum="1">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bath Uni</team2>
+        <score>2 - 7</score>
+      </match>
+      <match matchNum="2">
+        <team1>Hitchin A</team1>
+        <team2>Southampton Tridents</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2003-02-22">
+      <match matchNum="1">
+        <team1>Bath Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>13 - 5</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

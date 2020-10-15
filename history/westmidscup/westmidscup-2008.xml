@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2008" name="West &amp; Midlands Cup" index="no">
+  <flags-competition name="Senior">
+    <round name="First round" date="2007-10-27">
+      <match home="2" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Warwick Uni</team2>
+        <score>8 - 11</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Loughborough Uni</team1>
+        <team2>Cardiff Uni</team2>
+        <score>21 - 2</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Southampton Tridents</team1>
+        <team2>UWIC</team2>
+        <score>20 - 3</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Cheltenham</team1>
+        <team2>Birmingham Bulls</team2>
+        <score>1 - 15</score>
+      </match>
+    </round>
+    <round name="Semi final" date="2007-12-08">
+      <match home="1" matchNum="1">
+        <team1>Warwick Uni</team1>
+        <team2>Loughborough Uni</team2>
+        <score>10 - 8</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Southampton Tridents</team1>
+        <team2>Birmingham Bulls</team2>
+        <score>5 - 19</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-29">
+      <match matchNum="1">
+        <team1>Warwick Uni</team1>
+        <team2>Birmingham Bulls</team2>
+        <score>20 - 6</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition name="Intermediate">
+    <round name="First round" date="2007-10-27">
+      <match home="2" matchNum="1">
+        <team1>Bristol Bombers</team1>
+        <team2>Exeter Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Aberystwyth Uni</team1>
+        <team2>Nottingham Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Keele Uni</team1>
+        <team2>Cardiff Harlequins</team2>
+        <score>1 - 22</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bath Uni</team1>
+        <team2>Penarth</team2>
+        <score>15 - 5</score>
+      </match>
+    </round>
+    <round name="Semi final" date="2007-12-08">
+      <match home="1" matchNum="1">
+        <team1>Bristol Bombers</team1>
+        <team2>Nottingham Uni</team2>
+        <score>1 - 14</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Bath Uni</team2>
+        <score>15 - 4</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-29">
+      <match matchNum="1">
+        <team1>Nottingham Uni</team1>
+        <team2>Cardiff Harlequins</team2>
+        <score>8 - 6</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition name="Minor">
+    <round name="First round" date="2007-10-27">
+      <match home="2" matchNum="1">
+        <team1>Staffordshire Uni</team1>
+        <team2>Royal Navy Yeovil</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Bristol Sharks</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>2 - 13</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Gloucester Uni</team1>
+        <team2>Swansea Hawks 2</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Southampton Tridents 2</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Semi final" date="2007-12-08">
+      <match home="1" matchNum="1">
+        <team1>Staffordshire Uni</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>3 - 8</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Swansea Hawks 2</team1>
+        <team2>Southampton Tridents 2</team2>
+        <score>18 - 4</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-29">
+      <match matchNum="1">
+        <team1>Portsmouth Uni</team1>
+        <team2>Swansea Hawks 2</team2>
+        <score>20 - 0</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2018" name="Flags" short="Flag">
+  <flags-competition id="snr" name="Senior" short="Snr">
+    <round name="Last 16" date="2017-11-11" short="R16">
+      <match date="2017-11-11" home="1" matchNum="1">
+        <team1>Spencer</team1>
+        <team2>Hillcroft</team2>
+        <score>8 - 7</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="3">
+        <team1>Welwyn Warriors</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="5">
+        <team1>Reading Wildcats</team1>
+        <team2>Cardiff Harlequins</team2>
+        <score>8 - 2</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="6">
+        <team1>Walcountian Blues</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="7">
+        <team1>Hampstead</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="8">
+        <team1>Bristol Bombers</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2018-02-17" short="QF">
+      <match date="2018-02-17" home="1" matchNum="1">
+        <team1>Spencer</team1>
+        <team2>Hitchin</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2018-02-17" home="1" matchNum="2">
+        <team1>Welwyn Warriors</team1>
+        <team2>Cambridge Uni</team2>
+        <score>17 - 8</score>
+      </match>
+      <match date="2018-02-17" home="1" matchNum="3">
+        <team1>Reading Wildcats</team1>
+        <team2>Walcountian Blues</team2>
+        <score>5 - 11</score>
+      </match>
+      <match date="2018-02-17" home="1" matchNum="4">
+        <team1>Hampstead</team1>
+        <team2>Bristol Bombers</team2>
+        <score>18 - 5</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2018-04-07" short="SF">
+      <match date="2018-04-07" home="1" matchNum="1">
+        <team1>Spencer</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>22 - 4</score>
+      </match>
+      <match date="2018-04-07" home="1" matchNum="2">
+        <team1>Walcountian Blues</team1>
+        <team2>Hampstead</team2>
+        <score>5 - 10</score>
+      </match>
+    </round>
+    <round name="Final" date="2018-04-14">
+      <match date="2018-04-14" matchNum="1">
+        <team1>Spencer</team1>
+        <team2>Hampstead</team2>
+        <score>9 - 12</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" name="Intermediate" short="Int">
+    <round name="Last 16" date="2017-11-11" short="R16">
+      <match date="2017-11-11" home="1" matchNum="1">
+        <team1>Bath 2</team1>
+        <team2>Bristol Bombers 2</team2>
+        <score>1 - 11</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="2">
+        <team1>Bath</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="3">
+        <team1>Epsom</team1>
+        <team2>Spencer 3</team2>
+        <score>2 - 13</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="4">
+        <team1>Oxford Uni</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>13 - 4</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="5">
+        <team1>Birmingham</team1>
+        <team2>Plymouth Privateers</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="6">
+        <team1>East Grinstead</team1>
+        <team2>Hillcroft B</team2>
+        <score>5 - 3</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="7">
+        <team1>Hillcroft A</team1>
+        <team2>Purley</team2>
+        <score>18 - 3</score>
+      </match>
+      <match date="2017-11-11" home="1" matchNum="8">
+        <team1>Spencer 2</team1>
+        <team2>Maidstone</team2>
+        <score>22 - 6</score>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2018-02-03" short="QF">
+      <match date="2018-02-03" home="1" matchNum="1">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Bath</team2>
+        <score>1 - 18</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="2">
+        <team1>Spencer 3</team1>
+        <team2>Oxford Uni</team2>
+        <score>9 - 12</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="3">
+        <team1>Birmingham</team1>
+        <team2>East Grinstead</team2>
+        <score>0 - 10</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="4">
+        <team1>Hillcroft A</team1>
+        <team2>Spencer 2</team2>
+        <score>4 - 11</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2018-03-10" short="SF">
+      <match date="2018-03-10" home="1" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Oxford Uni</team2>
+        <score>6 - 20</score>
+      </match>
+      <match date="2018-03-10" home="1" matchNum="2">
+        <team1>East Grinstead</team1>
+        <team2>Spencer 2</team2>
+        <score>4 - 13</score>
+      </match>
+    </round>
+    <round name="Final" date="2018-04-14">
+      <match date="2018-04-14" matchNum="1">
+        <team1>Oxford Uni</team1>
+        <team2>Spencer 2</team2>
+        <score>3 - 21</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" name="Minor" short="Mnr">
+    <round name="Last 32" date="2017-10-28" short="R32">
+      <match date="2017-10-28" home="1" matchNum="1">
+        <team1>Warwick Uni</team1>
+        <team2>Plymouth Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="2">
+        <team1>Cheltenham</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="3">
+        <team1>Bournemouth</team1>
+        <team2>Southampton</team2>
+        <score>18 - 19</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="4">
+        <team1>Exeter Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="5">
+        <team1>Canterbury</team1>
+        <team2>Oxford Iroquois</team2>
+        <score>6 - 7</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="6">
+        <team1>Cambridge Eagles</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="7">
+        <team1>East Grinstead A</team1>
+        <team2>Spencer 4</team2>
+        <score>7 - 10</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="8">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="9">
+        <team1>London Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>19 - 0</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="10">
+        <team1>Guildford Gators</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="11">
+        <team1>Epsom 2</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="12">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="13">
+        <team1>Brunel</team1>
+        <team2>Reading Wildcats 2</team2>
+        <score>V - V</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="14">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="15">
+        <team1>Chichester Crusaders</team1>
+        <team2>Royal Holloway</team2>
+        <score>0 - 10</score>
+      </match>
+      <match date="2017-10-28" home="1" matchNum="16">
+        <team1>Brighton Panthers</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Last 16" date="2017-11-25" short="R16">
+      <match date="2017-11-25" home="1" matchNum="1">
+        <team1>Warwick Uni</team1>
+        <team2>Cheltenham</team2>
+        <score>3 - 15</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="2">
+        <team1>Southampton</team1>
+        <team2>Exeter Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="3">
+        <team1>Oxford Iroquois</team1>
+        <team2>Cambridge Eagles</team2>
+        <score>2 - 11</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="4">
+        <team1>Spencer 4</team1>
+        <team2>Walcountian Blues 2</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="5">
+        <team1>London Uni</team1>
+        <team2>Guildford Gators</team2>
+        <score>8 - 7</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="6">
+        <team1>Epsom 2</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>4 - 5</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="7">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Milton Keynes Minotaurs</team2>
+        <score>5 - 7</score>
+      </match>
+      <match date="2017-11-25" home="1" matchNum="8">
+        <team1>Royal Holloway</team1>
+        <team2>Brighton Panthers</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2018-02-03" short="QF">
+      <match date="2018-02-03" home="1" matchNum="1">
+        <team1>Cheltenham</team1>
+        <team2>Southampton</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="2">
+        <team1>Cambridge Eagles</team1>
+        <team2>Spencer 4</team2>
+        <score>8 - 5</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="3">
+        <team1>London Uni</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>13 - 12</score>
+      </match>
+      <match date="2018-02-03" home="1" matchNum="4">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>Brighton Panthers</team2>
+        <score>2 - 11</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2018-03-10" short="SF">
+      <match date="2018-03-10" home="1" matchNum="1">
+        <team1>Cheltenham</team1>
+        <team2>Cambridge Eagles</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2018-03-10" home="1" matchNum="2">
+        <team1>London Uni</team1>
+        <team2>Brighton Panthers</team2>
+        <score>1 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2018-04-14">
+      <match date="2018-04-14" matchNum="1">
+        <team1>Cheltenham</team1>
+        <team2>London Uni</team2>
+        <score>16 - 5</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

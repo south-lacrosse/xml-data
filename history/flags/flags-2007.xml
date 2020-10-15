@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2007">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Round 1" short="R1" date="2006-11-04">
+      <match home="2" matchNum="3">
+        <team1>Penarth</team1>
+        <team2>Spencer</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="6">
+        <team1>Walcountian Blues</team1>
+        <team2>Bath</team2>
+        <score>14 - 13</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2007-01-20">
+      <match home="2" matchNum="1">
+        <team1>Hillcroft</team1>
+        <team2>Reading Wildcats</team2>
+        <score>5 - 17</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Spencer</team1>
+        <team2>Purley</team2>
+        <score>4 - 20</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Hitchin</team1>
+        <team2>Walcountian Blues</team2>
+        <score>17 - 3</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Hampstead</team1>
+        <team2>Oxford Uni</team2>
+        <score>16 - 9</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2007-02-17">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Purley</team2>
+        <score>3 - 15</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Hampstead</team2>
+        <score>9 - 11</score>
+      </match>
+    </round>
+    <round name="Final" date="2007-03-17">
+      <match matchNum="1">
+        <team1>Purley</team1>
+        <team2>Hampstead</team2>
+        <score>8 - 4</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2006-11-04">
+      <match home="1" matchNum="2">
+        <team1>Cheltenham</team1>
+        <team2>Swansea Hawks</team2>
+        <score>9 - 20</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>UEA</team1>
+        <team2>Croydon</team2>
+        <score>2 - 14</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Bristol Sharks</team1>
+        <team2>East Grinstead</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>London Uni</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>2 - 20</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Cambridge Uni</team2>
+        <score>2 - 19</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2007-01-20">
+      <match home="2" matchNum="1">
+        <team1>Bath Uni</team1>
+        <team2>Swansea Hawks</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Croydon</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>10 - 14</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>East Grinstead</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>11 - 7</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Southampton Tridents</team2>
+        <score>16 - 3</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2007-02-17">
+      <match home="1" matchNum="1">
+        <team1>Swansea Hawks</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>13 - 8</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>East Grinstead</team1>
+        <team2>Cambridge Uni</team2>
+        <score>12 - 11</score>
+      </match>
+    </round>
+    <round name="Final" date="2007-03-17">
+      <match matchNum="1">
+        <team1>Swansea Hawks</team1>
+        <team2>East Grinstead</team2>
+        <score>6 - 12</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="2006-11-04">
+      <match home="1" matchNum="2">
+        <team1>Cardiff Uni</team1>
+        <team2>Swindon Raptors</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>East Grinstead A</team1>
+        <team2>Hertfordshire Comets</team2>
+        <score>11 - 6</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Canterbury</team1>
+        <team2>Exeter Uni</team2>
+        <score>1 - 12</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Portsmouth Uni</team1>
+        <team2>Northampton Uni</team2>
+        <score>7 - 11</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>Royal Holloway</team1>
+        <team2>Hitchin A</team2>
+        <score>2 - 11</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2007-01-20">
+      <match home="2" matchNum="1">
+        <team1>UWIC</team1>
+        <team2>Cardiff Uni</team2>
+        <score>10 - 8</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>East Grinstead A</team1>
+        <team2>Exeter Uni</team2>
+        <score>2 - 4</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>RMAS</team1>
+        <team2>Northampton Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Hitchin A</team1>
+        <team2>East Coast</team2>
+        <score>10 - 11</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2007-02-17">
+      <match home="1" matchNum="1">
+        <team1>UWIC</team1>
+        <team2>Exeter Uni</team2>
+        <score>12 - 3</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Northampton Uni</team1>
+        <team2>East Coast</team2>
+        <score>6 - 8</score>
+      </match>
+    </round>
+    <round name="Final" date="2007-03-17">
+      <match matchNum="1">
+        <team1>UWIC</team1>
+        <team2>East Coast</team2>
+        <score>18 - 6</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mids" name="Midlands" short="Mid">
+    <round name="Round 1" short="R1" date="2006-11-04">
+      <match home="2" matchNum="1">
+        <team1>Birmingham Bulls</team1>
+        <team2>Warwick Uni</team2>
+        <score>14 - 13</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Aberystwyth Uni</team1>
+        <team2>Keele Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Staffordshire Uni</team1>
+        <team2>Nottingham Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Loughborough Uni</team1>
+        <team2>Gloucester Uni</team2>
+        <score>26 - 3</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2007-02-03">
+      <match home="1" matchNum="1">
+        <team1>Birmingham Bulls</team1>
+        <team2>Keele Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Nottingham Uni</team1>
+        <team2>Loughborough Uni</team2>
+        <score>7 - 15</score>
+      </match>
+    </round>
+    <round name="Final" date="2007-03-17">
+      <match matchNum="1">
+        <team1>Birmingham Bulls</team1>
+        <team2>Loughborough Uni</team2>
+        <score>4 - 13</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>
+

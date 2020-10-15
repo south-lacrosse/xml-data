@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2020" name="Flags" short="Flag">
+  <flags-competition id="snr" name="Senior" short="Snr">
+    <round name="Last 16" date="2019-11-16" short="R16">
+      <match date="2019-11-16" home="1" matchNum="1">
+        <team1>Camden Capybaras</team1>
+        <team2>Hampstead</team2>
+        <score>1 - 25</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="2">
+        <team1>Cambridge Uni</team1>
+        <team2>Reading Wildcats</team2>
+        <score>4 - 15</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="3">
+        <team1>Hitchin</team1>
+        <team2>East Grinstead</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="4">
+        <team1>Cheltenham</team1>
+        <team2>Walcountian Blues</team2>
+        <score>3 - 17</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="5">
+        <team1>Hillcroft</team1>
+        <team2>Purley</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="6">
+        <team1>Epsom</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>7 - 24</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="7">
+        <team1>Spencer</team1>
+        <team2>Oxford Uni</team2>
+        <score>26 - 0</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="8">
+        <team1>London Raptors</team1>
+        <team2>Bristol Bombers</team2>
+        <score>14 - 0</score>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2020-02-15" short="QF">
+      <match date="2020-02-15" home="1" matchNum="1">
+        <team1>Hampstead</team1>
+        <team2>Reading Wildcats</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Walcountian Blues</team2>
+        <score>9 - 7</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="3">
+        <team1>Hillcroft</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>10 - 4</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="4">
+        <team1>Spencer</team1>
+        <team2>London Raptors</team2>
+        <score>27 - 3</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2020-04-04" short="SF">
+      <match date="2020-04-04" home="1" matchNum="1">
+        <team1>Hampstead</team1>
+        <team2>Hitchin</team2>
+      </match>
+      <match date="2020-04-04" home="1" matchNum="2">
+        <team1>Hillcroft</team1>
+        <team2>Spencer</team2>
+        <score>5 - 8</score>
+      </match>
+    </round>
+    <round name="Final" date="2020-04-18">
+      <match date="2020-04-18" matchNum="1">
+        <team1>Spencer</team1>
+      </match>
+    </round>
+    <remarks>The competition was declared void because of the COVID-19 pandemic.</remarks>
+  </flags-competition>
+  <flags-competition id="int" name="Intermediate" short="Int">
+    <round name="Last 32" date="2019-11-16" short="R32">
+      <match date="2019-11-16" home="1" matchNum="1">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>Hillcroft B</team2>
+        <score>2 - 11</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="2">
+        <team1>East Grinstead</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="3">
+        <team1>Epsom</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="5">
+        <team1>Camden Capybaras</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="6">
+        <team1>Purley</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="7">
+        <team1>London Uni</team1>
+        <team2>Oxford Owls</team2>
+        <score>10 - 7</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="8">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Spencer 4</team2>
+        <score>11 - 3</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="9">
+        <team1>Plymouth Privateers</team1>
+        <team2>Spencer 3</team2>
+        <score>0 - 4</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="10">
+        <team1>Oxford Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="11">
+        <team1>Bristol Bombers</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="12">
+        <team1>Spencer 2</team1>
+        <team2>Hitchin A</team2>
+        <score>17 - 1</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="13">
+        <team1>Hillcroft A</team1>
+        <team2>Guildford Gators</team2>
+        <score>24 - 1</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="14">
+        <team1>Bath</team1>
+        <team2>Canterbury City</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="15">
+        <team1>Cheltenham</team1>
+        <team2>Bye</team2>
+      </match>
+      <match date="2019-11-16" home="1" matchNum="16">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>11 - 9</score>
+      </match>
+    </round>
+    <round name="Last 16" date="2020-01-18" short="R16">
+      <match date="2020-01-18" home="1" matchNum="1">
+        <team1>Hillcroft B</team1>
+        <team2>East Grinstead</team2>
+        <score>4 - 13</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="2">
+        <team1>Epsom</team1>
+        <team2>Cambridge Uni</team2>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="3">
+        <team1>Camden Capybaras</team1>
+        <team2>Purley</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="4">
+        <team1>London Uni</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>0 - 10</score>
+      </match>
+      <match date="2020-01-18" home="2" matchNum="5">
+        <team1>Spencer 3</team1>
+        <team2>Oxford Uni</team2>
+        <score>15 - 4</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="6">
+        <team1>Bristol Bombers</team1>
+        <team2>Spencer 2</team2>
+        <score>5 - 15</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="7">
+        <team1>Hillcroft A</team1>
+        <team2>Bath</team2>
+        <score>18 - 11</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="8">
+        <team1>Cheltenham</team1>
+        <team2>Reading Wildcats 2</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2020-02-15" short="QF">
+      <match date="2020-02-15" home="1" matchNum="1">
+        <team1>East Grinstead</team1>
+        <team2>Cambridge Uni</team2>
+        <score>9 - 7</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="2">
+        <team1>Camden Capybaras</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="3">
+        <team1>Spencer 3</team1>
+        <team2>Spencer 2</team2>
+        <score>4 - 12</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="4">
+        <team1>Hillcroft A</team1>
+        <team2>Cheltenham</team2>
+        <score>11 - 7</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2020-04-04" short="SF">
+      <match date="2020-04-04" home="1" matchNum="1">
+        <team1>East Grinstead</team1>
+        <team2>Camden Capybaras</team2>
+      </match>
+      <match date="2020-04-04" home="1" matchNum="2">
+        <team1>Spencer 2</team1>
+        <team2>Hillcroft A</team2>
+      </match>
+    </round>
+    <round name="Final" date="2020-04-18">
+      <match date="2020-04-18" matchNum="1" />
+    </round>
+    <remarks>The competition was declared void because of the COVID-19 pandemic.</remarks>
+  </flags-competition>
+  <flags-competition id="mnr" name="Minor" short="Mnr">
+    <round name="Last 16" date="2020-01-18" short="R16">
+      <match date="2020-01-18" home="1" matchNum="1">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>Exeter Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="2">
+        <team1>London Raptors 2</team1>
+        <team2>Guildford Gators</team2>
+        <score>21 - 2</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="3">
+        <team1>Plymouth Uni</team1>
+        <team2>Bath Uni</team2>
+        <score>13 - 6</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="4">
+        <team1>Oxford Owls</team1>
+        <team2>Loughborough Uni</team2>
+        <score>11 - 13</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="5">
+        <team1>Plymouth Privateers</team1>
+        <team2>British Army</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="6">
+        <team1>Canterbury City</team1>
+        <team2>Camden Capybaras 2</team2>
+        <score>6 - 2</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="7">
+        <team1>Hitchin A</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>11 - 7</score>
+      </match>
+      <match date="2020-01-18" home="1" matchNum="8">
+        <team1>Imperial College</team1>
+        <team2>Spencer 4</team2>
+        <score>11 - 3</score>
+      </match>
+    </round>
+    <round name="Quarter Final" date="2020-02-15" short="QF">
+      <match date="2020-02-15" home="1" matchNum="1">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>London Raptors 2</team2>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="2">
+        <team1>Plymouth Uni</team1>
+        <team2>Loughborough Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="3">
+        <team1>Plymouth Privateers</team1>
+        <team2>Canterbury City</team2>
+        <score>0 - 10</score>
+      </match>
+      <match date="2020-02-15" home="1" matchNum="4">
+        <team1>Hitchin A</team1>
+        <team2>Imperial College</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2020-04-04" short="SF">
+      <match date="2020-04-04" home="1" matchNum="1">
+        <team2>Plymouth Uni</team2>
+      </match>
+      <match date="2020-04-04" home="1" matchNum="2">
+        <team1>Canterbury City</team1>
+        <team2>Hitchin A</team2>
+      </match>
+    </round>
+    <round name="Final" date="2020-04-18">
+      <match date="2020-04-18" matchNum="1" />
+    </round>
+    <remarks>The competition was declared void because of the COVID-19 pandemic.</remarks>
+  </flags-competition>
+</flags>

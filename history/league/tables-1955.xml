@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1955">
+<division><division-name>Senior Championship</division-name>
+<team><team-name>Hampstead</team-name><won>12</won><drawn>0</drawn><lost>1</lost><points>24</points><for>167</for><against>45</against></team>
+<team><team-name>Lee</team-name><won>11</won><drawn>0</drawn><lost>3</lost><points>22</points><for>175</for><against>80</against></team>
+<team><team-name>Purley</team-name><won>9</won><drawn>0</drawn><lost>3</lost><points>18</points><for>91</for><against>56</against></team>
+<team><team-name>Kenton</team-name><won>8</won><drawn>0</drawn><lost>5</lost><points>16</points><for>95</for><against>62</against></team>
+<team><team-name>Old Dunstonians</team-name><won>4</won><drawn>2</drawn><lost>8</lost><points>10</points><for>85</for><against>99</against></team>
+<team><team-name>Old Thorntonians</team-name><won>4</won><drawn>2</drawn><lost>7</lost><points>10</points><for>75</for><against>129</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>1</won><drawn>2</drawn><lost>11</lost><points>4</points><for>74</for><against>145</against></team>
+<team><team-name>Old Sedcopians</team-name><won>1</won><drawn>0</drawn><lost>12</lost><points>2</points><for>48</for><against>192</against></team>
+</division>
+<division><division-name>Junior Championship</division-name>
+<team><team-name>Purley II</team-name><won>8</won><drawn>2</drawn><lost>0</lost><points>18</points><for>89</for><against>32</against></team>
+<team><team-name>Beckenham</team-name><won>6</won><drawn>0</drawn><lost>4</lost><points>12</points><for>51</for><against>45</against></team>
+<team><team-name>Chislehurst &amp; Sidcup Grammar School</team-name><won>4</won><drawn>3</drawn><lost>2</lost><points>11</points><for>27</for><against>28</against></team>
+<team><team-name>Henry Thornton School</team-name><won>4</won><drawn>1</drawn><lost>4</lost><points>9</points><for>30</for><against>44</against></team>
+<team><team-name>Buckhurst Hill II</team-name><won>4</won><drawn>0</drawn><lost>6</lost><points>8</points><for>56</for><against>75</against></team>
+<team><team-name>Hampstead II</team-name><won>0</won><drawn>0</drawn><lost>10</lost><points>0</points><for>17</for><against>46</against></team>
+</division>
+</league-tables>

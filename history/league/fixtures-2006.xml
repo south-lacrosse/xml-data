@@ -1,0 +1,2887 @@
+<fixtures>
+<fixture>
+<date>2005-09-24</date>
+<home-team>UWIC</home-team>
+<away-team>Bath</away-team>
+<competition>Friendly</competition>
+<home-goals>7</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Friendly</competition>
+<home-goals>6</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Hampstead</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>23</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Hillcroft</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Bath Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>11</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-01</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Bath</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Penarth</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>4</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Spencer</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>4</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>12</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>0</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-08</date>
+<home-team>UWIC</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-12</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-12</date>
+<home-team>Keele Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>4</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>21</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Croydon</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Hitchin A</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>7</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>26</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Hampstead</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>21</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Purley</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>0</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Bath Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>19</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-15</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>1</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-19</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-19</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>5</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Canterbury</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>RMAS</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>UEA</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>26</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>London Uni</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Bath</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Hitchin</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Spencer</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>9</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-22</date>
+<home-team>UWIC</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>8</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-23</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Bath 2nds</away-team>
+<competition>Friendly</competition>
+<home-goals>5</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-26</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-26</date>
+<home-team>Keele Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Canterbury</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>London Uni</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East &amp; Mnr Flags R1</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>2</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>8</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Penarth</home-team>
+<away-team>Spencer</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>14</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>13</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Croydon</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>12</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Hitchin A</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>22</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>UEA</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>9</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-10-29</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>18</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>29</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>19</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Croydon</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Hitchin A</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>17</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>9</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Hampstead</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Penarth</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>3</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>2</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Bath Uni</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>1</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>4</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>5</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>0</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mid Flags R1</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mid Flags R1</competition>
+<home-goals>3</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-05</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mid Flags R1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-09</date>
+<home-team>Keele Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-09</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>11</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Canterbury</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>22</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>East Grinstead</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>12</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>RMAS</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>UEA</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>8</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>London Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>3</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Bath</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>4</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Hillcroft</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Spencer</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>19</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Bath Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>27</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-12</date>
+<home-team>UWIC</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-16</date>
+<home-team>Liverpool Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Friendly</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-16</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>8</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>27</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Croydon</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Hitchin A</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>6</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>15</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>14</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Hillcroft</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Hampstead</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>24</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Purley</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Spencer</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>15</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-19</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>0</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-23</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>14</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Snr Flags R2</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Hampstead</home-team>
+<away-team>Penarth</away-team>
+<competition>Snr Flags R2</competition>
+<home-goals>24</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Purley</home-team>
+<away-team>Bath</away-team>
+<competition>Snr Flags R2</competition>
+<home-goals>17</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hitchin</away-team>
+<competition>Snr Flags R2</competition>
+<home-goals>10</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>1</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>19</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>21</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Bath Uni</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>4</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>London Uni</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>3</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>RMAS</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>UWIC</home-team>
+<away-team>UEA</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>11</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-26</date>
+<home-team>Canterbury</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>2</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-27</date>
+<home-team>Keele Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-30</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-11-30</date>
+<home-team>Keele Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>8</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Canterbury</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>RMAS</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>London Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>3</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>3</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Keele Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Hitchin</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Penarth</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>5</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-03</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-07</date>
+<home-team>Keele Uni</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-07</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>3</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>East Grinstead</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Northampton Uni</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>London Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>22</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>29</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Bath</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Hitchin</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Purley</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>23</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>17</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>8</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>20</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-10</date>
+<home-team>UWIC</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>2</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-11</date>
+<home-team>Bristol Sharks 2</home-team>
+<away-team>Southampton Tridents 2</away-team>
+<competition>Friendly</competition>
+<home-goals>1</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-11</date>
+<home-team>Bath Uni</home-team>
+<away-team>Bath 2</away-team>
+<competition>Friendly</competition>
+<home-goals>8</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-14</date>
+<home-team>UWIC</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>14</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Bath</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Hitchin</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Penarth</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Spencer</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2005-12-17</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>1</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-07</date>
+<home-team>Hitchin</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-07</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-07</date>
+<home-team>Bath</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Croydon</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>East Grinstead</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>11</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Hitchin A</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Royal Holloway</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>UEA</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Purley</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>15</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Hitchin</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Bath Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>17</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>2</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-14</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>4</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-18</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-18</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>23</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>East Grinstead</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>16</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>RMAS</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>UEA</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>18</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>7</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>19</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Hillcroft</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Hitchin</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>22</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Spencer</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>15</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>1</home-goals>
+<away-goals>27</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-21</date>
+<home-team>UWIC</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-22</date>
+<home-team>Bath 2</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>Friendly</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-25</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-25</date>
+<home-team>Keele Uni</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>3</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Croydon</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>14</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>RMAS</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>3</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>3</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>London Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>9</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>9</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Hampstead</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Penarth</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Purley</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>Friendly</competition>
+<home-goals>14</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>1</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Bath Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>9</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>4</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-01-28</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>0</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-01</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mid Flags SF</competition>
+<home-goals>8</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hampstead</away-team>
+<competition>Snr Flags SF</competition>
+<home-goals>2</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>Snr Flags SF</competition>
+<home-goals>9</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>11</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>9</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>East Grinstead</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>17</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>UWIC</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>3</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-04</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mid Flags SF</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-05</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-05</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>3</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-08</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-08</date>
+<home-team>Nottingham Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>2</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-08</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Croydon</away-team>
+<competition>East</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>12</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Canterbury</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>East Grinstead</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Hitchin A</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>UEA</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>8</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Hillcroft</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Hitchin</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>21</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Purley</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Spencer</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>13</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>8</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-11</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-15</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Croydon</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>18</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>East Grinstead</home-team>
+<away-team>UEA</away-team>
+<competition>East</competition>
+<home-goals>17</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Hitchin A</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East</competition>
+<home-goals>8</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>1</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Hertfordshire Comets</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>London Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Penarth</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Purley</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Hampstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>9</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Oxford Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>14</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>West</competition>
+<home-goals>1</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>0</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-18</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-22</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>8</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-22</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-22</date>
+<home-team>Keele Uni</home-team>
+<away-team>Liverpool Uni</away-team>
+<competition>Friendly</competition>
+<home-goals>6</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Canterbury</home-team>
+<away-team>London Uni</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Croydon</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>East</competition>
+<home-goals>13</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>RMAS</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East</competition>
+<home-goals>4</home-goals>
+<away-goals>22</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>UEA</home-team>
+<away-team>Hertfordshire Comets</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East</competition>
+<home-goals>2</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Bath</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Penarth</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Hitchin</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>1</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Bath Uni</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>13</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Bristol Sharks</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>2</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-25</date>
+<home-team>UWIC</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>6</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-02-26</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Royal Holloway</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-01</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>3</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-01</date>
+<home-team>Keele Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-01</date>
+<home-team>UWIC</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Rearranged matches</home-team>
+<competition>East</competition>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>UWIC</home-team>
+<away-team>Cardiff Uni</away-team>
+<competition>Friendly</competition>
+<home-goals>4</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Bath</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Hampstead</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Hillcroft</home-team>
+<away-team>Penarth</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Purley</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>18</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>Varsity</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Bath Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>2</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Swindon Raptors</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>UWIC</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>UEA</home-team>
+<away-team>Canterbury</away-team>
+<competition>East</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-04</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East</competition>
+<home-goals>5</home-goals>
+<away-goals>22</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-05</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-08</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-08</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>11</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Keele Uni</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Penarth</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Spencer</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>West</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>UWIC</away-team>
+<competition>West</competition>
+<home-goals>9</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Swindon Raptors</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East Playoffs R1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>UEA</away-team>
+<competition>East Playoffs R1</competition>
+<home-goals>16</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>London Uni</away-team>
+<competition>East Playoffs R1</competition>
+<home-goals>12</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>East Grinstead</home-team>
+<away-team>Croydon</away-team>
+<competition>East Playoffs R1</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Royal Holloway</home-team>
+<away-team>Hitchin A</away-team>
+<competition>Friendly</competition>
+<home-goals>2</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Penarth</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Friendly</competition>
+<home-goals>16</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-11</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Loughborough Uni</away-team>
+<competition>Mids</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-15</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Keele Uni</away-team>
+<competition>Mids</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-15</date>
+<home-team>Loughborough Uni</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mids</competition>
+<home-goals>10</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>UWIC</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mids</competition>
+<home-goals>0</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>Hampstead</home-team>
+<away-team>Purley</away-team>
+<competition>Snr Flags Final</competition>
+<home-goals>12</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>Int Flags Final</competition>
+<home-goals>10</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>East Grinstead</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>Mnr Flags Final</competition>
+<home-goals>10</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-18</date>
+<home-team>Gloucester Uni 2</home-team>
+<away-team>Nottingham Uni</away-team>
+<competition>Mid Flags Final</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>East Grinstead</away-team>
+<competition>East Playoffs SF</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East Playoffs SF</competition>
+<home-goals>6</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Hampstead</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Penarth</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>East Grinstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Friendly</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-03-25</date>
+<home-team>Bath Uni</home-team>
+<away-team>Bristol Sharks</away-team>
+<competition>West</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2006-04-01</date>
+<home-team>East Grinstead</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>East Playoffs Final</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2006-04-01</date>
+<home-team>Penarth</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2006-04-29</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Mids</competition>
+<home-goals>7</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2006-05-06</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>EvW Playoff</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2006-05-06</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Gloucester Uni 2</away-team>
+<competition>Mids</competition>
+<home-goals>4</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+</fixtures>

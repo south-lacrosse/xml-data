@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1968">
+<division><division-name>Division 1</division-name>
+<team><team-name>Lee</team-name><won>9</won><drawn>0</drawn><lost>0</lost><points>18</points><for>115</for><against>25</against></team>
+<team><team-name>London Uni</team-name><won>5</won><drawn>0</drawn><lost>5</lost><points>10</points><for>60</for><against>65</against></team>
+<team><team-name>Purley</team-name><won>4</won><drawn>0</drawn><lost>4</lost><points>8</points><for>64</for><against>74</against></team>
+<team><team-name>Hampstead</team-name><won>4</won><drawn>0</drawn><lost>5</lost><points>8</points><for>39</for><against>53</against></team>
+<team><team-name>Kenton</team-name><won>2</won><drawn>1</drawn><lost>5</lost><points>5</points><for>35</for><against>48</against></team>
+<team><team-name>Addiscombe</team-name><won>2</won><drawn>1</drawn><lost>7</lost><points>5</points><for>51</for><against>99</against></team>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>Lee A</team-name><won>13</won><drawn>2</drawn><lost>0</lost><points>28</points><for>138</for><against>37</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>13</won><drawn>0</drawn><lost>2</lost><points>26</points><for>142</for><against>63</against></team>
+<team><team-name>St Helier</team-name><won>12</won><drawn>1</drawn><lost>3</lost><points>25</points><for>141</for><against>79</against></team>
+<team><team-name>Beckenham</team-name><won>8</won><drawn>1</drawn><lost>7</lost><points>17</points><for>124</for><against>72</against></team>
+<team><team-name>Croydon</team-name><won>7</won><drawn>0</drawn><lost>9</lost><points>14</points><for>101</for><against>132</against></team>
+<team><team-name>Westminster College</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>36</for><against>63</against></team>
+<team><team-name>Oxford Iroquois</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>29</for><against>51</against></team>
+<team><team-name>Old Sedcopians</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>80</for><against>175</against></team>
+<team><team-name>Purley A</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>78</for><against>197</against></team>
+</division>
+<division><division-name>Division 3</division-name>
+<team><team-name>Hampstead A</team-name><won>20</won><drawn>0</drawn><lost>2</lost><points>40</points><for>148</for><against>42</against></team>
+<team><team-name>Avery Hill</team-name><won>16</won><drawn>2</drawn><lost>4</lost><points>34</points><for>88</for><against>30</against></team>
+<team><team-name>Cambridge Eagles</team-name><won>16</won><drawn>0</drawn><lost>6</lost><points>32</points><for>84</for><against>44</against></team>
+<team><team-name>Beckenham A</team-name><won>12</won><drawn>0</drawn><lost>9</lost><points>24</points><for>77</for><against>86</against></team>
+<team><team-name>St Helier A</team-name><won>11</won><drawn>0</drawn><lost>10</lost><points>22</points><for>61</for><against>68</against></team>
+<team><team-name>Lee B</team-name><won>10</won><drawn>0</drawn><lost>8</lost><points>20</points><for>103</for><against>52</against></team>
+<team><team-name>Henry Thornton School</team-name><won>9</won><drawn>2</drawn><lost>8</lost><points>20</points><for>53</for><against>59</against></team>
+<team><team-name>Croydon A</team-name><won>7</won><drawn>1</drawn><lost>13</lost><points>15</points><for>61</for><against>139</against></team>
+<team><team-name>London Uni A</team-name><won>6</won><drawn>0</drawn><lost>10</lost><points>12</points><for>28</for><against>35</against></team>
+<team><team-name>Marjons</team-name><won>4</won><drawn>0</drawn><lost>14</lost><points>8</points><for>37</for><against>102</against></team>
+<team><team-name>Old Sedcopians A</team-name><won>4</won><drawn>0</drawn><lost>14</lost><points>8</points><for>15</for><against>76</against></team>
+<team><team-name>Purley B</team-name><won>2</won><drawn>1</drawn><lost>19</lost><points>5</points><for>10</for><against>32</against></team>
+</division>
+</league-tables>

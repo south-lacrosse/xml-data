@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1994">
+  <division>
+    <division-name>Division 1</division-name>
+    <team>
+      <team-name minimal="Hcroft">Hillcroft</team-name>
+      <won>15</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>30</points>
+      <for>168</for>
+      <against>66</against>
+    </team>
+    <team>
+      <team-name>Kenton</team-name>
+      <won>13</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>26</points>
+      <for>209</for>
+      <against>86</against>
+    </team>
+    <team>
+      <team-name>Purley</team-name>
+      <won>10</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>20</points>
+      <for>156</for>
+      <against>115</against>
+    </team>
+    <team>
+      <team-name>Bath</team-name>
+      <won>9</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <deducted>2</deducted>
+      <points>16</points>
+      <for>117</for>
+      <against>101</against>
+    </team>
+    <team>
+      <team-name>Croydon </team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>10</lost>
+      <deducted>1</deducted>
+      <points>11</points>
+      <for>100</for>
+      <against>180</against>
+    </team>
+    <team>
+      <team-name short="Bucks">Buckhurst Hill</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>11</lost>
+      <deducted>1</deducted>
+      <points>9</points>
+      <for>108</for>
+      <against>152</against>
+    </team>
+    <team>
+      <team-name>Hitchin</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>11</lost>
+      <points>8</points>
+      <for>78</for>
+      <against>144</against>
+    </team>
+    <team>
+      <team-name>Beckenham</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>13</lost>
+      <points>6</points>
+      <for>108</for>
+      <against>200</against>
+    </team>
+    <team>
+      <team-name minimal="Hampstd">Hampstead</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>10</lost>
+      <deducted>4</deducted>
+      <points>5</points>
+      <for>107</for>
+      <against>84</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 2</division-name>
+    <team>
+      <team-name minimal="Oxford">Oxford Uni</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>24</points>
+      <for>107</for>
+      <against>16</against>
+    </team>
+    <team>
+      <team-name short="London">London Uni</team-name>
+      <won>9</won>
+      <drawn>1</drawn>
+      <lost>2</lost>
+      <points>19</points>
+      <for>139</for>
+      <against>60</against>
+    </team>
+    <team>
+      <team-name>Enfield</team-name>
+      <won>9</won>
+      <drawn>1</drawn>
+      <lost>5</lost>
+      <deducted>1</deducted>
+      <points>19</points>
+      <for>114</for>
+      <against>86</against>
+    </team>
+    <team>
+      <team-name>Orpington</team-name>
+      <won>7</won>
+      <drawn>1</drawn>
+      <lost>7</lost>
+      <points>15</points>
+      <for>126</for>
+      <against>95</against>
+    </team>
+    <team>
+      <team-name short="Cambridge" minimal="Camb">Cambridge Uni</team-name>
+      <won>5</won>
+      <drawn>1</drawn>
+      <lost>6</lost>
+      <points>11</points>
+      <for>53</for>
+      <against>50</against>
+    </team>
+    <team>
+      <team-name>Tatsfield</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>12</lost>
+      <points>4</points>
+      <for>57</for>
+      <against>145</against>
+    </team>
+    <team>
+      <team-name>Southampton</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>12</lost>
+      <deducted>1</deducted>
+      <points>0</points>
+      <for>11</for>
+      <against>153</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 3</division-name>
+    <team>
+      <team-name minimal="Hcroft A">Hillcroft A</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>38</points>
+      <for>152</for>
+      <against>48</against>
+    </team>
+    <team>
+      <team-name>Kenton A</team-name>
+      <won>11</won>
+      <drawn>1</drawn>
+      <lost>2</lost>
+      <points>37</points>
+      <for>124</for>
+      <against>62</against>
+    </team>
+    <team>
+      <team-name minimal="Htchn A">Hitchin A</team-name>
+      <won>7</won>
+      <drawn>1</drawn>
+      <lost>4</lost>
+      <points>26</points>
+      <for>46</for>
+      <against>47</against>
+    </team>
+    <team>
+      <team-name>Croydon A</team-name>
+      <won>6</won>
+      <drawn>2</drawn>
+      <lost>4</lost>
+      <points>25</points>
+      <for>61</for>
+      <against>64</against>
+    </team>
+    <team>
+      <team-name>Purley A</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>24</points>
+      <for>44</for>
+      <against>67</against>
+    </team>
+    <team>
+      <team-name>Bath A</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>15</points>
+      <for>27</for>
+      <against>96</against>
+    </team>
+    <team>
+      <team-name>Buckhurst Hill A</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>10</points>
+      <for>13</for>
+      <against>15</against>
+    </team>
+    <team>
+      <team-name>Cambridge Eagles</team-name>
+      <won>0</won>
+      <drawn>2</drawn>
+      <lost>12</lost>
+      <points>8</points>
+      <for>24</for>
+      <against>61</against>
+    </team>
+    <remarks>Division 3 was also known as the A Team Division</remarks>
+  </division>
+</league-tables>

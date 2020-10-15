@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1998" cols="pts-avg">
+  <division>
+    <division-name>Premier Division</division-name>
+    <team>
+      <team-name>Purley</team-name>
+      <won>14</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>28</points>
+      <for>202</for>
+      <against>80</against>
+    </team>
+    <team>
+      <team-name minimal="Hampstd">Hampstead</team-name>
+      <won>11</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <deducted>1</deducted>
+      <points>21</points>
+      <for>243</for>
+      <against>131</against>
+    </team>
+    <team>
+      <team-name>Kenton</team-name>
+      <won>10</won>
+      <drawn>1</drawn>
+      <lost>5</lost>
+      <points>21</points>
+      <for>167</for>
+      <against>109</against>
+    </team>
+    <team>
+      <team-name minimal="Hcroft">Hillcroft</team-name>
+      <won>9</won>
+      <drawn>1</drawn>
+      <lost>6</lost>
+      <points>19</points>
+      <for>142</for>
+      <against>110</against>
+    </team>
+    <team>
+      <team-name>Bath</team-name>
+      <won>10</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <deducted>1</deducted>
+      <points>19</points>
+      <for>105</for>
+      <against>147</against>
+    </team>
+    <team>
+      <team-name>Hitchin</team-name>
+      <won>7</won>
+      <drawn>2</drawn>
+      <lost>7</lost>
+      <points>16</points>
+      <for>104</for>
+      <against>128</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 1</division-name>
+    <team>
+      <team-name>Croydon </team-name>
+      <won>11</won>
+      <drawn>2</drawn>
+      <lost>6</lost>
+      <deducted>1</deducted>
+      <points>23</points>
+      <for>121</for>
+      <against>86</against>
+    </team>
+    <team>
+      <team-name>Beckenham</team-name>
+      <won>10</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>21</points>
+      <for>111</for>
+      <against>136</against>
+    </team>
+    <team>
+      <team-name minimal="Oxford">Oxford Uni</team-name>
+      <won>5</won>
+      <drawn>1</drawn>
+      <lost>5</lost>
+      <deducted>2</deducted>
+      <points>9</points>
+      <for>71</for>
+      <against>88</against>
+    </team>
+    <team>
+      <team-name short="Bucks">Buckhurst Hill</team-name>
+      <won>9</won>
+      <drawn>1</drawn>
+      <lost>10</lost>
+      <deducted>5</deducted>
+      <points>14</points>
+      <for>50</for>
+      <against>95</against>
+    </team>
+    <team>
+      <team-name short="London">London Uni</team-name>
+      <won>5</won>
+      <drawn>1</drawn>
+      <lost>9</lost>
+      <deducted>5</deducted>
+      <points>6</points>
+      <for>70</for>
+      <against>95</against>
+    </team>
+    <team>
+      <team-name>Tatsfield</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>13</lost>
+      <deducted>3</deducted>
+      <points>7</points>
+      <for>41</for>
+      <against>116</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 2</division-name>
+    <team>
+      <team-name minimal="Htchn A">Hitchin A</team-name>
+      <won>9</won>
+      <drawn>2</drawn>
+      <lost>2</lost>
+      <points>20</points>
+      <for>41</for>
+      <against>33</against>
+    </team>
+    <team>
+      <team-name>Bath Uni</team-name>
+      <won>11</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>22</points>
+      <for>39</for>
+      <against>56</against>
+    </team>
+    <team>
+      <team-name short="Portsmouth" minimal="Ports">Portsmouth Uni</team-name>
+      <won>11</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>22</points>
+      <for>41</for>
+      <against>54</against>
+    </team>
+    <team>
+      <team-name short="Cambridge" minimal="Camb">Cambridge Uni</team-name>
+      <won>10</won>
+      <drawn>2</drawn>
+      <lost>7</lost>
+      <points>22</points>
+      <for>48</for>
+      <against>61</against>
+    </team>
+    <team>
+      <team-name>Southampton Uni</team-name>
+      <won>8</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>16</points>
+      <for>33</for>
+      <against>52</against>
+    </team>
+  </division>
+</league-tables>

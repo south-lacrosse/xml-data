@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1953">
+  <division>
+    <division-name>Senior Championship</division-name>
+    <team>
+      <team-name>Purley</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>24</points>
+      <for>224</for>
+      <against>75</against>
+    </team>
+    <team>
+      <team-name minimal="Hampstd">Hampstead</team-name>
+      <won>8</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>16</points>
+      <for>100</for>
+      <against>80</against>
+    </team>
+    <team>
+      <team-name short="Bucks">Buckhurst Hill</team-name>
+      <won>6</won>
+      <drawn>1</drawn>
+      <lost>4</lost>
+      <points>13</points>
+      <for>128</for>
+      <against>93</against>
+    </team>
+    <team>
+      <team-name>Lee</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>10</points>
+      <for>98</for>
+      <against>83</against>
+    </team>
+    <team>
+      <team-name>Kenton</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>10</points>
+      <for>82</for>
+      <against>78</against>
+    </team>
+    <team>
+      <team-name>Old Dunstonians</team-name>
+      <won>3</won>
+      <drawn>2</drawn>
+      <lost>5</lost>
+      <points>9</points>
+      <for>84</for>
+      <against>97</against>
+    </team>
+    <team>
+      <team-name>Old Thorntonians</team-name>
+      <won>1</won>
+      <drawn>2</drawn>
+      <lost>8</lost>
+      <points>4</points>
+      <for>45</for>
+      <against>153</against>
+    </team>
+    <team>
+      <team-name>Purley A</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>9</lost>
+      <points>0</points>
+      <for>24</for>
+      <against>126</against>
+    </team>
+  </division>
+</league-tables>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2016" name="Flags" short="Flag">
+  <flags-competition id="snr" name="Senior" short="Snr">
+    <round name="Round 1" date="2015-10-03" short="R1">
+      <match home="2" matchNum="3">
+        <team1>Reading Wildcats</team1>
+        <team2>Hitchin</team2>
+        <score>8 - 12</score>
+      </match>
+      <match home="2" matchNum="6">
+        <team1>Hampstead</team1>
+        <team2>Hillcroft</team2>
+        <score>11 - 10</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2015-11-14" short="R2">
+      <match home="2" matchNum="1">
+        <team1>Bristol Bombers</team1>
+        <team2>East Grinstead</team2>
+        <score>6 - 12</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Walcountian Blues</team2>
+        <score>6 - 10</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Hampstead</team2>
+        <score>4 - 19</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Purley</team1>
+        <team2>Spencer</team2>
+        <score>0 - 23</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2016-02-27" short="SF">
+      <match home="1" matchNum="1">
+        <team1>East Grinstead</team1>
+        <team2>Walcountian Blues</team2>
+        <score>5 - 8</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hampstead</team1>
+        <team2>Spencer</team2>
+        <score>11 - 12</score>
+      </match>
+    </round>
+    <round name="Final" date="2016-04-09">
+      <match matchNum="1">
+        <team1>Walcountian Blues</team1>
+        <team2>Spencer</team2>
+        <score>5 - 15</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" name="Intermediate" short="Int">
+    <round name="Final" date="2016-04-09">
+      <match matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Southampton</team2>
+        <score>20 - 3</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" name="Minor" short="Mnr">
+    <round name="Final" date="2016-04-09">
+      <match matchNum="1">
+        <team1>Hillcroft B</team1>
+        <team2>Plymouth City</team2>
+        <score>16 - 7</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

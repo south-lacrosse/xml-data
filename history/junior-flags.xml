@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="Junior Flags Winners">
+  <competitions>
+    <comp id="flags">Junior Flags</comp>
+    <comp id="u14flags">U14 Flags</comp>
+    <comp id="u12flags">U12 Flags</comp>
+  </competitions>
+  <season year="2017">
+    <winner compId="flags">Portsmouth Pythons</winner>
+    <winner compId="u14flags">Portsmouth Pythons</winner>
+    <winner compId="u12flags">Portsmouth Pythons</winner>
+  </season>
+  <season year="2015">
+    <winner compId="u14flags">ASL</winner>
+    <winner compId="u12flags">Spencer</winner>
+  </season>
+  <season year="2013">
+    <winner compId="flags">Reading Wildcats</winner>
+    <winner compId="u14flags">Walcountian Blues</winner>
+    <winner compId="u12flags">Spencer</winner>
+  </season>
+  <season year="1979">
+    <winner compId="flags">Ernest Bevin School</winner>
+  </season>
+  <season year="1978">
+    <winner compId="flags">Ernest Bevin School</winner>
+  </season>
+  <season year="1977">
+    <winner compId="flags">Ernest Bevin School</winner>
+  </season>
+  <season year="1976">
+    <winner compId="flags">Carshalton School</winner>
+  </season>
+  <season year="1975">
+    <winner compId="flags">Ernest Bevin School</winner>
+  </season>
+  <season year="1974">
+    <winner compId="flags">Carshalton School</winner>
+  </season>
+  <season year="1973">
+    <winner compId="flags">Carshalton School</winner>
+  </season>
+  <season year="1972">
+    <winner compId="flags">Swanley School</winner>
+  </season>
+  <season year="1971">
+    <winner compId="flags">Swanley School</winner>
+  </season>
+  <season year="1970">
+    <winner compId="flags">Sidcup</winner>
+  </season>
+  <season year="1969">
+    <winner compId="flags">Garth School</winner>
+  </season>
+  <season year="1968">
+    <winner compId="flags">Garth School</winner>
+  </season>
+  <season year="1967">
+    <winner compId="flags">Hillcroft School</winner>
+  </season>
+  <season year="1966">
+    <winner compId="flags">John Ruskin Grammar School</winner>
+  </season>
+  <season year="1965">
+    <winner compId="flags">John Ruskin Grammar School</winner>
+  </season>
+  <season year="1964">
+    <winner compId="flags">John Ruskin Grammar School</winner>
+  </season>
+  <season year="1963">
+    <winner compId="flags">Henry Thornton School</winner>
+  </season>
+  <season year="1962">
+    <winner compId="flags" rup="Chislehurst &amp; Sidcup Grammar School" result="13 - 2">Canterbury School</winner>
+  </season>
+  <season year="1961">
+    <winner compId="flags" rup="Chislehurst &amp; Sidcup Grammar School" result="8 - 3">Lee</winner>
+  </season>
+  <season year="1960">
+    <winner compId="flags">Lee</winner>
+  </season>
+  <season year="1959">
+    <winner compId="flags">Kenton</winner>
+  </season>
+  <season year="1958">
+    <winner compId="flags" rup="Chislehurst &amp; Sidcup Grammar School" result="28 - 1">Henry Thornton School</winner>
+  </season>
+  <season year="1957">
+    <winner compId="flags" rup="Chislehurst &amp; Sidcup Grammar School">Henry Thornton School</winner>
+  </season>
+  <season year="1956">
+    <winner compId="flags" rup="Chislehurst &amp; Sidcup Grammar School">Henry Thornton School</winner>
+  </season>
+  <season year="1955">
+    <winner compId="flags">Henry Thornton School</winner>
+  </season>
+  <season year="1954">
+    <winner compId="flags">Henry Thornton School</winner>
+  </season>
+</results>

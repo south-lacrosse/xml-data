@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1956">
+<division><division-name>Senior Championship</division-name>
+<team><team-name>Purley</team-name><won>13</won><drawn>0</drawn><lost>1</lost><points>26</points><for>144</for><against>58</against></team>
+<team><team-name>Kenton</team-name><won>11</won><drawn>0</drawn><lost>2</lost><points>22</points><for>147</for><against>43</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>9</won><drawn>0</drawn><lost>5</lost><points>18</points><for>146</for><against>105</against></team>
+<team><team-name>Lee</team-name><won>8</won><drawn>0</drawn><lost>6</lost><points>16</points><for>145</for><against>124</against></team>
+<team><team-name>Hampstead</team-name><won>7</won><drawn>1</drawn><lost>6</lost><points>15</points><for>131</for><against>138</against></team>
+<team><team-name>Old Sedcopians</team-name><won>2</won><drawn>1</drawn><lost>10</lost><points>5</points><for>84</for><against>141</against></team>
+<team><team-name>Old Thorntonians</team-name><won>2</won><drawn>1</drawn><lost>11</lost><points>5</points><for>81</for><against>188</against></team>
+<team><team-name>Old Dunstonians</team-name><won>1</won><drawn>1</drawn><lost>12</lost><points>3</points><for>83</for><against>164</against></team>
+</division>
+<division><division-name>Junior Championship</division-name>
+<team><team-name>Purley II</team-name><won>9</won><drawn>0</drawn><lost>1</lost><points>18</points><for>72</for><against>41</against></team>
+<team><team-name>Henry Thornton School</team-name><won>6</won><drawn>0</drawn><lost>2</lost><points>12</points><for>62</for><against>23</against></team>
+<team><team-name>Buckhurst Hill II</team-name><won>5</won><drawn>0</drawn><lost>4</lost><points>10</points><for>66</for><against>72</against></team>
+<team><team-name>Hampstead II</team-name><won>5</won><drawn>0</drawn><lost>3</lost><points>10</points><for>43</for><against>48</against></team>
+<team><team-name>Beckenham</team-name><won>2</won><drawn>0</drawn><lost>7</lost><points>4</points><for>27</for><against>31</against></team>
+<team><team-name>Chislehurst &amp; Sidcup Grammar School</team-name><won>0</won><drawn>0</drawn><lost>10</lost><points>0</points><for>33</for><against>88</against></team>
+</division>
+</league-tables>

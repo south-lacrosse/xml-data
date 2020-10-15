@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2008">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Prelims" date="2007-10-27">
+      <match home="2" matchNum="3">
+        <team1>Spencer</team1>
+        <team2>Swansea Hawks</team2>
+        <score>12 - 5</score>
+      </match>
+    </round>
+    <round name="Round 1" short="R1" date="2007-11-24">
+      <match home="2" matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Purley</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Spencer</team1>
+        <team2>Hillcroft</team2>
+        <score>19 - 2</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Hitchin</team1>
+        <team2>East Grinstead</team2>
+        <score>21 - 4</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Walcountian Blues</team1>
+        <team2>Hampstead</team2>
+        <score>7 - 14</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2008-02-16">
+      <match home="1" matchNum="1">
+        <team1>Purley</team1>
+        <team2>Spencer</team2>
+        <score>14 - 4</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hitchin</team1>
+        <team2>Hampstead</team2>
+        <score>5 - 14</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-15">
+      <match matchNum="1">
+        <team1>Purley</team1>
+        <team2>Hampstead</team2>
+        <score>5 - 13</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Prelims" date="2007-10-27">
+      <match home="1" matchNum="2">
+        <team1>UEA</team1>
+        <team2>Oxford Uni</team2>
+        <score>4 - 23</score>
+      </match>
+      <match home="1" matchNum="15">
+        <team1>Cambridge Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>12 - 7</score>
+      </match>
+    </round>
+    <round name="Round 1" short="R1" date="2007-11-24">
+      <match home="1" matchNum="1">
+        <team1>UWIC</team1>
+        <team2>Oxford Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bristol Bombers</team2>
+        <score>4 - 16</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>8 - 6</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bath Uni</team1>
+        <team2>Cheltenham</team2>
+        <score>5 - 16</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Walcountian Blues 2</team1>
+        <team2>London Uni</team2>
+        <score>9 - 6</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Hertfordshire Comets</team1>
+        <team2>Southampton Tridents</team2>
+        <score>8 - 11</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>Croydon</team1>
+        <team2>Cardiff Uni</team2>
+        <score>15 - 3</score>
+      </match>
+      <match home="2" matchNum="8">
+        <team1>Cambridge Uni</team1>
+        <team2>Bath</team2>
+        <score>3 - 9</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2008-01-19">
+      <match home="2" matchNum="1">
+        <team1>Oxford Uni</team1>
+        <team2>Bristol Bombers</team2>
+        <score>7 - 15</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Cheltenham</team2>
+        <score>10 - 5</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Southampton Tridents</team2>
+        <score>11 - 7</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Croydon</team1>
+        <team2>Bath</team2>
+        <score>5 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2008-02-16">
+      <match home="1" matchNum="1">
+        <team1>Bristol Bombers</team1>
+        <team2>Cardiff Harlequins</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Bath</team2>
+        <score>7 - 15</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-15">
+      <match matchNum="1">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Bath</team2>
+        <score>10 - 7</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="2007-11-24">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Royal Navy Yeovil</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Penarth</team1>
+        <team2>Royal Holloway</team2>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Swansea Hawks 2</team1>
+        <team2>Spencer 2</team2>
+        <score>3 - 11</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>East Grinstead A</team1>
+        <team2>Brighton Panthers</team2>
+        <score>6 - 7</score>
+      </match>
+      <match home="2" matchNum="5">
+        <team1>Bristol Sharks</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>2 - 5</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Northampton Uni</team1>
+        <team2>Canterbury</team2>
+        <score>17 - 0</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>Southampton Tridents 2</team1>
+        <team2>RMAS</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="8">
+        <team1>East Coast</team1>
+        <team2>Exeter Uni</team2>
+        <score>13 - 2</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2008-01-19">
+      <match home="2" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Royal Holloway</team2>
+        <score>10 - 5</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Spencer 2</team1>
+        <team2>Brighton Panthers</team2>
+        <score>8 - 11</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Portsmouth Uni</team1>
+        <team2>Northampton Uni</team2>
+        <score>13 - 7</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Southampton Tridents 2</team1>
+        <team2>East Coast</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2008-02-16">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Brighton Panthers</team2>
+        <score>7 - 11</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Portsmouth Uni</team1>
+        <team2>East Coast</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-15">
+      <match matchNum="1">
+        <team1>Brighton Panthers</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>10 - 2</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mids" name="Midlands" short="Mid">
+    <round name="Round 1" short="R1" date="2007-11-24">
+      <match home="2" matchNum="1">
+        <team1>Aberystwyth Uni</team1>
+        <team2>Nottingham Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Birmingham Bulls</team1>
+        <team2>Keele Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Loughborough Uni</team1>
+        <team2>Warwick Uni</team2>
+        <score>10 - 5</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Staffordshire Uni</team1>
+        <team2>Gloucester Uni</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2008-02-16">
+      <match home="1" matchNum="1">
+        <team1>Nottingham Uni</team1>
+        <team2>Birmingham Bulls</team2>
+        <score>9 - 11</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Loughborough Uni</team1>
+        <team2>Gloucester Uni</team2>
+        <score>9 - 3</score>
+      </match>
+    </round>
+    <round name="Final" date="2008-03-15">
+      <match matchNum="1">
+        <team1>Birmingham Bulls</team1>
+        <team2>Loughborough Uni</team2>
+        <score>12 - 7</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>
+

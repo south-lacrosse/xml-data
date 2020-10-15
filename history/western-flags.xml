@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="Western Region Flags">
+  <competitions prefix="Western Region">
+    <comp id="snr" alt="western-flags-senior">Senior Flags</comp>
+    <comp id="jnr">Junior Flags</comp>
+  </competitions>
+  <season year="1936">
+    <winner compId="snr" rup="Keynsham &amp; Brislington" result="11 - 1">Fairfield</winner>
+  </season>
+  <season year="1935">
+    <winner compId="snr" rup="Bristol Uni" result="11 - 7">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1934">
+    <winner compId="snr" rup="Brislington" result="23 - 2">WD &amp; HO Wills</winner>
+    <winner compId="jnr" rup="Bristol Uni II ?" result="5 - 3">WD &amp; HO Wills II</winner>
+  </season>
+  <season year="1933">
+    <winner compId="snr" rup="Fairfield" result="15 - 5">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1932">
+    <winner compId="snr" rup="Keynsham" result="12 - 5">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1931">
+    <winner compId="snr" rup="Keynsham" result="10 - 5">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1930">
+    <winner compId="snr" rup="Keynsham" result="8 - 3">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1929">
+    <winner compId="snr">Clifton</winner>
+    <winner compId="jnr">Keynesham II</winner>
+  </season>
+  <season year="1928">
+    <winner compId="snr" rup="WD &amp; HO Wills" result="9 - 8">Keynsham</winner>
+    <winner compId="jnr" rup="Keynesham II" result="9 - 6">Clifton II</winner>
+  </season>
+  <season year="1927">
+    <winner compId="snr" rup="Clifton South" result="5 - 2">WD &amp; HO Wills</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1926">
+    <winner compId="snr" rup="Clifton South" result="11 - 0">Keynsham</winner>
+    <winner compId="jnr">Keynesham II</winner>
+  </season>
+  <season year="1925">
+    <winner compId="snr" rup="Clifton South" result="6 - 1">WD &amp; HO Wills</winner>
+    <winner compId="jnr" rup="Bishopston" result="4 - 3">Clifton North</winner>
+  </season>
+  <season year="1924">
+    <winner compId="snr" rup="Clifton" result="12 - 2">Keynsham</winner>
+    <winner compId="jnr">Keynesham II</winner>
+  </season>
+  <season year="1923">
+    <winner compId="snr" rup="Keynsham" result="9 - 4">Clifton</winner>
+    <winner compId="jnr">Keynesham II</winner>
+  </season>
+  <season year="1922">
+    <winner compId="snr" rup="Clifton South" result="9 - 8">Bishopston</winner>
+  </season>
+  <season year="1921">
+    <winner compId="snr">Keynsham</winner>
+  </season>
+  <season year="1920">
+    <winner compId="snr">Keynsham</winner>
+  </season>
+  <season year="1914">
+    <winner compId="snr" rup="Clifton North" result="12 - 5">Cardiff</winner>
+    <winner compId="jnr">Bishopston II</winner>
+  </season>
+  <season year="1913">
+    <winner compId="snr">Cardiff</winner>
+    <winner compId="jnr">Bristol Uni</winner>
+  </season>
+  <season year="1912">
+    <winner compId="snr">Cardiff</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1911">
+    <winner compId="snr">Cardiff</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1910">
+    <winner compId="snr">Cardiff</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1909">
+    <winner compId="snr">Fairfield</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1908">
+    <winner compId="snr">Cardiff</winner>
+    <winner compId="jnr">Bristol II</winner>
+  </season>
+  <season year="1907">
+    <winner compId="snr" rup="Fairfield" result="3 - 2">Cardiff</winner>
+    <winner compId="jnr">Fairfield II</winner>
+  </season>
+  <season year="1906">
+    <winner compId="snr">WD &amp; HO Wills</winner>
+    <winner compId="jnr">Clifton II</winner>
+  </season>
+  <season year="1905">
+    <winner compId="snr">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1904">
+    <winner compId="snr">WD &amp; HO Wills</winner>
+  </season>
+  <season year="1903">
+    <winner compId="snr" rup="Bristol">Fairfield</winner>
+  </season>
+</results>

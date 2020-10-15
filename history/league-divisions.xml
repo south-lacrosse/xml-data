@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league-divisions>  
+  <divisions year-start="2020" year-end="9999">
+    <division-name>Premier Division</division-name>
+    <division-name>Division 1</division-name>
+    <division-name>Division 2</division-name>
+    <division-name>East (North)</division-name>
+    <division-name>East (South)</division-name>
+    <division-name>West</division-name>
+  </divisions>
+  <divisions year-start="2019" year-end="2019">
+    <division-name>Premier Division</division-name>
+    <division-name>Division 1</division-name>
+    <division-name>Division 2</division-name>
+    <division-name>East (North)</division-name>
+    <division-name>East (South) D1</division-name>
+    <division-name>East (South) D2</division-name>
+    <division-name>West (North)</division-name>
+    <division-name>West (South)</division-name>
+  </divisions>
+  <divisions year-start="2009" year-end="2018">
+    <division-name>Premier Division</division-name>
+    <division-name>East One</division-name>
+    <division-name>East Two</division-name>
+    <division-name>East Three</division-name>
+    <division-name alias="West">West One</division-name>
+    <division-name>West Two</division-name>
+  </divisions>
+  <divisions year-start="2006" year-end="2008">
+    <division-name>Premier Division</division-name>
+    <division-name alias="East">East One</division-name>
+    <division-name>East Two</division-name>
+    <division-name alias="West">West One</division-name>
+    <division-name>West Two</division-name>
+    <division-name>Midlands</division-name>
+  </divisions>
+  <divisions year-start="2000" year-end="2005">
+    <division-name>Division 1</division-name>
+    <division-name>Division 2</division-name>
+    <division-name>Division 3</division-name>
+    <division-name>Division 4</division-name>
+  </divisions>
+  <divisions year-start="1998" year-end="1999">
+    <division-name>Premier Division</division-name>
+    <division-name>Division 1</division-name>
+    <division-name>Division 2</division-name>
+  </divisions>
+  <divisions year-start="1958" year-end="1997">
+    <division-name alias="Upper Conference">Division 1</division-name>
+    <division-name alias="Lower Conference">Division 2</division-name>
+    <division-name alias="Development Division">Division 3</division-name>
+    <division-name>Division 4</division-name>
+  </divisions>
+  <divisions year-start="0" year-end="1957">
+    <division-name>Senior Championship</division-name>
+    <division-name>Junior Championship</division-name>
+  </divisions>
+</league-divisions>

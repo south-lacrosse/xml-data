@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2011" name="Plate" short="Plt">
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2011-01-22">
+      <match home="2" matchNum="1">
+        <team1>Cardiff Harlequins A</team1>
+        <team2>Reading Wildcats 2</team2>
+        <score>7 - 8</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Warwick Uni</team1>
+        <team2>Penarth</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Colchester</team1>
+        <team2>Bath</team2>
+        <score>11 - 10</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Croydon</team1>
+        <team2>Swansea Hawks</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2011-02-19">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Penarth</team2>
+        <score>19 - 2</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Colchester</team1>
+        <team2>Swansea Hawks</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2011-04-09">
+      <match matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Colchester</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="2010-11-27">
+      <match home="1" matchNum="1">
+        <team1>Canterbury</team1>
+        <team2>Aberystwyth Uni</team2>
+        <score>25 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Welwyn Warriors 3</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Royal Holloway</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Northampton Town</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Maidstone</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="7">
+        <team1>Walcountian Blues 3</team1>
+        <team2>Cheltenham</team2>
+        <score>6 - 10</score>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>Bye</team1>
+        <team2>RAF Marham</team2>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2011-01-22">
+      <match home="1" matchNum="1">
+        <team1>Canterbury</team1>
+        <team2>Welwyn Warriors 3</team2>
+        <score>9 - 11</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Royal Holloway</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Northampton Town</team1>
+        <team2>Maidstone</team2>
+        <score>6 - 10</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Cheltenham</team1>
+        <team2>RAF Marham</team2>
+        <score>11 - 1</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2011-02-19">
+      <match home="1" matchNum="1">
+        <team1>Welwyn Warriors 3</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Maidstone</team1>
+        <team2>Cheltenham</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2011-04-09">
+      <match matchNum="1">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Maidstone</team2>
+        <score>8 - 3</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>
+

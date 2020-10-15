@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="Plate Winners">
+  <competitions suffix="Plate">
+    <comp id="int" alt="plate-int" short="Intermediate" match="Finals">Intermediate Plate</comp>
+    <comp id="mnr" alt="plate-minor" short="Minor" match="Finals">Minor Plate</comp>
+  </competitions>
+  <season year="2013" ref="plate/plate-2013.xml">
+    <winner compId="mnr" rup="Plymouth Uni" result="11 - 10 (SDOT3)">Swansea Hawks</winner>
+  </season>
+  <season year="2012" ref="plate/plate-2012.xml">
+    <winner compId="mnr" rup="Maidstone" result="11 - 6">Swansea Hawks</winner>
+  </season>
+  <season year="2011" ref="plate/plate-2011.xml">
+    <winner compId="int" rup="Colchester" result="10 - 0">Reading Wildcats 2</winner>
+    <winner compId="mnr" rup="Maidstone" result="8 - 3">Welwyn Warriors 2</winner>
+  </season>
+</results>

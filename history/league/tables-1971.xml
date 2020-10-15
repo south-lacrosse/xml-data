@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1971">
+  <division>
+    <division-name>Division 1</division-name>
+    <team>
+      <team-name>Lee</team-name>
+      <won>15</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>30</points>
+      <for>296</for>
+      <against>49</against>
+    </team>
+    <team>
+      <team-name minimal="Hampstd">Hampstead</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>24</points>
+      <for>225</for>
+      <against>115</against>
+    </team>
+    <team>
+      <team-name>Purley</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>24</points>
+      <for>225</for>
+      <against>128</against>
+    </team>
+    <team>
+      <team-name short="Bucks">Buckhurst Hill</team-name>
+      <won>11</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <points>22</points>
+      <for>175</for>
+      <against>127</against>
+    </team>
+    <team>
+      <team-name minimal="Oxford">Oxford Uni</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>10</lost>
+      <points>12</points>
+      <for>38</for>
+      <against>58</against>
+    </team>
+    <team>
+      <team-name>St Helier</team-name>
+      <won>4</won>
+      <drawn>1</drawn>
+      <lost>9</lost>
+      <points>9</points>
+      <for>71</for>
+      <against>192</against>
+    </team>
+    <team>
+      <team-name>Old Sedcopians</team-name>
+      <won>3</won>
+      <drawn>2</drawn>
+      <lost>11</lost>
+      <points>8</points>
+      <for>121</for>
+      <against>202</against>
+    </team>
+    <team>
+      <team-name>Beckenham</team-name>
+      <won>2</won>
+      <drawn>2</drawn>
+      <lost>11</lost>
+      <points>6</points>
+      <for>92</for>
+      <against>251</against>
+    </team>
+    <team>
+      <team-name short="London">London Uni</team-name>
+      <won>1</won>
+      <drawn>3</drawn>
+      <lost>12</lost>
+      <points>5</points>
+      <for>103</for>
+      <against>224</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 2</division-name>
+    <team>
+      <team-name>Croydon</team-name>
+      <won>13</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>26</points>
+      <for>227</for>
+      <against>112</against>
+    </team>
+    <team>
+      <team-name>Kenton</team-name>
+      <won>12</won>
+      <drawn>1</drawn>
+      <lost>3</lost>
+      <points>25</points>
+      <for>207</for>
+      <against>102</against>
+    </team>
+    <team>
+      <team-name>Hampstead Hurons</team-name>
+      <won>11</won>
+      <drawn>1</drawn>
+      <lost>2</lost>
+      <points>23</points>
+      <for>206</for>
+      <against>102</against>
+    </team>
+    <team>
+      <team-name>Buckhurst Hill A</team-name>
+      <won>7</won>
+      <drawn>2</drawn>
+      <lost>6</lost>
+      <points>16</points>
+      <for>130</for>
+      <against>124</against>
+    </team>
+    <team>
+      <team-name>Purley A</team-name>
+      <won>6</won>
+      <drawn>3</drawn>
+      <lost>7</lost>
+      <points>15</points>
+      <for>156</for>
+      <against>158</against>
+    </team>
+    <team>
+      <team-name>Lee A</team-name>
+      <won>6</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>13</points>
+      <for>108</for>
+      <against>121</against>
+    </team>
+    <team>
+      <team-name>St Helier A</team-name>
+      <won>4</won>
+      <drawn>1</drawn>
+      <lost>11</lost>
+      <points>9</points>
+      <for>123</for>
+      <against>202</against>
+    </team>
+    <team>
+      <team-name>Croydon A</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>12</lost>
+      <points>8</points>
+      <for>110</for>
+      <against>205</against>
+    </team>
+    <team>
+      <team-name>Purley B</team-name>
+      <won>2</won>
+      <drawn>1</drawn>
+      <lost>13</lost>
+      <points>5</points>
+      <for>97</for>
+      <against>238</against>
+    </team>
+  </division>
+  <division>
+    <division-name>Division 3</division-name>
+    <team>
+      <team-name>Old Hillcrovians</team-name>
+      <won>13</won>
+      <drawn>1</drawn>
+      <lost>4</lost>
+      <points>27</points>
+      <for>133</for>
+      <against>73</against>
+    </team>
+    <team>
+      <team-name>Lee B</team-name>
+      <won>13</won>
+      <drawn>1</drawn>
+      <lost>4</lost>
+      <points>27</points>
+      <for>106</for>
+      <against>49</against>
+    </team>
+    <team>
+      <team-name>Buckhurst Hill B</team-name>
+      <won>12</won>
+      <drawn>1</drawn>
+      <lost>5</lost>
+      <points>25</points>
+      <for>106</for>
+      <against>77</against>
+    </team>
+    <team>
+      <team-name>Oxford Iroquois</team-name>
+      <won>11</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>22</points>
+      <for>69</for>
+      <against>69</against>
+    </team>
+    <team>
+      <team-name>Old Sedcopians A</team-name>
+      <won>10</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>20</points>
+      <for>69</for>
+      <against>69</against>
+    </team>
+    <team>
+      <team-name>St Helier B</team-name>
+      <won>9</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>19</points>
+      <for>76</for>
+      <against>76</against>
+    </team>
+    <team>
+      <team-name>Imperial College</team-name>
+      <won>7</won>
+      <drawn>0</drawn>
+      <lost>11</lost>
+      <points>14</points>
+      <for>63</for>
+      <against>63</against>
+    </team>
+    <team>
+      <team-name>Cambridge Eagles</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>13</lost>
+      <points>10</points>
+      <for>19</for>
+      <against>19</against>
+    </team>
+    <team>
+      <team-name>Marjons</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>13</lost>
+      <points>10</points>
+      <for>39</for>
+      <against>39</against>
+    </team>
+    <team>
+      <team-name>Beckenham A</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>15</lost>
+      <points>6</points>
+      <for>22</for>
+      <against>22</against>
+    </team>
+  </division>
+</league-tables>

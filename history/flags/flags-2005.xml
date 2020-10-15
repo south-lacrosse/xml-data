@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2005">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Round 1" short="R1" date="2004-11-06">
+      <match home="2" matchNum="1">
+        <team1>Hitchin</team1>
+        <team2>Hampstead</team2>
+        <score>6 - 11</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Bye</team1>
+        <team2>Hillcroft</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Reading Wildcats</team1>
+        <team2>Walcountian Blues</team2>
+        <score>10 - 7</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bye</team1>
+        <team2>Purley</team2>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2005-02-26">
+      <match home="1" matchNum="1">
+        <team1>Hampstead</team1>
+        <team2>Hillcroft</team2>
+        <score>11 - 8</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Reading Wildcats</team1>
+        <team2>Purley</team2>
+        <score>6 - 13</score>
+      </match>
+    </round>
+    <round name="Final" date="2005-03-19">
+      <match matchNum="1">
+        <team1>Hampstead</team1>
+        <team2>Purley</team2>
+        <score extra="OT">11 - 10</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2004-11-06">
+      <match home="2" matchNum="1">
+        <team1>Oxford Uni</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Bath</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Penarth</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bath Uni</team1>
+        <team2>Spencer</team2>
+        <score>4 - 21</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2005-02-26">
+      <match home="1" matchNum="1">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bath</team2>
+        <score>8 - 13</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Penarth</team1>
+        <team2>Spencer</team2>
+        <score>6 - 7</score>
+      </match>
+    </round>
+    <round name="Final" date="2005-03-19">
+      <match matchNum="1">
+        <team1>Bath</team1>
+        <team2>Spencer</team2>
+        <score extra="OT">11 - 10</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="2004-11-06">
+      <match home="1" matchNum="1">
+        <team1>Croydon</team1>
+        <team2>Gloucester Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>UWIC</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Walcountian Blues 3</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>4 - 12</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bye</team1>
+        <team2>Southampton Tridents</team2>
+      </match>
+      <match home="2" matchNum="5">
+        <team1>Northampton Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>6 - 1</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Bye</team1>
+        <team2>Canterbury</team2>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>RMAS</team1>
+        <team2>Cambridge Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="8">
+        <team1>Welwyn Warriors</team1>
+        <team2>Walcountian Blues 2</team2>
+        <score>7 - 14</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2005-01-15">
+      <match home="2" matchNum="1">
+        <team1>Croydon</team1>
+        <team2>UWIC</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Portsmouth Uni</team1>
+        <team2>Southampton Tridents</team2>
+        <score>6 - 15</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Northampton Uni</team1>
+        <team2>Canterbury</team2>
+        <score>10 - 4</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Walcountian Blues 2</team2>
+        <score>9 - 7</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2005-02-26">
+      <match home="1" matchNum="1">
+        <team1>UWIC</team1>
+        <team2>Southampton Tridents</team2>
+        <score>5 - 9</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Northampton Uni</team1>
+        <team2>Cambridge Uni</team2>
+        <score>4 - 23</score>
+      </match>
+    </round>
+    <round name="Final" date="2005-03-19">
+      <match matchNum="1">
+        <team1>Southampton Tridents</team1>
+        <team2>Cambridge Uni</team2>
+        <score>4 - 10</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

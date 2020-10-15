@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Unofficial results: taken from Jon Cooper's unofficial tables,
+ so may not match official tables -->
+<fixtures>
+<fixture>
+<date>2003-10-04</date>
+<home-team>Hitchin</home-team>
+<away-team>Croydon</away-team>
+<competition>D1/D2</competition>
+<home-goals>21</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-04</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-04</date>
+<home-team>Penarth</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D1/D2</competition>
+<home-goals>7</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-04</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-04</date>
+<home-team>RMAS</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-04</date>
+<home-team>Spencer</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1/D2</competition>
+<home-goals>11</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>Mnr Flags Prelims</competition>
+<home-goals>1</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Bath Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>19</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Spencer</away-team>
+<competition>D2</competition>
+<home-goals>16</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Croydon</home-team>
+<away-team>Bath</away-team>
+<competition>D2</competition>
+<home-goals>5</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Hillcroft</home-team>
+<away-team>Penarth</away-team>
+<competition>D1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Hitchin A</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>13</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>3</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>RMAS</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2/D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-11</date>
+<home-team>UWIC</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Cheadle</home-team>
+<away-team>Purley</away-team>
+<competition>Iroquois Cup</competition>
+<home-goals>11</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Bath</home-team>
+<away-team>RMAS</away-team>
+<competition>D2/D3</competition>
+<home-goals>22</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>5</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Hitchin</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Northampton Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>1</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1/D2</competition>
+<home-goals>6</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Penarth</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1</competition>
+<home-goals>3</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>5</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Spencer</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>14</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-18</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D2</competition>
+<home-goals>10</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Bath</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1/D2</competition>
+<home-goals>4</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Bath Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>6</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>8</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Hampstead</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>D1/D2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>RMAS</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Spencer</home-team>
+<away-team>Penarth</away-team>
+<competition>D1/D2</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>UWIC</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>16</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Croydon</away-team>
+<competition>D2</competition>
+<home-goals>27</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-10-25</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>2</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Hillcroft</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>6</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Penarth</home-team>
+<away-team>Hitchin</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>6</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2/D3</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Croydon</home-team>
+<away-team>Spencer</away-team>
+<competition>D2</competition>
+<home-goals>5</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Hampstead</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D1/D2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Hitchin A</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>6</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Bath</away-team>
+<competition>D2</competition>
+<home-goals>12</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>13</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-01</date>
+<home-team>RMAS</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>2</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Bath</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>16</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Croydon</away-team>
+<competition>D2</competition>
+<home-goals>21</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Hitchin</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>10</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>D1/D2</competition>
+<home-goals>15</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Purley</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1</competition>
+<home-goals>17</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>7</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Spencer</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>UWIC</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>1</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-08</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>6</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D2/D3</competition>
+<home-goals>1</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Croydon</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>11</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Hitchin A</home-team>
+<away-team>Spencer</away-team>
+<competition>D2/D3</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1/D2</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Penarth</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2/D3</competition>
+<home-goals>1</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1</competition>
+<home-goals>3</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>RMAS</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-22</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>1</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Hitchin A</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Bath Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>6</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Hampstead</home-team>
+<away-team>Penarth</away-team>
+<competition>D1</competition>
+<home-goals>16</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Hitchin</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>D1/D2</competition>
+<home-goals>19</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Purley</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1</competition>
+<home-goals>21</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>RMAS</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>1</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Spencer</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1/D2</competition>
+<home-goals>4</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-29</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Bath</away-team>
+<competition>D2</competition>
+<home-goals>12</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-30</date>
+<home-team>Hitchin A</home-team>
+<away-team>Bath</away-team>
+<competition>D2/D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2003-11-30</date>
+<home-team>UWIC</home-team>
+<away-team>Croydon</away-team>
+<competition>D2/D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Hitchin</home-team>
+<away-team>Purley</away-team>
+<competition>Snr Flags SF</competition>
+<home-goals>3</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Bath</home-team>
+<away-team>Spencer</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>20</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Croydon</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>0</home-goals>
+<away-goals>23</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Hitchin A</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>7</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>13</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>UWIC</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>12</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D2/D3</competition>
+<home-goals>23</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-06</date>
+<home-team>Northampton Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Bath Uni</home-team>
+<away-team>Bath</away-team>
+<competition>D2/D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D2/D3</competition>
+<home-goals>25</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Hillcroft</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1</competition>
+<home-goals>12</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Penarth</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1</competition>
+<home-goals>11</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>D2/D3</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2/D3</competition>
+<home-goals>2</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Spencer</home-team>
+<away-team>UWIC</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2003-12-13</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>UWIC</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Hitchin A</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>7</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>D2/D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Spencer</away-team>
+<competition>D2/D3</competition>
+<home-goals>1</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>1</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-03</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Purley</away-team>
+<competition>D1/D2</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Bath</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D2</competition>
+<home-goals>10</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Bath Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>14</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Croydon</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D2/D3</competition>
+<home-goals>11</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Hitchin A</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Purley</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Penarth</away-team>
+<competition>D1</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Spencer</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D2/D3</competition>
+<home-goals>11</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>UWIC</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-10</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>RMAS</away-team>
+<competition>D2/D3</competition>
+<home-goals>20</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Bath</home-team>
+<away-team>Spencer</away-team>
+<competition>D2</competition>
+<home-goals>16</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1/D2</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Croydon</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1/D2</competition>
+<home-goals>8</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Hitchin</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>3</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Penarth</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1</competition>
+<home-goals>1</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>RMAS</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-17</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>12</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>13</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Bath</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>15</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Bath Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>8</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Hampstead</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1</competition>
+<home-goals>27</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>19</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Penarth</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>2</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>13</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>UWIC</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>D2</competition>
+<home-goals>13</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-24</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>8</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Bath Uni</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>4</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Bath</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1/D2</competition>
+<home-goals>12</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Hillcroft</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>5</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Spencer</away-team>
+<competition>D2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Penarth</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D1/D2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-01-31</date>
+<home-team>RMAS</home-team>
+<away-team>Croydon</away-team>
+<competition>D2/D3</competition>
+<home-goals>V</home-goals>
+<away-goals>V</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-01</date>
+<home-team>Bath Uni</home-team>
+<away-team>Bath</away-team>
+<competition>D2/D3</competition>
+<home-goals>15</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-04</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>1</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Bath Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>11</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>D2</competition>
+<home-goals>5</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>18</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Hampstead</home-team>
+<away-team>Spencer</away-team>
+<competition>D1/D2</competition>
+<home-goals>21</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Hillcroft</home-team>
+<away-team>Croydon</away-team>
+<competition>D1/D2</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Hitchin</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1</competition>
+<home-goals>19</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Purley</home-team>
+<away-team>Bath</away-team>
+<competition>D1/D2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>UWIC</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-07</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Bath</home-team>
+<away-team>Penarth</away-team>
+<competition>D1/D2</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Croydon</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>8</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Hitchin</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D1/D2</competition>
+<home-goals>8</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Hitchin A</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>9</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Purley</away-team>
+<competition>D1/D2</competition>
+<home-goals>4</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>5</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1</competition>
+<home-goals>8</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Spencer</home-team>
+<away-team>RMAS</away-team>
+<competition>D2/D3</competition>
+<home-goals>11</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-14</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-15</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Bath</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1/D2</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Hampstead</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1</competition>
+<home-goals>17</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Hillcroft</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D1/D2</competition>
+<home-goals>13</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Hitchin A</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>8</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Penarth</home-team>
+<away-team>Croydon</away-team>
+<competition>D1/D2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Purley</home-team>
+<away-team>Spencer</away-team>
+<competition>D1/D2</competition>
+<home-goals>23</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-21</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Hampstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D1/D2</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Hitchin</home-team>
+<away-team>Penarth</away-team>
+<competition>D1</competition>
+<home-goals>12</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>D2</competition>
+<home-goals>22</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Bath</away-team>
+<competition>D2/D3</competition>
+<home-goals>2</home-goals>
+<away-goals>27</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D3</competition>
+<home-goals>5</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Spencer</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>18</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-02-28</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Bath Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Croydon</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>D1/D2</competition>
+<home-goals>7</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Hampstead</home-team>
+<away-team>Bath</away-team>
+<competition>D1/D2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Hitchin A</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>17</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Oxford Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>17</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Purley</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D1/D2</competition>
+<home-goals>24</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>RMAS</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Spencer</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1/D2</competition>
+<home-goals>5</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-06</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hillcroft</away-team>
+<competition>D1/D2</competition>
+<home-goals>5</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Bath</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Bath Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>13</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Hitchin</away-team>
+<competition>D1/D2</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Croydon</home-team>
+<away-team>Purley</away-team>
+<competition>D1/D2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>13</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>D3</competition>
+<home-goals>2</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Penarth</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D1/D2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-13</date>
+<home-team>UWIC</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-14</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Spencer</away-team>
+<competition>D2/D3</competition>
+<home-goals>0</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-20</date>
+<home-team>Purley</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Snr Flags Final</competition>
+<home-goals>16</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-20</date>
+<home-team>Bath</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Int Flags Final</competition>
+<home-goals>13</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-20</date>
+<home-team>Bath Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>Mnr Flags Final</competition>
+<home-goals>17</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Bath</home-team>
+<away-team>UWIC</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Bath Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Gloucester Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>D3</competition>
+<home-goals>3</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Hitchin A</home-team>
+<away-team>Croydon</away-team>
+<competition>D2/D3</competition>
+<home-goals>11</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Purley</home-team>
+<away-team>Penarth</away-team>
+<competition>D1</competition>
+<home-goals>24</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>D2/D3</competition>
+<home-goals>6</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-03-27</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Northampton Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Penarth</home-team>
+<away-team>Hampstead</away-team>
+<competition>D1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Bath Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>13</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Croydon</home-team>
+<away-team>Gloucester Uni</away-team>
+<competition>D2/D3</competition>
+<home-goals>10</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Northampton Uni</home-team>
+<away-team>Spencer</away-team>
+<competition>D2/D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>RMAS</away-team>
+<competition>D3</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>UWIC</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D2/D3</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Hitchin A</away-team>
+<competition>D3</competition>
+<home-goals>9</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-03</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Purley</away-team>
+<competition>D1</competition>
+<home-goals>3</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2004-04-24</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>D1/D2</competition>
+<home-goals>8</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+</fixtures>

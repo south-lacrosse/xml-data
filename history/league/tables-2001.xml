@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="2001">
+<division><division-name>Division 1</division-name>
+<team><team-name>Purley</team-name><won>14</won><drawn>0</drawn><lost>0</lost><points>28</points><for>231</for><against>38</against></team>
+<team><team-name>Hillcroft</team-name><won>8</won><drawn>0</drawn><lost>5</lost><points>16</points><for>83</for><against>93</against></team>
+<team><team-name>Hampstead</team-name><won>6</won><drawn>2</drawn><lost>6</lost><deducted>1</deducted><points>13</points><for>129</for><against>113</against></team>
+<team><team-name>Spencer</team-name><won>5</won><drawn>0</drawn><lost>9</lost><points>10</points><for>112</for><against>146</against></team>
+<team><team-name>Hitchin</team-name><won>4</won><drawn>1</drawn><lost>8</lost><points>9</points><for>93</for><against>147</against></team>
+<team><team-name>Bath</team-name><won>2</won><drawn>1</drawn><lost>11</lost><points>5</points><for>81</for><against>192</against></team>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>Reading Wildcats</team-name><won>16</won><drawn>0</drawn><lost>3</lost><points>32</points><for>200</for><against>90</against></team>
+<team><team-name>Oxford Uni</team-name><won>14</won><drawn>0</drawn><lost>2</lost><points>28</points><for>106</for><against>50</against></team>
+<team><team-name>Penarth</team-name><won>13</won><drawn>0</drawn><lost>1</lost><points>26</points><for>175</for><against>53</against></team>
+<team><team-name>Croydon</team-name><won>12</won><drawn>0</drawn><lost>4</lost><points>22</points><for>122</for><against>75</against></team>
+<team><team-name>Walcountian Blues</team-name><won>11</won><drawn>0</drawn><lost>5</lost><points>22</points><for>140</for><against>107</against></team>
+<team><team-name>Cambridge Uni</team-name><won>8</won><drawn>0</drawn><lost>12</lost><points>16</points><for>59</for><against>117</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>5</won><drawn>0</drawn><lost>11</lost><points>10</points><for>51</for><against>83</against></team>
+<team><team-name>Hitchin A</team-name><won>4</won><drawn>0</drawn><lost>14</lost><points>8</points><for>90</for><against>193</against></team>
+<team><team-name>Southampton Tridents</team-name><won>3</won><drawn>0</drawn><lost>12</lost><points>6</points><for>43</for><against>105</against></team>
+<team><team-name>Spencer A</team-name><won>2</won><drawn>0</drawn><lost>11</lost><points>4</points><for>47</for><against>105</against></team>
+<team><team-name>Bath Uni</team-name><won>1</won><drawn>0</drawn><lost>13</lost><points>0</points><for>17</for><against>72</against></team>
+</division>
+</league-tables>

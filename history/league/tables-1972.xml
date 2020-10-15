@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1972">
+<division><division-name>Division 1</division-name>
+<team><team-name>Lee</team-name><won>17</won><drawn>0</drawn><lost>1</lost><points>34</points><for>322</for><against>57</against></team>
+<team><team-name>Hampstead</team-name><won>13</won><drawn>3</drawn><lost>1</lost><points>29</points><for>218</for><against>122</against></team>
+<team><team-name>Purley</team-name><won>14</won><drawn>1</drawn><lost>3</lost><points>29</points><for>237</for><against>142</against></team>
+<team><team-name>Cambridge Uni</team-name><won>8</won><drawn>4</drawn><lost>6</lost><points>20</points><for>89</for><against>92</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>9</won><drawn>1</drawn><lost>8</lost><points>19</points><for>137</for><against>153</against></team>
+<team><team-name>Croydon</team-name><won>6</won><drawn>2</drawn><lost>10</lost><points>14</points><for>109</for><against>212</against></team>
+<team><team-name>Old Sedcopians</team-name><won>5</won><drawn>1</drawn><lost>12</lost><points>11</points><for>134</for><against>264</against></team>
+<team><team-name>St Helier</team-name><won>3</won><drawn>2</drawn><lost>12</lost><points>8</points><for>118</for><against>159</against></team>
+<team><team-name>Oxford Uni</team-name><won>4</won><drawn>0</drawn><lost>14</lost><points>8</points><for>74</for><against>125</against></team>
+<team><team-name>Beckenham</team-name><won>3</won><drawn>0</drawn><lost>15</lost><points>6</points><for>76</for><against>188</against></team>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>London Uni</team-name><won>16</won><drawn>0</drawn><lost>0</lost><points>32</points><for>318</for><against>68</against></team>
+<team><team-name>Purley A</team-name><won>13</won><drawn>0</drawn><lost>3</lost><points>26</points><for>229</for><against>99</against></team>
+<team><team-name>Lee A</team-name><won>9</won><drawn>0</drawn><lost>6</lost><points>18</points><for>168</for><against>111</against></team>
+<team><team-name>Kenton</team-name><won>9</won><drawn>0</drawn><lost>7</lost><points>18</points><for>137</for><against>120</against></team>
+<team><team-name>Buckhurst Hill A</team-name><won>7</won><drawn>1</drawn><lost>7</lost><points>15</points><for>137</for><against>162</against></team>
+<team><team-name>Hampstead Hurons</team-name><won>5</won><drawn>1</drawn><lost>9</lost><points>11</points><for>143</for><against>182</against></team>
+<team><team-name>St Helier A</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>95</for><against>189</against></team>
+<team><team-name>Hillcroft</team-name><won>4</won><drawn>0</drawn><lost>11</lost><points>8</points><for>77</for><against>210</against></team>
+<team><team-name>Croydon A</team-name><won>2</won><drawn>0</drawn><lost>14</lost><points>4</points><for>101</for><against>254</against></team>
+</division>
+<division><division-name>Division 3</division-name>
+<team><team-name>Purley B</team-name><won>18</won><drawn>0</drawn><lost>2</lost><points>36</points><for>237</for><against>63</against></team>
+<team><team-name>Old Sedcopians A</team-name><won>16</won><drawn>0</drawn><lost>4</lost><points>32</points><for>242</for><against>89</against></team>
+<team><team-name>Oxford Iroquois</team-name><won>14</won><drawn>0</drawn><lost>6</lost><points>28</points><for>75</for><against>30</against></team>
+<team><team-name>Marjons</team-name><won>12</won><drawn>2</drawn><lost>6</lost><points>26</points><for>78</for><against>69</against></team>
+<team><team-name>Lee C</team-name><won>11</won><drawn>0</drawn><lost>9</lost><points>22</points><for>90</for><against>81</against></team>
+<team><team-name>Lee B</team-name><won>10</won><drawn>0</drawn><lost>9</lost><points>20</points><for>82</for><against>76</against></team>
+<team><team-name>St Helier B</team-name><won>6</won><drawn>2</drawn><lost>11</lost><points>14</points><for>51</for><against>131</against></team>
+<team><team-name>Imperial College</team-name><won>6</won><drawn>0</drawn><lost>14</lost><points>12</points><for>105</for><against>184</against></team>
+<team><team-name>Hillcroft A</team-name><won>5</won><drawn>0</drawn><lost>15</lost><points>10</points><for>64</for><against>129</against></team>
+<team><team-name>Buckhurst Hill B</team-name><won>5</won><drawn>0</drawn><lost>15</lost><points>10</points><for>95</for><against>228</against></team>
+<team><team-name>Cambridge Eagles</team-name><won>4</won><drawn>0</drawn><lost>16</lost><points>8</points><for>33</for><against>72</against></team>
+</division>
+</league-tables>

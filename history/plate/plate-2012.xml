@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2012" name="Plate" short="Plt">
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" date="2011-11-19" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Maidstone</team1>
+        <team2>Oxford Uni</team2>
+        <score>11 - 9</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Reading Wildcats 3</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Royal Holloway</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Hitchin A</team1>
+        <team2>Northampton Town</team2>
+        <score>14 - 2</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Southampton Tridents</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Bournemouth Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="7">
+        <team1>Bye</team1>
+        <team2>Canterbury</team2>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>Swansea Hawks</team1>
+        <team2>Chichester Crusaders</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2012-01-28" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Maidstone</team1>
+        <team2>Reading Wildcats 3</team2>
+        <score>12 - 6</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Royal Holloway</team1>
+        <team2>Hitchin A</team2>
+        <score>7 - 15</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Southampton Tridents</team1>
+        <team2>Bournemouth Uni</team2>
+        <score>6 - 8</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Canterbury</team1>
+        <team2>Swansea Hawks</team2>
+        <score>5 - 8</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2012-03-03" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Maidstone</team1>
+        <team2>Hitchin A</team2>
+        <score>10 - 1</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Bournemouth Uni</team1>
+        <team2>Swansea Hawks</team2>
+        <score>9 - 12</score>
+      </match>
+    </round>
+    <round name="Final" date="2012-04-21">
+      <match matchNum="1">
+        <team1>Maidstone</team1>
+        <team2>Swansea Hawks</team2>
+        <score>6 - 11</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

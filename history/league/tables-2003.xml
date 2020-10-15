@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="2003" cols="pts-avg">
+  <division>
+    <division-name short="D1">Division 1</division-name>
+    <team>
+      <team-name minimal="Pur">Purley</team-name>
+      <won>15</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>46</points>
+      <for>296</for>
+      <against>44</against>
+    </team>
+    <team>
+      <team-name minimal="Ham">Hampstead</team-name>
+      <won>13</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>40</points>
+      <for>206</for>
+      <against>94</against>
+    </team>
+    <team>
+      <team-name short="Reading" minimal="Rdg">Reading Wildcats</team-name>
+      <won>7</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>28</points>
+      <for>103</for>
+      <against>101</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr">Hillcroft</team-name>
+      <won>7</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>30</points>
+      <for>111</for>
+      <against>135</against>
+    </team>
+    <team>
+      <team-name minimal="Pen">Penarth</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>25</points>
+      <for>105</for>
+      <against>149</against>
+    </team>
+    <team>
+      <team-name minimal="Spn">Spencer</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>14</lost>
+      <points>14</points>
+      <for>51</for>
+      <against>176</against>
+    </team>
+  </division>
+  <division>
+    <division-name short="D2">Division 2</division-name>
+    <team>
+      <team-name minimal="Hit">Hitchin</team-name>
+      <won>13</won>
+      <drawn>2</drawn>
+      <lost>2</lost>
+      <points>45</points>
+      <for>194</for>
+      <against>98</against>
+    </team>
+    <team>
+      <team-name short="Blues" minimal="Blu">Walcountian Blues</team-name>
+      <won>10</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <points>35</points>
+      <for>164</for>
+      <against>93</against>
+    </team>
+    <team>
+      <team-name minimal="Bth">Bath</team-name>
+      <won>6</won>
+      <drawn>1</drawn>
+      <lost>9</lost>
+      <points>26</points>
+      <for>135</for>
+      <against>135</against>
+    </team>
+    <team>
+      <team-name small="Oxford" minimal="Oxf">Oxford Uni</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>19</points>
+      <for>80</for>
+      <against>93</against>
+    </team>
+    <team>
+      <team-name minimal="Cro">Croydon</team-name>
+      <won>4</won>
+      <drawn>1</drawn>
+      <lost>9</lost>
+      <points>21</points>
+      <for>84</for>
+      <against>135</against>
+    </team>
+    <team>
+      <team-name short="Cambridge" minimal="Cam">Cambridge Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>10</lost>
+      <points>12</points>
+      <for>31</for>
+      <against>220</against>
+    </team>
+  </division>
+  <division>
+    <division-name short="D3">Division 3</division-name>
+    <team>
+      <team-name short="Bucks" minimal="Buc">Buckhurst Hill</team-name>
+      <won>13</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>41</points>
+      <for>213</for>
+      <against>76</against>
+    </team>
+    <team>
+      <team-name minimal="Hit A">Hitchin A</team-name>
+      <won>12</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>39</points>
+      <for>151</for>
+      <against>101</against>
+    </team>
+    <team>
+      <team-name minimal="Bth Uni">Bath Uni</team-name>
+      <won>7</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>27</points>
+      <for>135</for>
+      <against>101</against>
+    </team>
+    <team>
+      <team-name short="Portsmouth" minimal="Pts">Portsmouth Uni</team-name>
+      <won>5</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>25</points>
+      <for>75</for>
+      <against>99</against>
+    </team>
+    <team>
+      <team-name minimal="Wsp">Wasps</team-name>
+      <won>4</won>
+      <drawn>1</drawn>
+      <lost>8</lost>
+      <points>22</points>
+      <for>46</for>
+      <against>121</against>
+    </team>
+    <team>
+      <team-name short="Tridents" minimal="Tri">Southampton Tridents</team-name>
+      <won>2</won>
+      <drawn>1</drawn>
+      <lost>12</lost>
+      <points>17</points>
+      <for>44</for>
+      <against>155</against>
+    </team>
+    <team>
+      <team-name minimal="UWI">UWIC</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>13</lost>
+      <points>12</points>
+      <for>43</for>
+      <against>144</against>
+    </team>
+  </division>
+</league-tables>
