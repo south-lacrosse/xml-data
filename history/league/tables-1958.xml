@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1958">
+<division><division-name>Division 1</division-name>
+<team><team-name>Kenton</team-name><won>14</won><drawn>0</drawn><lost>1</lost><points>28</points><for>167</for><against>54</against></team>
+<team><team-name>Lee</team-name><won>11</won><drawn>2</drawn><lost>3</lost><points>24</points><for>165</for><against>114</against></team>
+<team><team-name>Purley</team-name><won>10</won><drawn>2</drawn><lost>3</lost><points>22</points><for>176</for><against>68</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>10</won><drawn>0</drawn><lost>6</lost><points>20</points><for>158</for><against>118</against></team>
+<team><team-name>Old Dunstonians</team-name><won>9</won><drawn>1</drawn><lost>6</lost><points>19</points><for>153</for><against>109</against></team>
+<team><team-name>London Uni</team-name><won>6</won><drawn>1</drawn><lost>7</lost><points>13</points><for>112</for><against>113</against></team>
+<team><team-name>Old Sedcopians</team-name><won>3</won><drawn>0</drawn><lost>13</lost><points>6</points><for>75</for><against>170</against></team>
+<team><team-name>Old Thorntonians</team-name><won>2</won><drawn>0</drawn><lost>12</lost><points>4</points><for>52</for><against>188</against></team>
+<team><team-name>Hampstead</team-name><won>1</won><drawn>0</drawn><lost>15</lost><points>2</points><for>67</for><against>191</against></team>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>Henry Thornton School</team-name><won>5</won><drawn>0</drawn><lost>1</lost><points>10</points><for>38</for><against>17</against></team>
+<team><team-name>Chislehurst &amp; Sidcup Grammar School</team-name><won>4</won><drawn>0</drawn><lost>3</lost><points>8</points><for>51</for><against>45</against></team>
+<team><team-name>Purley II</team-name><won>4</won><drawn>0</drawn><lost>4</lost><points>8</points><for>62</for><against>75</against></team>
+<team><team-name>Buckhurst Hill II</team-name><won>3</won><drawn>0</drawn><lost>4</lost><points>6</points><for>28</for><against>49</against></team>
+<team><team-name>London Uni Ottowas</team-name><won>2</won><drawn>0</drawn><lost>6</lost><points>4</points><for>19</for><against>12</against></team>
+</division>
+<division preliminary="true"><division-name>Junior Lacrosse</division-name>
+<team><team-name>Buckhurst Hill Juniors</team-name><won>8</won><drawn>2</drawn><lost>4</lost><for>130</for><against>56</against></team>
+<team><team-name>Chislehurst &amp; Sidcup Grammar School II</team-name><won>6</won><drawn>0</drawn><lost>6</lost><for>84</for><against>123</against></team>
+<team><team-name>Henry Thornton School II</team-name><won>5</won><drawn>1</drawn><lost>5</lost><for>89</for><against>58</against></team>
+<team><team-name>Henry Thornton School III</team-name><won>0</won><drawn>0</drawn><lost>1</lost><for>4</for><against>9</against></team>
+<team><team-name>Kenton Juniors</team-name><won>5</won><drawn>1</drawn><lost>5</lost><for>67</for><against>57</against></team>
+<team><team-name>Lee Juniors</team-name><won>6</won><drawn>2</drawn><lost>10</lost><for>93</for><against>123</against></team>
+<team><team-name>Purley Juniors A</team-name><won>9</won><drawn>2</drawn><lost>6</lost><for>134</for><against>130</against></team>
+<team><team-name>Purley Juniors B</team-name><won>2</won><drawn>0</drawn><lost>0</lost><for>18</for><against>10</against></team>
+<team><team-name>St John's School</team-name><won>1</won><drawn>0</drawn><lost>5</lost><for>19</for><against>72</against></team>
+<remarks>Alphabetical order</remarks>
+</division>
+</league-tables>

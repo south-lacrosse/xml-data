@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="Flags Winners">
+  <competitions>
+    <comp id="snr" alt="flags-senior" short="Senior" match="Finals">Senior Flags</comp>
+    <comp id="int" alt="flags-int" short="Intermediate" match="Finals">Intermediate Flags</comp>
+    <comp id="mnr" alt="flags-minor" short="Minor" match="Finals">Minor Flags</comp>
+  </competitions>
+  <season year="2021" ref="flags/flags-2021.xml">
+    <winner compId="snr">Void</winner>
+    <winner compId="int">Void</winner>
+    <winner compId="mnr">Void</winner>
+  </season>
+  <season year="2020" ref="flags/flags-2020.xml">
+    <winner compId="snr">Void</winner>
+    <winner compId="int">Void</winner>
+    <winner compId="mnr">Void</winner>
+  </season>
+  <season year="2019" ref="flags/flags-2019.xml">
+    <winner compId="snr" rup="Spencer" result="12 - 11">Hampstead</winner>
+    <winner compId="int" rup="Hillcroft A" result="12 - 5">Spencer 2</winner>
+    <winner compId="mnr" rup="Bath" result="12 - 9">Welwyn Warriors 2</winner>
+  </season>
+  <season year="2018" ref="flags/flags-2018.xml">
+    <winner compId="snr" rup="Spencer" result="12 - 9">Hampstead</winner>
+    <winner compId="int" rup="Oxford Uni" result="21 - 3">Spencer 2</winner>
+    <winner compId="mnr" rup="London Uni" result="16 - 5">Cheltenham</winner>
+  </season>
+  <season year="2017" ref="flags/flags-2017.xml">
+    <winner compId="snr" rup="Hampstead" result="11 - 8">Spencer</winner>
+    <winner compId="int" rup="Bath" result="21 - 3">Hillcroft A</winner>
+    <winner compId="mnr" rup="Cheltenham" result="21 - 3">London Uni</winner>
+  </season>
+  <season year="2016" ref="flags/flags-2016.xml">
+    <winner compId="snr" rup="Walcountian Blues" result="15 - 5">Spencer</winner>
+    <winner compId="int" rup="Southampton" result="20 - 3">Spencer 2</winner>
+    <winner compId="mnr" rup="Plymouth City" result="16 - 7">Hillcroft B</winner>
+  </season>
+  <season year="2015" ref="flags/flags-2015.xml">
+    <winner compId="snr" rup="Walcountian Blues" result="5 - 3">Spencer</winner>
+    <winner compId="int" rup="Cardiff Harlequins" result="8 - 7">Hillcroft A</winner>
+    <winner compId="mnr" rup="Warwick Uni" result="12 - 7">Oxford Uni</winner>
+  </season>
+  <season year="2014" ref="flags/flags-2014.xml">
+    <winner compId="snr" rup="Reading Wildcats" result="14 - 1">Spencer</winner>
+    <winner compId="int" rup="Spencer 2" result="7 - 5">Cardiff Harlequins</winner>
+    <winner compId="mnr" rup="Warwick Uni" result="13 - 1">London Uni</winner>
+  </season>
+  <season year="2013" ref="flags/flags-2013.xml">
+    <winner compId="snr" rup="Reading Wildcats" result="13 - 7">Spencer</winner>
+    <winner compId="int" rup="Spencer 2" result="9 - 8">Bristol Bombers</winner>
+    <winner compId="mnr" rup="Northampton Town" result="10 - 6">Oxford Uni</winner>
+  </season>
+  <season year="2012" ref="flags/flags-2012.xml">
+    <winner compId="snr" rup="Walcountian Blues" result="12 - 3">Spencer</winner>
+    <winner compId="int" rup="East Grinstead" result="8 - 7">Bath</winner>
+    <winner compId="mnr" rup="Hillcroft A" result="10 - 8 (OT)">Epsom</winner>
+  </season>
+  <season year="2011" ref="flags/flags-2011.xml">
+    <winner compId="snr" rup="Reading Wildcats" result="11 - 8">Walcountian Blues</winner>
+    <winner compId="int" rup="Portsmouth Uni" result="11 - 10">Bristol Bombers</winner>
+    <winner compId="mnr" rup="Hillcroft A" result="12 - 5">Exeter Uni</winner>
+  </season>
+  <season year="2010" ref="flags/flags-2010.xml">
+    <winner compId="snr" rup="Hampstead" result="14 - 8">Walcountian Blues</winner>
+    <winner compId="int" rup="Bristol Bombers" result="11 - 4">Cardiff Harlequins</winner>
+    <winner compId="mnr" rup="Southampton Tridents" result="14 - 7">Cardiff Harlequins A</winner>
+  </season>
+  <season year="2009" ref="flags/flags-2009.xml">
+    <winner compId="snr" rup="Hitchin" result="13 - 6">Spencer</winner>
+    <winner compId="int" rup="Bath" result="13 - 3">Cardiff Harlequins</winner>
+    <winner compId="mnr" rup="Penarth" result="9 - 6">Spencer 2</winner>
+  </season>
+  <season year="2008" ref="flags/flags-2008.xml">
+    <winner compId="snr" rup="Purley" result="13 - 5">Hampstead</winner>
+    <winner compId="int" rup="Bath" result="10 - 7">Cardiff Harlequins</winner>
+    <winner compId="mnr" rup="Portsmouth Uni" result="10 - 2">Brighton Panthers</winner>
+  </season>
+  <season year="2007" ref="flags/flags-2007.xml">
+    <winner compId="snr" rup="Hampstead" result="8 - 4">Purley</winner>
+    <winner compId="int" rup="Swansea Hawks" result="12 - 6">East Grinstead</winner>
+    <winner compId="mnr" rup="East Coast" result="18 - 6">UWIC</winner>
+  </season>
+  <season year="2006" ref="flags/flags-2006.xml">
+    <winner compId="snr" rup="Purley" result="12 - 4">Hampstead</winner>
+    <winner compId="int" rup="Buckhurst Hill" result="12 - 10 (OT)">Oxford Uni</winner>
+    <winner compId="mnr" rup="Swansea Hawks" result="10 - 2">East Grinstead</winner>
+  </season>
+  <season year="2005" ref="flags/flags-2005.xml">
+    <winner compId="snr" rup="Purley" result="11 - 10 (OT)">Hampstead</winner>
+    <winner compId="int" rup="Spencer" result="11 - 10 (OT)">Bath</winner>
+    <winner compId="mnr" rup="Southampton Uni" result="10 - 4">Cambridge Uni</winner>
+  </season>
+  <season year="2004" ref="flags/flags-2004.xml">
+    <winner compId="snr" rup="Hillcroft" result="16 - 5">Purley</winner>
+    <winner compId="int" rup="Walcountian Blues" result="13 - 1">Bath</winner>
+    <winner compId="mnr" rup="Cambridge Uni" result="17 - 5">Bath Uni</winner>
+  </season>
+  <season year="2003" ref="flags/flags-2003.xml">
+    <winner compId="snr" rup="Hampstead" result="10 - 8">Purley</winner>
+    <winner compId="int" rup="Hitchin" result="14 - 11">Oxford Uni</winner>
+    <winner compId="mnr" rup="Hitchin A" result="13 - 5">Bath Uni</winner>
+  </season>
+  <season year="2002" ref="flags/flags-2002.xml">
+    <winner compId="snr" rup="Hampstead" result="12 - 8">Purley</winner>
+    <winner compId="int" rup="Penarth" result="18 - 6">Hitchin</winner>
+    <winner compId="mnr" rup="Hitchin A" result="12 - 8">Bath Uni</winner>
+  </season>
+  <season year="2001">
+    <winner compId="snr" rup="Hitchin" result="16 - 2">Purley</winner>
+    <winner compId="int" rup="Hillcroft" result="17 - 4">Hampstead</winner>
+    <winner compId="mnr" rup="Reading Wildcats" result="10 - 9">Walcountian Blues</winner>
+  </season>
+  <season year="2000">
+    <winner compId="snr" rup="Kenton" result="13 - 7">Purley</winner>
+    <winner compId="int" rup="Croydon" result="17 - 6">Hitchin</winner>
+    <winner compId="mnr" rup="Walcountian Blues" result="29 - 3">Penarth</winner>
+  </season>
+  <season year="1999">
+    <winner compId="snr" rup="Purley" result="17 - 9">Kenton</winner>
+    <winner compId="int" rup="Bath Uni" result="12 - 8">Hitchin</winner>
+  </season>
+  <season year="1998" ref="flags/flags-1998.xml">
+    <winner compId="snr" rup="Kenton" result="12 - 11">Hampstead</winner>
+    <winner compId="int" rup="Croydon" result="14 - 4">Beckenham</winner>
+    <winner compId="mnr" rup="Bath Uni" result="11 - 5">Hitchin A</winner>
+  </season>
+  <season year="1997">
+    <winner compId="snr" rup="Kenton" result="12 - 9">Purley</winner>
+    <winner compId="int" rup="Purley A" result="19 - 2">Tatsfield</winner>
+    <winner compId="mnr" rup="Southampton Uni" result="21 - 3">Hitchin</winner>
+  </season>
+  <season year="1996">
+    <winner compId="snr" rup="Hampstead" result="13 - 6">Kenton</winner>
+    <winner compId="int" rup="Leigh" result="26 - 0">Croydon</winner>
+    <winner compId="mnr" rup="Cambridge Uni" result="11 - 7">Kenton A</winner>
+  </season>
+  <season year="1995">
+    <winner compId="snr" rup="Hillcroft" result="9 - 7">Kenton</winner>
+    <winner compId="int" rup="Hillcroft A" result="18 - 3">Hampstead</winner>
+    <winner compId="mnr" rup="Purley A" result="6 - 5">Croydon A</winner>
+  </season>
+  <season year="1994">
+    <winner compId="snr" rup="Purley" result="18 - 7">Kenton</winner>
+    <winner compId="int" rup="London Uni" result="10 - 8">Oxford Uni</winner>
+    <winner compId="mnr">Enfield</winner>
+  </season>
+  <season year="1993">
+    <winner compId="snr" rup="Hillcroft" result="22 - 6">Kenton</winner>
+    <winner compId="int" rup="Hillcroft A" result="10 - 8">Beckenham</winner>
+    <winner compId="mnr" rup="Oxford Uni" result="11 - 8">Hitchin A</winner>
+  </season>
+  <season year="1992">
+    <winner compId="snr" rup="Bath" result="14 - 8">Kenton</winner>
+    <winner compId="int" rup="Buckhurst Hill" result="9 - 6">Croydon</winner>
+    <winner compId="mnr" rup="Orpington" result="9 - 3">Hillcroft A</winner>
+  </season>
+  <season year="1991">
+    <winner compId="snr" rup="Bath" result="19 - 9">Hampstead</winner>
+    <winner compId="int" rup="Croydon" result="14 - 8">Buckhurst Hill</winner>
+    <winner compId="mnr" rup="Hampstead A" result="20 - 2">Beckenham A</winner>
+  </season>
+  <season year="1990">
+    <winner compId="snr" rup="London Uni" result="19 - 16">Hampstead</winner>
+    <winner compId="int" rup="Bath A" result="9 - 6">Beckenham A</winner>
+  </season>
+  <season year="1989">
+    <winner compId="snr" rup="London Uni" result="17 - 16">Hampstead</winner>
+    <winner compId="int" rup="Bath A" result="10 - 1">Buckhurst Hill A</winner>
+  </season>
+  <season year="1988">
+    <winner compId="snr" rup="Bath" result="15 - 8">Hampstead</winner>
+    <winner compId="int" rup="Hitchin" result="21 - 3">Beckenham</winner>
+    <winner compId="mnr" rup="Purley A" result="13 - 7">Bath A</winner>
+  </season>
+  <season year="1987">
+    <winner compId="snr" rup="Hampstead" result="11 - 8">London Uni</winner>
+    <winner compId="int" rup="Beckenham" result="8 - 5">Bath</winner>
+    <winner compId="mnr" rup="Joyce Green" result="14 - 7">Croydon A</winner>
+  </season>
+  <season year="1986">
+    <winner compId="snr" rup="Hillcroft" result="9 - 8">Hampstead</winner>
+    <winner compId="int" rup="Oxford Uni" result="8 - 6">Croydon</winner>
+    <winner compId="mnr" rup="Joyce Green" result="18 - 5">Bath</winner>
+  </season>
+  <season year="1985">
+    <winner compId="snr" rup="Hillcroft" result="7 - 6">London Uni</winner>
+    <winner compId="int" rup="Kenton A" result="12 - 5">Cambridge Uni</winner>
+    <winner compId="mnr" rup="Beckenham A" result="6 - 4">Three Bridges</winner>
+  </season>
+  <season year="1984">
+    <winner compId="snr" rup="Kenton" result="14 - 4">Hampstead</winner>
+    <winner compId="int" rup="Calthorpe" result="17 - 9">Hampstead A</winner>
+    <winner compId="mnr" rup="Swanley" result="15 - 14 (SDOT)">Purley A</winner>
+  </season>
+  <season year="1983">
+    <winner compId="snr" rup="Hampstead" result="11 - 4">Kenton</winner>
+    <winner compId="int" rup="Chipstead" result="16 - 9">Beckenham</winner>
+    <winner compId="mnr" rup="Swanley" result="14 - 9">Bexleyheath</winner>
+  </season>
+  <season year="1982">
+    <winner compId="snr" rup="Lee" result="14 - 10">Hampstead</winner>
+    <winner compId="int" rup="Beckenham" result="16 - 8">Purley A</winner>
+    <winner compId="mnr" rup="Hillcroft A" result="17 - 6">Buckhurst Hill C</winner>
+  </season>
+  <season year="1981">
+    <winner compId="snr" rup="Oxford Uni" result="11 - 9">Hampstead</winner>
+    <winner compId="int" rup="Hampstead A" result="21 - 6">Cambridge Uni</winner>
+    <winner compId="mnr" rup="Hillcroft A" result="14 - 3">Oxford Iroquois</winner>
+  </season>
+  <season year="1980">
+    <winner compId="snr" rup="Lee" result="13 - 4">Oxford Uni</winner>
+    <winner compId="int" rup="Hillcroft" result="8 - 7">Kenton A</winner>
+    <winner compId="mnr" rup="Oxford Iroquois" result="12 - 4">Buckhurst Hill B</winner>
+  </season>
+  <season year="1979">
+    <winner compId="snr" rup="Oxford Uni" result="13 - 10">Buckhurst Hill</winner>
+    <winner compId="int" rup="Bexleyheath A" result="10 - 3">St Helier</winner>
+    <winner compId="mnr" rup="Buckhurst Hill B" result="19 - 9">Barnet</winner>
+  </season>
+  <season year="1978">
+    <winner compId="snr" rup="Lee" result="14 - 6">Hampstead</winner>
+    <winner compId="int" rup="Lee A" result="7 - 6">Hampstead A</winner>
+    <winner compId="mnr" rup="Bexleyheath A" result="20 - 0">Croydon A</winner>
+  </season>
+  <season year="1977">
+    <winner compId="snr" rup="Lee" result="15 - 6">Hampstead</winner>
+    <winner compId="int" rup="Beckenham" result="17 - 5">Croydon</winner>
+    <winner compId="mnr" rup="St Helier A" result="12 - 6">Kenton A</winner>
+  </season>
+  <season year="1976">
+    <winner compId="snr" rup="Purley" result="24 - 6">Hampstead</winner>
+    <winner compId="int" rup="Buckhurst Hill A" result="19 - 13">Hampstead A</winner>
+    <winner compId="mnr" rup="Swanley A" result="7 - 5">St Helier A</winner>
+  </season>
+  <season year="1975">
+    <winner compId="snr" rup="Oxford Uni" result="15 - 4">Lee</winner>
+    <winner compId="int" rup="Purley A" result="12 - 9">Hampstead Hurons</winner>
+    <winner compId="mnr" rup="Lee B" result="12 - 5">Purley C</winner>
+  </season>
+  <season year="1974">
+    <winner compId="snr" rup="Hampstead" result="17 - 7">Lee</winner>
+    <winner compId="int" rup="Croydon" result="16 - 13">Beckenham</winner>
+    <winner compId="mnr" rup="Purley C" result="17 - 2">Oxford Iroquois</winner>
+  </season>
+  <season year="1973">
+    <winner compId="snr" rup="Purley" result="23 - 3">Lee</winner>
+    <winner compId="int" rup="Hillcroft" result="9 - 6">Bexleyheath</winner>
+    <winner compId="mnr" rup="Kenton A" result="22 - 5">Croydon A</winner>
+  </season>
+  <season year="1972">
+    <winner compId="snr" rup="Hampstead" result="17 - 8">Lee</winner>
+    <winner compId="int" rup="Kenton" result="17 - 6">London Uni</winner>
+    <winner compId="mnr" rup="Oxford Iroquois" result="22 - 9">Purley B</winner>
+  </season>
+  <season year="1971">
+    <winner compId="snr" rup="Hampstead" result="19 - 6">Lee</winner>
+    <winner compId="int" rup="Hampstead Hurons" result="15 - 8">Kenton</winner>
+    <winner compId="mnr" rup="Old Hillcrovians" result="14 - 1">Old Sedcopians A</winner>
+  </season>
+  <season year="1970">
+    <winner compId="snr" rup="Purley" result="11 - 0">Lee</winner>
+    <winner compId="int" rup="Purley A" result="11 - 9">Lee A</winner>
+  </season>
+  <season year="1969">
+    <winner compId="snr" rup="Lee" result="7 - 6">Hampstead</winner>
+    <winner compId="int" rup="Beckenham" result="12 - 6">Croydon</winner>
+  </season>
+  <season year="1968">
+    <winner compId="snr" rup="Purley" result="17 - 4">Lee</winner>
+    <winner compId="int" rup="St Helier" result="13 - 4">Buckhurst Hill</winner>
+  </season>
+  <season year="1967">
+    <winner compId="snr" rup="Oxford Uni" result="11 - 8">Purley</winner>
+    <winner compId="int" rup="Purley A">Buckhurst Hill</winner>
+  </season>
+  <season year="1966">
+    <winner compId="snr" rup="London Uni" result="12 - 4">Cambridge Uni</winner>
+    <winner compId="int" rup="Lee A" result="9 - 6">Purley B</winner>
+  </season>
+  <season year="1965">
+    <winner compId="snr" rup="Purley" result="9 - 8">Cambridge Uni</winner>
+    <winner compId="int" rup="Bristol Uni" result="17 - 7">Old Sedcopians</winner>
+  </season>
+  <season year="1964">
+    <winner compId="snr" rup="London Uni" result="7 - 6">Lee</winner>
+    <winner compId="int" rup="Purley A" result="7 - 6">Beckenham</winner>
+  </season>
+  <season year="1963">
+    <winner compId="snr" rup="Purley" result="8 - 7">Cambridge Uni</winner>
+    <winner compId="int" rup="Cambridge Eagles" result="10 - 1">Purley A</winner>
+  </season>
+  <season year="1962">
+    <winner compId="snr" rup="London Uni" result="7 - 5">Cambridge Uni</winner>
+    <winner compId="int" rup="Beckenham" result="11 - 1">Cambridge Eagles</winner>
+  </season>
+  <season year="1961">
+    <winner compId="snr" rup="Cambridge Uni" result="8 - 4">Oxford Uni</winner>
+    <winner compId="int" rup="Cambridge Eagles" result="10 - 4">Purley B</winner>
+  </season>
+  <season year="1960">
+    <winner compId="snr" rup="Purley" result="6 - 2">Cambridge Uni</winner>
+    <winner compId="int" rup="Old Sedcopians" result="12 - 3">Woodmansterne</winner>
+  </season>
+  <season year="1959">
+    <winner compId="snr" rup="Oxford Uni" result="8 - 6">Cambridge Uni</winner>
+    <winner compId="int" rup="Oxford Iroquois" result="14 - 8">Purley II</winner>
+  </season>
+  <season year="1958">
+    <winner compId="snr" rup="Cambridge Uni" result="8 - 4">Oxford Uni</winner>
+    <winner compId="int" rup="Oxford Iroquois" result="4 - 1">Purley II</winner>
+  </season>
+  <season year="1957">
+    <winner compId="snr" rup="Oxford Uni" result="17 - 5">Cambridge Uni</winner>
+    <winner compId="int" rup="London Uni" result="8 - 4">Purley II</winner>
+  </season>
+  <season year="1956">
+    <winner compId="snr" rup="Oxford Uni" result="17 - 2">Cambridge Uni</winner>
+    <winner compId="int" rup="Purley II" result="11 - 5">Cambridge Eagles</winner>
+  </season>
+  <season year="1955">
+    <winner compId="snr" rup="Purley" result="14 - 4">Cambridge Uni</winner>
+    <winner compId="int" rup="Oxford Iroquois" result="6 - 3">Purley II</winner>
+  </season>
+  <season year="1954">
+    <winner compId="snr" rup="Purley" result="17 - 12 (OT)">Cambridge Uni</winner>
+    <winner compId="int" rup="Hampstead II" result="10 - 3">Beckenham</winner>
+  </season>
+  <season year="1953">
+    <winner compId="snr" rup="Oxford Uni" result="17 - 6">Purley</winner>
+    <winner compId="int" rup="Beckenham" result="12 - 7">Purley A</winner>
+    <winner compId="mnr" rup="Old Sedcopians" result="8 - 6">Purley B</winner>
+  </season>
+  <season year="1952">
+    <winner compId="snr" rup="Cambridge Uni" result="8 - 7">Purley</winner>
+    <winner compId="int" rup="Beckenham" result="6 - 4">Hampstead II</winner>
+    <winner compId="mnr">Henry Thornton School</winner>
+  </season>
+  <season year="1951">
+    <winner compId="snr" rup="Purley" result="18 - 2">Oxford Uni</winner>
+    <winner compId="int" rup="Oxford Iroquois" result="7 - 2">Purley Kings</winner>
+    <winner compId="mnr" rup="Chislehurst &amp; Sidcup Grammar School">Lee II</winner>
+  </season>
+  <season year="1950">
+    <winner compId="snr" rup="Hampstead" result="5 - 3">Cambridge Uni</winner>
+    <winner compId="int" rup="Hampstead II" result="8 - 1">Cambridge Eagles</winner>
+    <winner compId="mnr">Chislehurst &amp; Sidcup Grammar School</winner>
+  </season>
+  <season year="1949">
+    <winner compId="snr" rup="Oxford Uni" result="5 - 2">Cambridge Uni</winner>
+    <winner compId="int" rup="Hampstead A" result="16 - 0">Cambridge Eagles</winner>
+    <winner compId="mnr" rup="Chislehurst &amp; Sidcup Grammar School" result="7 - 0">Walworth School</winner>
+  </season>
+  <season year="1948">
+    <winner compId="snr" rup="Lee" result="12 - 9 (OT)">Cambridge Uni</winner>
+  </season>
+  <season year="1947">
+    <winner compId="snr" rup="Cambridge Uni" result="23 - 11">Hampstead</winner>
+  </season>
+  <season year="1939">
+    <winner compId="snr" rup="Willoughby" result="13 - 5">Hampstead</winner>
+    <winner compId="int" rup="Wallington" result="15 - 4">St Dunstan's College</winner>
+    <winner compId="mnr">Old Dunstonians II</winner>
+  </season>
+  <season year="1938" ref="flags/flags-1938.xml">
+    <winner compId="snr" rup="Surbiton" result="19 - 3">Willoughby</winner>
+    <winner compId="int" rup="Old Thorntonians" result="9 - 6">Purley</winner>
+    <winner compId="mnr">Buckhurst Hill II</winner>
+  </season>
+  <season year="1937">
+    <winner compId="snr" rup="Surbiton" result="9 - 1">Hampstead</winner>
+    <winner compId="int" rup="Purley" result="10 - 9">Old Thorntonians</winner>
+    <winner compId="mnr" rup="Buckhurst Hill II" result="8 - 7">Old Dunstonians II</winner>
+  </season>
+  <season year="1936">
+    <winner compId="snr" rup="Old Dunstonians" result="4 - 2">Surbiton</winner>
+    <winner compId="int" rup="Catford II" result="9 - 8">Old Thorntonians</winner>
+    <winner compId="mnr" rup="Surbiton II" result="15 - 10">Hampstead II</winner>
+  </season>
+  <season year="1935">
+    <winner compId="snr" rup="Surbiton" result="10 - 4">Cambridge Uni</winner>
+    <winner compId="int" rup="Purley" result="12 - 2">Old Dunstonian's</winner>
+    <winner compId="mnr" rup="Old Thorntonians" result="14 - 4">Briston Uni</winner>
+  </season>
+  <season year="1934">
+    <winner compId="snr" rup="Lee" result="11 - 7">Cambridge Uni</winner>
+    <winner compId="int" rup="Buckhurst Hill II" result="15 - 2">WD &amp; HO Wills</winner>
+    <winner compId="mnr">Old Dunstonians II</winner>
+  </season>
+  <season year="1933">
+    <winner compId="snr" rup="Hampstead" result="10 - 5">Oxford Uni</winner>
+    <winner compId="int" rup="Oxford Iroquois">Old Dunstonian's</winner>
+    <winner compId="mnr" rup="Dunstonians II" result="8 - 5">Henry Thornton School</winner>
+  </season>
+  <season year="1932">
+    <winner compId="snr" rup="Hampstead" result="8 - 6">Oxford Uni</winner>
+    <winner compId="int" rup="Old Dunstonians" result="5 - 4">Purley</winner>
+    <winner compId="mnr">Henry Thornton School</winner>
+  </season>
+  <season year="1931">
+    <winner compId="snr" rup="Hampstead" result="9 - 4">Oxford Uni</winner>
+    <winner compId="int" rup="Lee 2nd" result="14 - 4">WD &amp; HO Wills</winner>
+    <winner compId="mnr">Hampstead II</winner>
+  </season>
+  <season year="1930">
+    <winner compId="snr" rup="Hampstead" result="16 - 3">Oxford Uni</winner>
+    <winner compId="int" rup="Cambridge II" result="9 - 1">St Dunstan's College</winner>
+    <winner compId="mnr" rup="Henry Thornton School" result="7 - 6">Surbiton II</winner>
+  </season>
+  <season year="1929">
+    <winner compId="snr" rup="Oxford Uni" result="3 - 2">Lee</winner>
+    <winner compId="int" rup="WD &amp; HO Wills" result="7 - 6 (OT)">Catford II</winner>
+    <winner compId="mnr">Buckhurst Hill II</winner>
+  </season>
+  <season year="1928">
+    <winner compId="snr" rup="Hampstead" result="8 - 3">Oxford Uni</winner>
+    <winner compId="int" rup="Catford II" result="7 - 1">Purley</winner>
+    <winner compId="mnr">Cambridge Uni II</winner>
+  </season>
+  <season year="1927">
+    <winner compId="snr" rup="Hampstead" result="12 - 6">Oxford Uni</winner>
+    <winner compId="int" rup="Catford II" result="17 - 6">St Dunstan's College</winner>
+    <winner compId="mnr" rup="St Dunstans College" result="13 - 6">Lee II</winner>
+  </season>
+  <season year="1926">
+    <winner compId="snr" rup="Oxford Uni" result="11 - 6">Buckhurst Hill</winner>
+    <winner compId="int" rup="Clifton" result="12 - 6">Surbiton</winner>
+    <winner compId="mnr" rup="Lee II">St Dunstons College</winner>
+  </season>
+  <season year="1925">
+    <winner compId="snr" rup="Keynsham" result="16 - 6">Buckhurst Hill</winner>
+    <winner compId="int" rup="St Dunstans College" result="9 - 4">WD &amp; HO Wills</winner>
+    <winner compId="mnr" rup="Hampstead II" result="6 - 4">Willoughby II</winner>
+  </season>
+  <season year="1924">
+    <winner compId="snr" rup="Buckhurst Hill" result="16 - 9">Hampstead</winner>
+    <winner compId="int" rup="Surbiton" result="11 - 7">Buckhurst Hill II</winner>
+    <winner compId="mnr" rup="Willoughby II" result="7 - 2">Catford II</winner>
+  </season>
+  <season year="1923">
+    <winner compId="snr" rup="Hampstead" result="8 - 7">Oxford Uni</winner>
+    <winner compId="int">WD &amp; HO Wills</winner>
+    <winner compId="mnr">Catford II</winner>
+  </season>
+  <season year="1922">
+    <winner compId="snr" rup="Hampstead" result="11 - 10">Lee</winner>
+    <winner compId="int">Keynsham</winner>
+    <winner compId="mnr">Buckhurst Hill II</winner>
+  </season>
+  <season year="1921">
+    <winner compId="snr" rup="Buckhurst Hill" result="12 - 6">Lee</winner>
+    <winner compId="mnr">West London</winner>
+  </season>
+  <season year="1914">
+    <winner compId="snr" rup="Catford" result="4 - 3">Lee</winner>
+    <winner compId="int" rup="Catford" result="11 - 10">Buckhurst Hill</winner>
+    <winner compId="mnr">West London II</winner>
+  </season>
+  <season year="1913">
+    <winner compId="snr" rup="West London" result="6 - 4">Lee</winner>
+    <winner compId="int" rup="Lee II" result="9 - 7 (OT)">Blackheath</winner>
+    <winner compId="mnr">Oxford Uni II</winner>
+  </season>
+  <season year="1912">
+    <winner compId="snr" rup="West London" result="15 - 5">Lee</winner>
+    <winner compId="mnr" rup="Croydon" result="16 - 6">Lee II</winner>
+  </season>
+  <season year="1911">
+    <winner compId="snr" rup="Oxford Uni" result="12 - 6">Lee</winner>
+    <winner compId="mnr">Purley</winner>
+  </season>
+  <season year="1910">
+    <winner compId="snr" rup="Lee" result="10 - 3">Catford</winner>
+    <winner compId="mnr" rup="Catford II" result="16 - 10">St Dunstans College</winner>
+  </season>
+  <season year="1909">
+    <winner compId="snr" rup="Lee" result="6 - 4">Catford</winner>
+    <winner compId="mnr">Woodford</winner>
+  </season>
+  <season year="1908">
+    <winner compId="snr" rup="Oxford Uni" result="11 - 3">Surbiton</winner>
+    <winner compId="mnr">St Dunstans College</winner>
+  </season>
+  <season year="1907">
+    <winner compId="snr" rup="Catford" result="9 - 5">Surbiton</winner>
+    <winner compId="mnr" rup="St Dunstan's College" result="9 - 7">West London II</winner>
+  </season>
+  <season year="1906">
+    <winner compId="snr" rup="Catford" result="14 - 1">Surbiton</winner>
+    <winner compId="mnr" rup="West London II" result="14 - 5">Catford II</winner>
+  </season>
+  <season year="1905">
+    <winner compId="snr" rup="Leys School" result="20 - 5">Surbiton</winner>
+    <winner compId="mnr" rup="Catford II" result="10 - 4">Cambridge Uni</winner>
+  </season>
+  <season year="1904">
+    <winner compId="snr" rup="Surbiton" result="8 - 6">Catford</winner>
+    <winner compId="mnr" rup="Cambridge Uni II" result="4 - 3">Woodford II</winner>
+  </season>
+  <season year="1903">
+    <winner compId="snr" rup="Catford" result="11 - 6">Woodford</winner>
+    <winner compId="mnr" rup="Blackheath II" result="5 - 3">Cambridge Uni II</winner>
+  </season>
+  <season year="1902">
+    <winner compId="snr" rup="Blackheath" result="11 - 1">Woodford</winner>
+    <winner compId="mnr">Catford</winner>
+  </season>
+  <season year="1901">
+    <winner compId="snr" rup="Leys School" result="10 - 2">Woodford</winner>
+    <winner compId="mnr">Catford</winner>
+  </season>
+  <season year="1900">
+    <winner compId="snr" rup="Leys School" result="14 - 6">Woodford</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1899">
+    <winner compId="snr" rup="Surbiton" result="8 - 3">West London</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1898">
+    <winner compId="snr" rup="West London" result="6 - 5">Surbiton</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1897">
+    <winner compId="snr" rup="Snaresbrook" result="15 - 2">West London</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1896">
+    <winner compId="snr" rup="Chiswick" result="10 - 3">Surbiton</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1895">
+    <winner compId="snr" rup="West London" result="21 - 6">Snaresbrook</winner>
+    <winner compId="mnr">St Dunstans College</winner>
+  </season>
+  <season year="1894">
+    <winner compId="snr" rup="Surbiton" result="12 - 4">Snaresbrook</winner>
+    <winner compId="mnr">Snaresbrook</winner>
+  </season>
+  <season year="1893">
+    <winner compId="snr" rup="Clapton" result="9 - 5">West London</winner>
+    <winner compId="mnr">Honourable Artillery Club</winner>
+  </season>
+  <season year="1892">
+    <winner compId="snr" rup="Snaresbrook" result="6 - 2">Clapton</winner>
+    <winner compId="mnr">Leys School</winner>
+  </season>
+  <season year="1891">
+    <winner compId="snr" rup="Snaresbrook" result="6 - 0">Clapton</winner>
+    <winner compId="mnr">Barnet</winner>
+  </season>
+  <season year="1890">
+    <winner compId="snr" rup="Snaresbrook" result="6 - 4">West London</winner>
+    <winner compId="mnr">West London</winner>
+  </season>
+  <season year="1889">
+    <winner compId="snr" rup="Blackheath" result="2 - 1">Clapton</winner>
+  </season>
+  <season year="1888">
+    <winner compId="snr" rup="Snaresbrook" result="5 - 4">Leys School</winner>
+  </season>
+  <season year="1887">
+    <winner compId="snr" rup="Leys School" result="4 - 3">Clapton</winner>
+  </season>
+  <season year="1886">
+    <winner compId="snr" rup="Clapton" result="6 - 3">Cambridge Uni</winner>
+  </season>
+  <season year="1885">
+    <winner compId="snr" rup="Cambridge Uni" result="3 - 2">Leys School</winner>
+  </season>
+  <season year="1884">
+    <winner compId="snr" rup="Dulwich" result="11 - 0">London</winner>
+  </season>
+</results>

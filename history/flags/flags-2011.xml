@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2011">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Prelims" date="2010-10-23">
+      <match home="2" matchNum="3">
+        <team1>Hampstead</team1>
+        <team2>Hitchin</team2>
+        <score>10 - 9</score>
+      </match>
+      <match home="2" matchNum="6">
+        <team1>Purley</team1>
+        <team2>Walcountian Blues</team2>
+        <score>6 - 13</score>
+      </match>
+    </round>
+    <round name="Round 1" short="R1" date="2010-11-20">
+      <match home="2" matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Hillcroft</team2>
+        <score>12 - 8</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Hampstead</team1>
+        <team2>East Grinstead</team2>
+        <score>8 - 2</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Spencer</team1>
+        <team2>Walcountian Blues</team2>
+        <score>6 - 12</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>4 - 9</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2011-02-19">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Hampstead</team2>
+        <score>10 - 9</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Walcountian Blues</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>19 - 4</score>
+      </match>
+    </round>
+    <round name="Final" date="2011-04-09">
+      <match matchNum="1">
+        <team1>Reading Wildcats</team1>
+        <team2>Walcountian Blues</team2>
+        <score>8 - 11</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2010-11-27">
+      <match home="1" matchNum="1">
+        <team1>Cardiff Harlequins A</team1>
+        <team2>Southampton City</team2>
+        <score>13 - 14</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Reading Wildcats 2</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Warwick Uni</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>7 - 29</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Penarth</team1>
+        <team2>Spencer 2</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Cambridge Uni</team1>
+        <team2>Colchester</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bath</team2>
+        <score>8 - 6</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>Croydon</team1>
+        <team2>Bristol Bombers</team2>
+        <score>1 - 16</score>
+      </match>
+      <match home="2" matchNum="8">
+        <team1>Swansea Hawks</team1>
+        <team2>Brighton Panthers</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2011-01-22">
+      <match home="2" matchNum="1">
+        <team1>Southampton City</team1>
+        <team2>Walcountian Blues 2</team2>
+        <score>6 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Portsmouth Uni</team1>
+        <team2>Spencer 2</team2>
+        <score>9 - 7</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Cambridge Uni</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>3 - 6</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bristol Bombers</team1>
+        <team2>Brighton Panthers</team2>
+        <score>10 - 3</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2011-02-19">
+      <match home="1" matchNum="1">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>4 - 13</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Buckhurst Hill</team1>
+        <team2>Bristol Bombers</team2>
+        <score>6 - 9</score>
+      </match>
+    </round>
+    <round name="Final" date="2011-04-09">
+      <match matchNum="1">
+        <team1>Portsmouth Uni</team1>
+        <team2>Bristol Bombers</team2>
+        <score>10 - 11</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Prelims" date="2010-10-23">
+      <match home="1" matchNum="1">
+        <team1>Epsom</team1>
+        <team2>Canterbury</team2>
+        <score>22 - 5</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Aberystwyth Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Portsmouth Uni 2</team1>
+        <team2>Welwyn Warriors 3</team2>
+        <score>15 - 5</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Exeter Uni</team2>
+        <score>5 - 7</score>
+      </match>
+      <match home="1" matchNum="7">
+        <team1>Royal Holloway</team1>
+        <team2>Hitchin A</team2>
+        <score>4 - 10</score>
+      </match>
+      <match home="1" matchNum="9">
+        <team1>Birmingham Bulls</team1>
+        <team2>Northampton Town</team2>
+        <score>9 - 7</score>
+      </match>
+      <match home="1" matchNum="11">
+        <team1>East Grinstead A</team1>
+        <team2>Maidstone</team2>
+        <score>10 - 6</score>
+      </match>
+      <match home="1" matchNum="12">
+        <team1>Walcountian Blues 3</team1>
+        <team2>Spencer 3</team2>
+        <score>6 - 9</score>
+      </match>
+      <match home="1" matchNum="13">
+        <team1>London Uni</team1>
+        <team2>Cheltenham</team2>
+        <score>12 - 6</score>
+      </match>
+      <match home="1" matchNum="14">
+        <team1>Bye</team1>
+        <team2>Bath 2</team2>
+      </match>
+      <match home="1" matchNum="15">
+        <team1>RAF Marham</team1>
+        <team2>Hillcroft A</team2>
+        <score>3 - 13</score>
+      </match>
+      <match home="1" matchNum="16">
+        <team1>Southampton Tridents</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Round 1" short="R1" date="2010-11-27">
+      <match home="1" matchNum="1">
+        <team1>Epsom</team1>
+        <team2>Bristol Bombers 2</team2>
+        <score>12 - 14</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Portsmouth Uni 2</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Exeter Uni</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Hitchin A</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Birmingham Bulls</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="6">
+        <team1>East Grinstead A</team1>
+        <team2>Spencer 3</team2>
+        <score>12 - 5</score>
+      </match>
+      <match home="2" matchNum="7">
+        <team1>London Uni</team1>
+        <team2>Bath 2</team2>
+        <score>9 - 5</score>
+      </match>
+      <match home="2" matchNum="8">
+        <team1>Hillcroft A</team1>
+        <team2>Southampton Tridents</team2>
+        <score>15 - 2</score>
+      </match>
+    </round>
+    <round name="Round 2" short="R2" date="2011-01-22">
+      <match home="1" matchNum="1">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Portsmouth Uni 2</team2>
+        <score>14 - 1</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Exeter Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Birmingham Bulls</team1>
+        <team2>East Grinstead A</team2>
+        <score>11 - 6</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>London Uni</team1>
+        <team2>Hillcroft A</team2>
+        <score>7 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2011-02-19">
+      <match home="1" matchNum="1">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Exeter Uni</team2>
+        <score>3 - 6</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Birmingham Bulls</team1>
+        <team2>Hillcroft A</team2>
+        <score>9 - 10</score>
+      </match>
+    </round>
+    <round name="Final" date="2011-04-09">
+      <match matchNum="1">
+        <team1>Exeter Uni</team1>
+        <team2>Hillcroft A</team2>
+        <score>12 - 5</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1969">
+<division><division-name>Division 1</division-name>
+<team><team-name>Lee</team-name><won>13</won><drawn>0</drawn><lost>0</lost><points>26</points><for>199</for><against>31</against></team>
+<team><team-name>London Uni</team-name><won>9</won><drawn>0</drawn><lost>4</lost><points>18</points><for>115</for><against>104</against></team>
+<team><team-name>Hampstead</team-name><won>8</won><drawn>0</drawn><lost>5</lost><points>16</points><for>122</for><against>61</against></team>
+<team><team-name>Purley</team-name><won>8</won><drawn>0</drawn><lost>6</lost><points>16</points><for>99</for><against>128</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>5</won><drawn>1</drawn><lost>7</lost><points>11</points><for>85</for><against>78</against></team>
+<team><team-name>St Helier</team-name><won>5</won><drawn>0</drawn><lost>9</lost><points>10</points><for>76</for><against>155</against></team>
+<team><team-name>Addiscombe</team-name><won>3</won><drawn>0</drawn><lost>11</lost><points>6</points><for>90</for><against>161</against></team>
+<team><team-name>Kenton</team-name><won>2</won><drawn>1</drawn><lost>11</lost><points>5</points><for>63</for><against>121</against></team>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>Croydon</team-name><won>13</won><drawn>1</drawn><lost>2</lost><points>27</points><for>147</for><against>76</against></team>
+<team><team-name>Lee A</team-name><won>11</won><drawn>1</drawn><lost>3</lost><points>23</points><for>118</for><against>62</against></team>
+<team><team-name>Beckenham</team-name><won>10</won><drawn>1</drawn><lost>1</lost><points>21</points><for>112</for><against>50</against></team>
+<team><team-name>Hampstead A</team-name><won>9</won><drawn>0</drawn><lost>7</lost><points>18</points><for>133</for><against>85</against></team>
+<team><team-name>Old Sedcopians</team-name><won>7</won><drawn>1</drawn><lost>5</lost><points>15</points><for>96</for><against>107</against></team>
+<team><team-name>Oxford Iroquois</team-name><won>4</won><drawn>0</drawn><lost>8</lost><points>8</points><for>32</for><against>54</against></team>
+<team><team-name>Purley A</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>60</for><against>143</against></team>
+<team><team-name>Cambridge Eagles</team-name><won>2</won><drawn>0</drawn><lost>12</lost><points>4</points><for>29</for><against>78</against></team>
+<team><team-name>Avery Hill</team-name><won>0</won><drawn>0</drawn><lost>10</lost><points>0</points><for>24</for><against>96</against></team>
+</division>
+<division><division-name>Division 3</division-name>
+<team><team-name>Croydon A</team-name><won>11</won><drawn>1</drawn><lost>4</lost><points>23</points><for>113</for><against>67</against></team>
+<team><team-name>Buckhurst Hill A</team-name><won>10</won><drawn>1</drawn><lost>4</lost><points>21</points><for>62</for><against>52</against></team>
+<team><team-name>London Vandals</team-name><won>8</won><drawn>4</drawn><lost>2</lost><points>20</points><for>46</for><against>29</against></team>
+<team><team-name>Lee B</team-name><won>8</won><drawn>0</drawn><lost>4</lost><points>16</points><for>62</for><against>45</against></team>
+<team><team-name>Beckenham</team-name><won>6</won><drawn>4</drawn><lost>6</lost><points>16</points><for>81</for><against>103</against></team>
+<team><team-name>Old Sedcopians</team-name><won>7</won><drawn>1</drawn><lost>6</lost><points>15</points><for>89</for><against>81</against></team>
+<team><team-name>St Helier A</team-name><won>5</won><drawn>1</drawn><lost>9</lost><points>11</points><for>76</for><against>72</against></team>
+<team><team-name>Marjons</team-name><won>3</won><drawn>4</drawn><lost>7</lost><points>10</points><for>22</for><against>59</against></team>
+<team><team-name>Henry Thornton School</team-name><won>0</won><drawn>0</drawn><lost>16</lost><points>0</points><for>15</for><against>57</against></team>
+</division>
+</league-tables>

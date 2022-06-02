@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="1998">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Round 1" short="R1" date="1997-11-08">
+      <match home="1" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Hillcroft</team2>
+        <score>11 - 17</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Hitchin</team1>
+        <team2>Hampstead</team2>
+        <score>8 - 21</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="1998-01-24">
+      <match home="2" matchNum="1">
+        <team1>Hillcroft</team1>
+        <team2>Kenton</team2>
+        <score>2 - 15</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Hampstead</team1>
+        <team2>Purley</team2>
+        <score>18 - 15</score>
+      </match>
+    </round>
+    <round name="Final" date="1998-04-04">
+      <match matchNum="1">
+        <team1>Kenton</team1>
+        <team2>Hampstead</team2>
+        <score>11 - 12</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="1997-11-15">
+      <match home="1" matchNum="1">
+        <team1>Buckhurst Hill</team1>
+        <team2>Beckenham</team2>
+        <score>9 - 16</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Croydon</team1>
+        <team2>Tatsfield</team2>
+        <score>10 - 1</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="1998-01-24">
+      <match home="2" matchNum="1">
+        <team1>Beckenham</team1>
+        <team2>London Uni</team2>
+        <score>12 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Croydon</team1>
+        <team2>Oxford Uni</team2>
+        <score>6 - 8</score>
+      </match>
+    </round>
+    <round name="Final" date="1998-04-04">
+      <match matchNum="1">
+        <team1>Beckenham</team1>
+        <team2>Croydon</team2>
+        <score>14 - 4</score>
+      </match>
+    </round>
+    <remarks>Oxford University could not raise a team to play in the Intermediate Final and defaulted, their place being taken by Croydon.</remarks>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Round 1" short="R1" date="1997-22-22">
+      <match home="1" matchNum="1">
+        <team1>Bath Uni</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>9 - 7</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Croydon A</team1>
+        <team2>Kenton A</team2>
+        <score>0 - 1</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Southampton Uni</team1>
+        <team2>Purley A</team2>
+        <score>1 - 0</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Cambridge Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>8 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="1998-01-31">
+      <match home="2" matchNum="1">
+        <team1>Bath Uni</team1>
+        <team2>Kenton A</team2>
+        <score>1 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Southampton Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>5 - 8</score>
+      </match>
+    </round>
+    <round name="Final" date="1998-04-04">
+      <match matchNum="1">
+        <team1>Bath Uni</team1>
+        <team2>Hitchin A</team2>
+        <score>5 - 11</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

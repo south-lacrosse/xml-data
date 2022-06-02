@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2016" name="Plate" short="Plt">
+  <flags-competition id="int-east" name="Intermediate East" short="Int East" minimal="Int E">
+    <round name="Round 1" date="2015-10-03" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Croydon</team2>
+        <score>18 - 5</score>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>Maidstone</team1>
+        <team2>Epsom</team2>
+        <score>12 - 10</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2015-11-14" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Welwyn Warriors</team2>
+        <score>16 - 3</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hillcroft A</team1>
+        <team2>Cambridge Uni</team2>
+        <score>18 - 3</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Buckhurst Hill</team1>
+        <team2>London Uni</team2>
+        <score>6 - 4</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Oxford Uni</team1>
+        <team2>Maidstone</team2>
+        <score>15 - 6</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2016-01-30" short="SF">
+      <match home="2" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Hillcroft A</team2>
+        <score>15 - 5</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Buckhurst Hill</team1>
+        <team2>Oxford Uni</team2>
+        <score>9 - 5</score>
+      </match>
+    </round>
+    <round name="Final" date="2016-03-05">
+      <match home="1" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>12 - 6</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int-west" name="Intermediate West" short="Int West" minimal="Int W">
+    <round name="Round 1" date="2015-10-31" date2="2015-11-14" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Bournemouth</team1>
+        <team2>Cardiff Harlequins A</team2>
+        <score>10 - 10</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Bath</team1>
+        <team2>Birmingham</team2>
+        <score>14 - 17</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Southampton</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Swansea Hawks</team2>
+        <score>20 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2016-01-23" date2="2016-02-06" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Cardiff Harlequins A</team1>
+        <team2>Birmingham</team2>
+        <score>3 - 19</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Southampton</team1>
+        <team2>Bristol Bombers 2</team2>
+        <score>9 - 3</score>
+      </match>
+    </round>
+    <round name="Final" date="2016-03-05">
+      <match home="1" matchNum="1">
+        <team1>Birmingham</team1>
+        <team2>Southampton</team2>
+        <score>6 - 8</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr-east" name="Minor East" short="Mnr East" minimal="Mr E">
+    <round name="Round 1" date="2015-10-03" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Royal Holloway</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Milton Keynes Minotaurs</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>7 - 12</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Oxford Iroquois</team1>
+        <team2>Hitchin A</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Epsom 2</team1>
+        <team2>Cambridge Eagles</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Walcountian Blues 2</team1>
+        <team2>East Grinstead A</team2>
+        <score>10 - 11</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Brighton Panthers</team1>
+        <team2>Spencer 3</team2>
+        <score>13 - 3</score>
+      </match>
+      <match home="1" matchNum="7">
+        <team1>Chichester Crusaders</team1>
+        <team2>Maidstone 2</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>Hillcroft B</team1>
+        <team2>Canterbury</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2015-11-14" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Welwyn Warriors 2</team2>
+        <score>7 - 6</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Oxford Iroquois</team1>
+        <team2>Epsom 2</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>East Grinstead A</team1>
+        <team2>Brighton Panthers</team2>
+        <score>8 - 11</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Chichester Crusaders</team1>
+        <team2>Hillcroft B</team2>
+        <score>3 - 6</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2016-01-30" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Oxford Iroquois</team2>
+        <score>18 - 3</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Brighton Panthers</team1>
+        <team2>Hillcroft B</team2>
+        <score>9 - 12</score>
+      </match>
+    </round>
+    <round name="Final" date="2016-03-05">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Hillcroft B</team2>
+        <score>6 - 8</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr-west" name="Minor West" short="Mnr West" minimal="Mr W">
+    <round name="Round 1" date="2015-10-31" date2="2015-11-14" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Bath 2</team1>
+        <team2>Southampton A</team2>
+        <score>14 - 5</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Cheltenham</team1>
+        <team2>Warwick Uni</team2>
+        <score>0 - 10</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Plymouth Uni</team1>
+        <team2>Plymouth City</team2>
+        <score>2 - 17</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Exeter Uni</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Semi Final" date="2016-01-23" date2="2016-02-06" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Bath 2</team1>
+        <team2>Warwick Uni</team2>
+        <score>19 - 11</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Plymouth City</team1>
+        <team2>Exeter Uni</team2>
+        <score>17 - 5</score>
+      </match>
+    </round>
+    <round name="Final" date="2016-03-05">
+      <match home="1" matchNum="1">
+        <team1>Bath 2</team1>
+        <team2>Plymouth City</team2>
+        <score>4 - 8</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="League Playoffs">
+  <competitions>
+    <comp id="e-v-w">East v West Playoff</comp>
+    <comp id="playoff">Premier Division Playoff</comp>
+  </competitions>
+  <season year="2018">
+    <winner compId="e-v-w">East Grinstead</winner>
+  </season>
+  <season year="2017">
+    <winner compId="e-v-w">Welwyn Warriors</winner>
+  </season>
+  <season year="2016">
+    <winner compId="e-v-w">Cambridge Uni</winner>
+  </season>
+  <season year="2015">
+    <winner compId="e-v-w">Cardiff Harlequins</winner>
+    <winner compId="playoff">Purley (Prem)</winner>
+  </season>
+  <season year="2014">
+    <winner compId="e-v-w">Buckhurst Hill</winner>
+  </season>
+  <season year="2013">
+    <winner compId="e-v-w">Bristol Bombers</winner>
+  </season>
+  <season year="2012">
+    <winner compId="e-v-w">East Grinstead</winner>
+    <winner compId="playoff">Purley (Prem)</winner>
+  </season>
+  <season year="2011">
+    <winner compId="e-v-w">Bristol Bombers</winner>
+  </season>
+  <season year="2010">
+    <winner compId="e-v-w">Cardiff Harlequins</winner>
+    <winner compId="playoff">East Grinstead (Prem)</winner>
+  </season>
+  <season year="2009">
+    <winner compId="e-v-w">Bath</winner>
+    <winner compId="playoff">Hillcroft (Prem)</winner>
+  </season>
+  <season year="2008">
+    <winner compId="e-v-w">Welwyn Warriors</winner>
+  </season>
+  <season year="2007">
+    <winner compId="e-v-w">East Grinstead</winner>
+    <winner compId="playoff">Swansea (W1)</winner>
+  </season>
+  <season year="2006">
+    <winner compId="e-v-w">Oxford Uni</winner>
+  </season>
+</results>

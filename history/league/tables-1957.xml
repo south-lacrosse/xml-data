@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1957">
+<division><division-name>Senior Championship</division-name>
+<team><team-name>Kenton</team-name><won>13</won><drawn>0</drawn><lost>1</lost><points>26</points><for>162</for><against>57</against></team>
+<team><team-name>Purley</team-name><won>9</won><drawn>2</drawn><lost>3</lost><points>20</points><for>171</for><against>94</against></team>
+<team><team-name>Lee</team-name><won>10</won><drawn>0</drawn><lost>4</lost><points>20</points><for>162</for><against>103</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>7</won><drawn>1</drawn><lost>6</lost><points>15</points><for>123</for><against>93</against></team>
+<team><team-name>Hampstead</team-name><won>6</won><drawn>1</drawn><lost>7</lost><points>13</points><for>97</for><against>126</against></team>
+<team><team-name>Old Dunstonians</team-name><won>4</won><drawn>1</drawn><lost>9</lost><points>9</points><for>98</for><against>147</against></team>
+<team><team-name>Old Thorntonians</team-name><won>3</won><drawn>1</drawn><lost>10</lost><points>7</points><for>86</for><against>157</against></team>
+<team><team-name>Old Sedcopians</team-name><won>1</won><drawn>0</drawn><lost>13</lost><points>2</points><for>84</for><against>206</against></team>
+</division>
+<division><division-name>Junior Championship</division-name>
+<team><team-name>Purley II</team-name><won>9</won><drawn>1</drawn><lost>0</lost><points>19</points><for>41</for><against>24</against></team>
+<team><team-name>Henry Thornton School</team-name><won>7</won><drawn>0</drawn><lost>2</lost><points>14</points><for>55</for><against>20</against></team>
+<team><team-name>Chislehurst &amp; Sidcup Grammar School</team-name><won>6</won><drawn>0</drawn><lost>3</lost><points>12</points><for>23</for><against>30</against></team>
+<team><team-name>Buckhurst Hill II</team-name><won>3</won><drawn>1</drawn><lost>6</lost><points>7</points><for>22</for><against>42</against></team>
+<team><team-name>Kenton II</team-name><won>2</won><drawn>0</drawn><lost>7</lost><points>4</points><for>23</for><against>21</against></team>
+<team><team-name>Hampstead II</team-name><won>0</won><drawn>0</drawn><lost>9</lost><points>0</points><for>7</for><against>34</against></team>
+</division>
+</league-tables>

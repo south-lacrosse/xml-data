@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags year="2014" name="Plate" short="Plt">
+  <flags-competition id="int-east" short="Int East" minimal="Int E" name="Intermediate East">
+    <round name="Round 1" date="2013-09-28" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Croydon</team1>
+        <team2>Spencer 2</team2>
+        <score>7 - 10</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2013-11-16" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Epsom</team2>
+        <score>19 - 4</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Northampton Town</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>7 - 14</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Walcountian Blues 2</team2>
+        <score>16 - 1</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Maidstone</team1>
+        <team2>Hillcroft A</team2>
+        <score>4 - 8</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2014-02-01" short="SF">
+      <match home="2" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>5 - 4</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Reading Wildcats 2</team1>
+        <team2>Hillcroft A</team2>
+        <score>10 - 8</score>
+      </match>
+    </round>
+    <round name="Final" date="2014-03-01">
+      <match home="1" matchNum="1">
+        <team1>Spencer 2</team1>
+        <team2>Reading Wildcats 2</team2>
+        <score>14 - 8</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int-west" short="Int West" minimal="Int W" name="Intermediate West">
+    <round name="Round 2" date="2013-11-16" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Bristol Bombers 2</team1>
+        <team2>Cardiff Harlequins</team2>
+        <score>1 - 15</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Birmingham</team1>
+        <team2>Cheltenham</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="2" matchNum="3">
+        <team1>Southampton</team1>
+        <team2>Bath</team2>
+        <score>11 - 7</score>
+      </match>
+      <match home="2" matchNum="4">
+        <team1>Bath 2</team1>
+        <team2>Swansea Hawks</team2>
+        <score>12 - 9</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2014-02-01" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Birmingham</team2>
+        <score>12 - 3</score>
+      </match>
+      <match home="2" matchNum="2">
+        <team1>Southampton</team1>
+        <team2>Bath 2</team2>
+        <score>21 - 3</score>
+      </match>
+    </round>
+    <round name="Final" date="2014-03-01">
+      <match home="1" matchNum="1">
+        <team1>Cardiff Harlequins</team1>
+        <team2>Southampton</team2>
+        <score>12 - 1</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr-east" short="Mnr East" minimal="Mr E" name="Minor East">
+    <round name="Round 1" date="2013-10-19" short="R1">
+      <match home="1" matchNum="1">
+        <team1>Reading Wildcats 3</team1>
+        <team2>Oxford Uni</team2>
+        <score>6 - 15</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Welwyn Warriors 3</team1>
+        <team2>Colchester</team2>
+        <score>0 - 19</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Hitchin A</team1>
+        <team2>London Uni</team2>
+        <score>4 - 16</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Welwyn Warriors 2</team1>
+        <team2>Cambridge Uni</team2>
+        <score>9 - 10</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Canterbury</team1>
+        <team2>East Grinstead A</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="6">
+        <team1>Maidstone 2</team1>
+        <team2>Spencer 3</team2>
+        <score>9 - 4</score>
+      </match>
+      <match home="1" matchNum="7">
+        <team1>Brighton Panthers</team1>
+        <team2>Walcountian Blues 3</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>Royal Holloway</team1>
+        <team2>Hillcroft B</team2>
+        <score>3 - 8</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2013-11-16" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Oxford Uni</team1>
+        <team2>Colchester</team2>
+        <score>5 - 7</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>London Uni</team1>
+        <team2>Cambridge Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Canterbury</team1>
+        <team2>Maidstone 2</team2>
+        <score>4 - 9</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Brighton Panthers</team1>
+        <team2>Hillcroft B</team2>
+        <score>15 - 7</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2014-02-01" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Colchester</team1>
+        <team2>London Uni</team2>
+        <score>5 - 11</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Maidstone 2</team1>
+        <team2>Brighton Panthers</team2>
+        <score>5 - 18</score>
+      </match>
+    </round>
+    <round name="Final" date="2014-03-01">
+      <match home="1" matchNum="1">
+        <team1>London Uni</team1>
+        <team2>Brighton Panthers</team2>
+        <score>9 - 5</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr-west" short="Mnr West" minimal="Mr W" name="Minor West">
+    <round name="Round 1" date="2013-10-19" short="R1">
+      <match home="1" matchNum="3">
+        <team1>Cardiff Harlequins A</team1>
+        <team2>Aberystwyth Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="5">
+        <team1>Exeter City</team1>
+        <team2>Bournemouth</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="8">
+        <team1>FXU</team1>
+        <team2>Plymouth Uni</team2>
+        <score>0 - 10</score>
+      </match>
+    </round>
+    <round name="Round 2" date="2013-11-16" short="R2">
+      <match home="1" matchNum="1">
+        <team1>Bath 3</team1>
+        <team2>Cheltenham 2</team2>
+        <score>0 - 18</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Cardiff Harlequins A</team1>
+        <team2>Warwick Uni</team2>
+        <score>1 - 23</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Exeter City</team1>
+        <team2>Southampton A</team2>
+        <score>10 - 1</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Portsmouth Uni</team1>
+        <team2>Plymouth Uni</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Semi Final" date="2014-02-01" short="SF">
+      <match home="1" matchNum="1">
+        <team1>Cheltenham 2</team1>
+        <team2>Warwick Uni</team2>
+        <score>1 - 14</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Exeter City</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+    <round name="Final" date="2014-03-01">
+      <match home="1" matchNum="1">
+        <team1>Warwick Uni</team1>
+        <team2>Exeter City</team2>
+        <score>10 - 0</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

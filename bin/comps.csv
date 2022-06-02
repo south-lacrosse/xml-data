@@ -1,0 +1,85 @@
+Premier Division,1,Prem,10,league
+Division 1,1,D1,20,league
+Senior Championship,1,NULL,30,league
+Upper Conference,1,NULL,40,league
+Conference A,1,NULL,50,league-prelim
+Conference B,1,NULL,60,league-prelim
+Division 2,1,D2,70,league
+Junior Championship,1,NULL,80,league
+Lower Conference,1,NULL,90,league
+Lower Conference North,1,NULL,100,league-prelim
+Lower Conference South,1,NULL,110,league-prelim
+Division 3,1,D3,120,league
+Division 3 (Autumn),1,NULL,130,league
+Division 3 (Spring),1,NULL,140,league
+Division 4,1,D4,150,league
+East,1,East,160,league
+East One,1,East1,170,league
+East Two,1,East2,180,league
+East Three,1,East3,190,league
+East (North),1,E-N,200,league
+East (South),1,E-S,210,league
+East (South) D1,1,E-S1,220,league
+East (South) D2,1,E-S2,230,league
+West,1,West,240,league
+West One,1,West1,250,league
+West Two,1,West2,260,league
+West (North),1,W-N,270,league
+West (South),1,W-S,280,league
+Midlands,1,Mids,290,league
+London D1,2,L-Lon1,300,league
+London D2,2,L-Lon2,310,league
+London D3,2,L-Lon3,320,league
+London D4,2,L-Lon4,330,league
+Home Counties,2,L-HC,340,league
+Home Counties D1,2,L-HC1,350,league
+Home Counties D2,2,L-HC2,360,league
+South Central,2,L-SC,370,league
+Peninsula,2,L-Pen,380,league
+Cotswolds,2,L-Cot1,385,league
+Cotswolds D1,2,L-Cot1,390,league
+Cotswolds D2,2,L-Cot2,400,league
+Midlands,2,L-Mid,410,league
+East Anglia,2,L-EA,420,league
+East Anglia D1,2,L-EA1,430,league
+East Anglia D2,2,L-EA2,440,league
+Senior Flags,0,Snr Flags,450,flags
+Intermediate Flags,0,Int Flags,460,flags
+Minor Flags,0,Mnr Flags,470,flags
+Midlands Flags,0,Mid Flags,480,mids-flags
+Intermediate Plate,0,Int Plate,490,plate
+Minor Plate,0,Mnr Plate,500,plate
+Intermediate East Plate,0,Int East Plate,510,plate
+Intermediate West Plate,0,Int West Plate,520,plate
+Minor East Plate,0,Mnr East Plate,530,plate
+Minor West Plate,0,Mnr West Plate,540,plate
+Western Region Senior Flags,0,West Snr Flags,550,results
+Western Region Junior Flags,0,West Jnr Flags,560,results
+Senior West & Midlands Cup,0,Snr W&M Cup,570,westmidscup
+Intermediate West & Midlands Cup,0,Int W&M Cup,580,westmidscup
+Minor West & Midlands Cup,0,Mnr W&M Cup,590,westmidscup
+Baird Plate (Juniors),0,NULL,0,results
+Brine Trophy,0,NULL,0,results
+Southern Counties,0,NULL,0,results
+English Universities Cup,0,NULL,0,results
+Eric Jones Trophy (Juniors),0,NULL,0,results
+Final Four,0,NULL,0,results
+West of England League Champions,0,NULL,0,results
+Division 3 Knockout Trophy,0,NULL,0,results
+Division 4 Flags,0,NULL,0,results
+Iroquois Cup,0,NULL,0,results
+National Club Championship,0,NULL,0,results
+North v South,0,NULL,0,results
+Varsity,0,NULL,0,results
+Wilkinson Sword,0,NULL,0,results
+Wills' Challenge Shield,0,NULL,0,results
+Senior Sixes,0,NULL,0,results
+Intermediate Sixes,0,NULL,0,results
+Minor Sixes,0,NULL,0,results
+Division 4 Sixes,0,NULL,0,results
+Junior Lacrosse,1,NULL,610,league-prelim
+Junior Flags,0,NULL,0,results
+U14 Flags,0,NULL,0,results
+U12 Flags,0,NULL,0,results
+Junior Six-A-Sides,0,NULL,0,results
+North v South Juniors,0,NULL,0,results

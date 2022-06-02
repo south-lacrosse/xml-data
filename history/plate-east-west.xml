@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="East &amp; West Plate Winners">
+<!-- NB: this is fudged in flags-common.xsl to lookup here and in plate.xml, so if the 
+format changes again then make sure to update that stylesheet -->
+  <competitions suffix="Plate">
+    <comp id="int-east" alt="plate-int-east" short="Int. East" match="Finals">Intermediate East Plate</comp>
+    <comp id="int-west" alt="plate-int-west" short="Int. West" match="Finals">Intermediate West Plate</comp>
+    <comp id="mnr-east" alt="plate-minor-east" short="Minor East" match="Finals">Minor East Plate</comp>
+    <comp id="mnr-west" alt="plate-minor-west" short="Minor West" match="Finals">Minor West Plate</comp>
+  </competitions>
+  <season year="2016" ref="plate/plate-2016.xml">
+    <winner compId="int-east" rup="Buckhurst Hill" result="12 - 6">Spencer 2</winner>
+    <winner compId="int-west" rup="Birmingham" result="8 - 6">Hillcroft B</winner>
+    <winner compId="mnr-east" rup="Reading 2" result="15 - 6">Oxford Uni</winner>
+    <winner compId="mnr-west" rup="Bath 2" result="8 - 4">Plymouth City</winner>
+  </season>
+  <season year="2015" ref="plate/plate-2015.xml">
+    <winner compId="int-east" rup="Spencer 2" result="8 - 6">Hillcroft A</winner>
+    <winner compId="int-west" rup="Bath" result="11 - 6">Cardiff Harlequins</winner>
+    <winner compId="mnr-east" rup="Hillcroft B" result="15 - 0">Oxford Uni</winner>
+    <winner compId="mnr-west" rup="Exeter Uni" result="10 - 0">Warwick Uni</winner>
+  </season>
+  <season year="2014" ref="plate/plate-2014.xml">
+    <winner compId="int-east" rup="Reading Wildcats 2" result="14 - 8">Spencer 2</winner>
+    <winner compId="int-west" rup="Southampton" result="12 - 1">Cardiff Harlequins</winner>
+    <winner compId="mnr-east" rup="Brighton Panthers" result="9 - 5">London Uni</winner>
+    <winner compId="mnr-west" rup="Exeter City" result="10 - 0">Warwick Uni</winner>
+  </season>
+</results>

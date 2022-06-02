@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league-results>
+  <league year="2021" ref="league/tables-2021.xml" />
+  <league year="2020" ref="league/tables-2020.xml" />
+  <league year="2019" ref="league/tables-2019.xml" />
+  <league year="2018" ref="league/tables-2018.xml" />
+  <league year="2017" ref="league/tables-2017.xml" />
+  <league year="2016" ref="league/tables-2016.xml" />
+  <league year="2015" ref="league/tables-2015.xml" />
+  <league year="2014" ref="league/tables-2014.xml" />
+  <league year="2013" ref="league/tables-2013.xml" />
+  <league year="2012" ref="league/tables-2012.xml" />
+  <league year="2011" ref="league/tables-2011.xml" />
+  <league year="2010" ref="league/tables-2010.xml" />
+  <league year="2009" ref="league/tables-2009.xml" />
+  <league year="2008" ref="league/tables-2008.xml" />
+  <league year="2007" ref="league/tables-2007.xml" />
+  <league year="2006" ref="league/tables-2006.xml" />
+  <league year="2005" ref="league/tables-2005.xml" />
+  <league year="2004" ref="league/tables-2004.xml" />
+  <league year="2003" ref="league/tables-2003.xml" />
+  <league year="2002" ref="league/tables-2002.xml" />
+  <league year="2001" ref="league/tables-2001.xml" />
+  <!-- 
+    <winner division="Division 1">Purley</winner>
+    <winner division="Division 2">Penarth</winner>
+    <winner division="Division 3">Reading Wildcats</winner>
+  </league>
+   -->
+  <league year="2000" ref="league/tables-2000.xml" />
+  <league year="1999" ref="league/tables-1999.xml" />
+  <league year="1998" ref="league/tables-1998.xml" />
+  <league year="1997" ref="league/tables-1997.xml" />
+  <league year="1996" ref="league/tables-1996.xml" />
+  <league year="1995" ref="league/tables-1995.xml" />
+  <league year="1994" ref="league/tables-1994.xml" />
+  <league year="1993" ref="league/tables-1993.xml" />
+  <league year="1992" ref="league/tables-1992.xml" />
+  <league year="1991" ref="league/tables-1991.xml" />
+  <league year="1990" ref="league/tables-1990.xml" />
+  <league year="1989" ref="league/tables-1989.xml" />
+  <league year="1988" ref="league/tables-1988.xml" />
+  <league year="1987" ref="league/tables-1987.xml" />
+  <league year="1986">
+    <winner division="Division 1">Hampstead</winner>
+    <winner division="Division 2">Oxford Uni</winner>
+    <winner division="Division 3">Bath</winner>
+  </league>
+  <league year="1985" ref="league/tables-1985.xml" />
+  <league year="1984" ref="league/tables-1984.xml" />
+  <league year="1983">
+    <winner division="Division 1">Kenton</winner>
+    <winner division="Division 2">Beckenham</winner>
+    <winner division="Division 3">Bexleyheath</winner>
+    <winner division="Division 4">Three Bridges</winner>
+  </league>
+  <league year="1982" ref="league/tables-1982.xml" />
+  <league year="1981" ref="league/tables-1981.xml" />
+  <league year="1980" ref="league/tables-1980.xml" />
+  <league year="1979" ref="league/tables-1979.xml" />
+  <league year="1978" ref="league/tables-1978.xml">
+    <winner division="Division 1">Buckhurst Hill/Hampstead</winner>
+    <winner division="Division 2">Hampstead A</winner>
+    <winner division="Division 3">Lee B</winner>
+  </league>
+  <league year="1977" ref="league/tables-1977.xml" />
+  <league year="1976" ref="league/tables-1976.xml" />
+  <league year="1975" ref="league/tables-1975.xml">
+    <!-- Leave 1975 winners here as tables have "Division 3 (Autumn)" etc which would
+      cause build errors otherwise -->
+    <winner division="Division 1">Lee</winner>
+    <winner division="Division 2">Hampstead A</winner>
+    <winner division="Division 3">Oxford Iroquois</winner>
+  </league>
+  <league year="1974" ref="league/tables-1974.xml" />
+  <league year="1973" ref="league/tables-1973.xml" />
+  <league year="1972" ref="league/tables-1972.xml" />
+  <league year="1971" ref="league/tables-1971.xml" />
+  <league year="1970" ref="league/tables-1970.xml" />
+  <league year="1969" ref="league/tables-1969.xml" />
+  <league year="1968" ref="league/tables-1968.xml" />
+  <league year="1967" ref="league/tables-1967.xml">
+    <winner division="Division 1">Lee</winner>
+    <winner division="Division 2">Purley A</winner>
+    <winner division="Division 3">Oxford Iroquois</winner>
+  </league>
+  <league year="1966" ref="league/tables-1966.xml" />
+  <league year="1965" ref="league/tables-1965.xml" />
+  <league year="1964" ref="league/tables-1964.xml" />
+  <league year="1963" ref="league/tables-1963.xml" />
+  <league year="1962" ref="league/tables-1962.xml" />
+  <league year="1961" ref="league/tables-1961.xml" />
+  <league year="1960" ref="league/tables-1960.xml" />
+  <league year="1959" ref="league/tables-1959.xml" />
+  <league year="1958" ref="league/tables-1958.xml" />
+  <league year="1957" ref="league/tables-1957.xml" />
+  <league year="1956" ref="league/tables-1956.xml" />
+  <league year="1955" ref="league/tables-1955.xml" />
+  <league year="1954" ref="league/tables-1954.xml" />
+  <league year="1953" ref="league/tables-1953.xml">
+    <winner division="Senior Championship">Purley</winner>
+    <winner division="Junior Championship">Old Sedcopians</winner>
+  </league>
+  <league year="1952">
+    <winner division="Senior Championship">Purley</winner>
+    <winner division="Junior Championship">Hampstead II</winner>
+  </league>
+  <league year="1951">
+    <winner division="Senior Championship">Oxford Uni</winner>
+    <winner division="Junior Championship">Buckhurst Hill II</winner>
+  </league>
+  <league year="1950">
+    <winner division="Senior Championship">Cambridge Uni</winner>
+  </league>
+  <league year="1949">
+    <winner division="Senior Championship">Cambridge Uni</winner>
+  </league>
+  <league year="1948">
+    <winner division="Senior Championship">Cambridge Uni</winner>
+  </league>
+  <league year="1947">
+    <winner division="Senior Championship">Hampstead</winner>
+  </league>
+  <league year="1940-46"></league>
+  <league year="1939">
+    <winner division="Senior Championship">Hampstead</winner>
+  </league>
+  <league year="1938">
+    <winner division="Senior Championship">Willoughby</winner>
+  </league>
+  <league year="1937">
+    <winner division="Senior Championship">Willoughby</winner>
+    <winner division="Junior Championship">Old Dunstonians II</winner>
+  </league>
+  <league year="1936">
+    <winner division="Senior Championship">Old Dunstonians</winner>
+    <winner division="Junior Championship">Old Dunstonians II</winner>
+  </league>
+  <league year="1935">
+    <winner division="Senior Championship">Surbiton</winner>
+  </league>
+  <league year="1934">
+    <winner division="Senior Championship">Oxford Uni</winner>
+  </league>
+  <league year="1933">
+    <winner division="Senior Championship">Lee or Oxford</winner>
+  </league>
+  <league year="1932">
+    <winner division="Senior Championship">Hampstead</winner>
+  </league>
+</league-results>

@@ -1,0 +1,4573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures>
+<fixture>
+<date>2009-10-03</date>
+<home-team>East Grinstead</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Hampstead</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Hitchin</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Spencer</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>27</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>13</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Croydon</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Maidstone</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>7</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Northampton Town</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>RAF Marham</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>7</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Spencer 2</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>29</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>33</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>6</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Cheltenham</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>6</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-03</date>
+<home-team>UWIC</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Bath</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Hillcroft</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Purley</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>3</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>East Coast</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>1</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>4</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Hitchin A</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>1</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>London Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>3</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Canterbury</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>5</home-goals>
+<away-goals>30</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Maidstone</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>7</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Spencer 3</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>UEA</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>2</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>11</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>2</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Penarth</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>7</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Southampton City</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>15</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Bath 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>13</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-10</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>East Grinstead</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Hampstead</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Hitchin</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>5</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>9</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Croydon</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>London Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>5</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Canterbury</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Northampton Town</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>13</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>RAF Marham</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Spencer 2</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>22</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>UEA</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Cheltenham</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>9</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>19</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-17</date>
+<home-team>UWIC</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>UWIC</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Hampstead</home-team>
+<away-team>Bath</away-team>
+<competition>Snr Flags Prelims</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Snr Flags Prelims</competition>
+<home-goals>21</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>Int Flags Prelims</competition>
+<home-goals>5</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>London Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>Int Flags Prelims</competition>
+<home-goals>2</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Cheltenham</away-team>
+<competition>Int Flags Prelims</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Spencer 3</away-team>
+<competition>Mnr Flags Prelims</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>RAF Marham</home-team>
+<away-team>UEA</away-team>
+<competition>Mnr Flags Prelims</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>Mnr Flags Prelims</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-24</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>Mnr Flags Prelims</competition>
+<home-goals>0</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Bath</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Purley</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>18</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Spencer</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>22</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>17</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>East Coast</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Maidstone</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>16</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Northampton Town</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>15</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Spencer 2</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>UEA</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>20</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Cheltenham</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>2</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Penarth</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Southampton City</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>8</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>3</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Bath 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>3</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>29</away-goals>
+</fixture>
+<fixture>
+<date>2009-10-31</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>East Grinstead</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Hampstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Hillcroft</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>22</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Hitchin</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>5</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Croydon</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>25</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Hitchin A</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>London Uni</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Canterbury</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>RAF Marham</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Spencer 3</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>UEA</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>2</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>5</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>1</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>3</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>1</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>14</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-07</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>12</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Bath</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Hitchin</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>21</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Spencer</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Northampton Town</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Spencer 3</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>11</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Cheltenham</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Penarth</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Bath 2</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-14</date>
+<home-team>UWIC</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>East Grinstead</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Hampstead</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>17</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Hillcroft</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>4</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Purley</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>2</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Croydon</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>East Coast</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Hitchin A</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>4</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>London Uni</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>5</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Canterbury</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Maidstone</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>9</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>RAF Marham</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Spencer 2</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>18</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>1</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>29</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>19</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>6</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-21</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>8</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Hitchin</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>7</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Purley</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>7</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Spencer</home-team>
+<away-team>Hampstead</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>7</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>18</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>20</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Croydon</home-team>
+<away-team>Penarth</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Hitchin A</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>6</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Southampton City</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>5</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>East Coast</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>3</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Canterbury</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>3</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>RAF Marham</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Maidstone</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>4</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Spencer 2</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>3</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>UWIC</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-11-28</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Northampton Town</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>5</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>Mnr Flags R1</competition>
+<home-goals>0</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Snr Flags R1</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>UWIC</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>Mnr Flags R1 &amp; West2</competition>
+<home-goals>3</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>East Grinstead</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Hitchin</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Spencer</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>15</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>15</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>East Grinstead A</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Northampton Town</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>RAF Marham</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>1</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Spencer 3</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>UEA</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Cheltenham</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Southampton City</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Bath 2</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-05</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Bath</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>East Grinstead</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Purley</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Spencer</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Croydon</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>East Coast</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Hitchin A</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>2</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>London Uni</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>16</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Canterbury</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>7</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Maidstone</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>2</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Spencer 2</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>13</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Penarth</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>14</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>6</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2009-12-12</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Bath</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>East Coast</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Hitchin A</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>London Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Canterbury</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Spencer 3</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Penarth</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Southampton City</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Bath 2</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-09</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>East Grinstead</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Hampstead</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Hitchin</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Spencer</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>13</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Croydon</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Northampton Town</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>RAF Marham</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Spencer 2</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>14</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Cheltenham</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>3</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>V</home-goals>
+<away-goals>V</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-16</date>
+<home-team>UWIC</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Bath</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Spencer</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Hitchin A</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Spencer 3</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Penarth</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>6</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Croydon</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>East Coast</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>6</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>Int Flags R2</competition>
+<home-goals>3</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>7</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>RAF Marham</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>20</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Spencer 2</home-team>
+<away-team>Bath 2</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-23</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>Mnr Flags R2</competition>
+<home-goals>7</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Bath</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Hillcroft</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Purley</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Spencer</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>18</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>11</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>East Coast</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>11</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>1</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Hitchin A</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>5</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Maidstone</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Spencer 3</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>8</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>3</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>14</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>2</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Penarth</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>2</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Southampton City</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>5</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>4</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-30</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>9</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-01-31</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>Int Flags R1</competition>
+<home-goals>20</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>East Grinstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>2</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Hampstead</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>24</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Hillcroft</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Hitchin</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Croydon</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>12</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>3</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Hitchin A</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>4</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>London Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Canterbury</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>6</home-goals>
+<away-goals>36</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>RAF Marham</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Spencer 3</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>2</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>6</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>12</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>17</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>13</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-06</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>7</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-07</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Bath</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Spencer</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Purley</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem &amp; Snr Flags SF</competition>
+<home-goals>5</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Croydon</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>16</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>9</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Southampton City</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>UWIC</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>4</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>UWIC</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>5</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Snr Flags SF</competition>
+<home-goals>16</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>5</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>13</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-13</date>
+<home-team>Spencer 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>Mnr Flags SF</competition>
+<home-goals>3</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Bath</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Purley</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Spencer</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>15</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>16</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>4</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>East Coast</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>17</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Maidstone</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>13</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Northampton Town</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>12</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Spencer 2</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>9</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>15</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Cheltenham</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>1</home-goals>
+<away-goals>25</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>30</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Southampton City</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Bath 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>9</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-20</date>
+<home-team>UWIC</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Spencer</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Croydon</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Northampton Town</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>RAF Marham</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Spencer 2</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>16</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Cheltenham</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-21</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Oxford Uni</away-team>
+<competition>Varsity</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>East Grinstead</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Hampstead</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Hillcroft</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Purley</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>13</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Croydon</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Hitchin A</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>London Uni</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Canterbury</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Maidstone</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>RAF Marham</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>8</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Spencer 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>11</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>16</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>1</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Birmingham Bulls</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>19</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-27</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>16</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-28</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-02-28</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>8</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-03</date>
+<home-team>London Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Bath</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Hitchin</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Spencer</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>19</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>19</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>8</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>East Grinstead A</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>9</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Northampton Town</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>21</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Spencer 3</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>UEA</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>12</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>3</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>14</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Penarth</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>4</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>11</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Southampton City</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>6</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Bath 2</home-team>
+<away-team>Cardiff Harlequins A</away-team>
+<competition>West2</competition>
+<home-goals>5</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-06</date>
+<home-team>UWIC</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Croydon</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>East Coast</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>1</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>RAF Marham</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>20</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Penarth</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Southampton City</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>20</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+</fixture>
+<fixture>
+<date>2010-03-07</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-10</date>
+<home-team>London Uni</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>2</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-10</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Portsmouth Uni</away-team>
+<competition>West1</competition>
+<home-goals>8</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>Int Flags SF</competition>
+<home-goals>0</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>East Grinstead</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>East Grinstead</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Purley</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Hillcroft</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>15</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>East Coast</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>2</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>12</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Canterbury</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Spencer 3</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>13</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>2</home-goals>
+<away-goals>24</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Bristol Bombers</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Southampton City</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>18</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>UWIC</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>UWIC</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>Cardiff Uni</home-team>
+<away-team>UWIC</away-team>
+<competition>Friendly</competition>
+<home-goals>17</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-13</date>
+<home-team>London Uni</home-team>
+<away-team>London Alumni</away-team>
+<competition>Friendly</competition>
+<home-goals>10</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-14</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>1</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-14</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-14</date>
+<home-team>UEA</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-14</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Bath</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Hampstead</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>9</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Purley</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Reading Wildcats</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Croydon</home-team>
+<away-team>Buckhurst Hill</away-team>
+<competition>East1</competition>
+<home-goals>12</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>East Coast</home-team>
+<away-team>East Grinstead A</away-team>
+<competition>East1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Hitchin A</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>East1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>London Uni</home-team>
+<away-team>Walcountian Blues 2</away-team>
+<competition>East1</competition>
+<home-goals>5</home-goals>
+<away-goals>16</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Reading Wildcats 2</home-team>
+<away-team>Cambridge Uni</away-team>
+<competition>East1</competition>
+<home-goals>6</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Canterbury</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>0</home-goals>
+<away-goals>19</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Maidstone</home-team>
+<away-team>UEA</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Spencer 2</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Welwyn Warriors 2</away-team>
+<competition>East2</competition>
+<home-goals>8</home-goals>
+<away-goals>18</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Welwyn Warriors 3</home-team>
+<away-team>Spencer 3</away-team>
+<competition>East2</competition>
+<home-goals>18</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Cheltenham</away-team>
+<competition>West1</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Exeter Uni</home-team>
+<away-team>Southampton City</away-team>
+<competition>West1</competition>
+<home-goals>1</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Penarth</home-team>
+<away-team>Warwick Uni</away-team>
+<competition>West1</competition>
+<home-goals>19</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Swansea Hawks</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>West1</competition>
+<home-goals>3</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Bristol Bombers 2</home-team>
+<away-team>Cheltenham 2</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>UWIC</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Portsmouth Uni 2</home-team>
+<away-team>Bath 2</away-team>
+<competition>West2</competition>
+<home-goals>15</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-20</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Aberystwyth Uni</away-team>
+<competition>West2</competition>
+<home-goals>16</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-21</date>
+<home-team>Purley</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-21</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>18</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-21</date>
+<home-team>Northampton Town</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>5</home-goals>
+<away-goals>6</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Hampstead</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>18</home-goals>
+<away-goals>17</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Hillcroft</home-team>
+<away-team>East Grinstead</away-team>
+<competition>Prem</competition>
+<home-goals>7</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Hitchin</home-team>
+<away-team>Reading Wildcats</away-team>
+<competition>Prem</competition>
+<home-goals>11</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Bath</away-team>
+<competition>Prem</competition>
+<home-goals>21</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Welwyn Warriors</home-team>
+<away-team>Purley</away-team>
+<competition>Prem</competition>
+<home-goals>12</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Brighton Panthers</home-team>
+<away-team>London Uni</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Buckhurst Hill</home-team>
+<away-team>Hitchin A</away-team>
+<competition>East1</competition>
+<home-goals>11</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Cambridge Uni</home-team>
+<away-team>Croydon</away-team>
+<competition>East1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>East Grinstead A</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>7</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Walcountian Blues 2</home-team>
+<away-team>East Coast</away-team>
+<competition>East1</competition>
+<home-goals>19</home-goals>
+<away-goals>1</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Northampton Town</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>14</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>RAF Marham</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Spencer 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>UEA</home-team>
+<away-team>Walcountian Blues 3</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Welwyn Warriors 2</home-team>
+<away-team>Spencer 2</away-team>
+<competition>East2</competition>
+<home-goals>6</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Cheltenham</home-team>
+<away-team>Exeter Uni</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Portsmouth Uni</home-team>
+<away-team>Cardiff Harlequins</away-team>
+<competition>West1</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Southampton City</home-team>
+<away-team>Penarth</away-team>
+<competition>West1</competition>
+<home-goals>12</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Warwick Uni</home-team>
+<away-team>Swansea Hawks</away-team>
+<competition>West1</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Aberystwyth Uni</home-team>
+<away-team>Birmingham Bulls</away-team>
+<competition>West2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Bath 2</home-team>
+<away-team>Bristol Bombers 2</away-team>
+<competition>West2</competition>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>Cheltenham 2</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>West2</competition>
+<home-goals>0</home-goals>
+<away-goals>10</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-27</date>
+<home-team>UWIC</home-team>
+<away-team>Portsmouth Uni 2</away-team>
+<competition>West2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-28</date>
+<home-team>London Uni</home-team>
+<away-team>Reading Wildcats 2</away-team>
+<competition>East1</competition>
+<home-goals>2</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-03-28</date>
+<home-team>Spencer 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>12</home-goals>
+<away-goals>11</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Brighton Panthers</away-team>
+<competition>EvW Playoff</competition>
+<home-goals>9</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Hillcroft</home-team>
+<away-team>Hampstead</away-team>
+<competition>Prem</competition>
+<home-goals>6</home-goals>
+<away-goals>15</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Purley</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Prem</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Purley</home-team>
+<away-team>Hitchin</away-team>
+<competition>Prem</competition>
+<home-goals>19</home-goals>
+<away-goals>8</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Spencer</away-team>
+<competition>Prem</competition>
+<home-goals>19</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>RAF Marham</home-team>
+<away-team>Welwyn Warriors 3</away-team>
+<competition>East2</competition>
+<home-goals>4</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>RAF Marham</home-team>
+<away-team>Maidstone</away-team>
+<competition>East2</competition>
+<home-goals>10</home-goals>
+<away-goals>0</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>8</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Best of the Rest of the West</home-team>
+<away-team>Best of the Rest of the East</away-team>
+<competition>Friendly</competition>
+<home-goals>8</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>Southern Universities</home-team>
+<away-team>Premier Division Select</away-team>
+<competition>Friendly</competition>
+<home-goals>8</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-10</date>
+<home-team>West Veterans and West 2</home-team>
+<away-team>East Veterans and East 2</away-team>
+<competition>Friendly</competition>
+<home-goals>3</home-goals>
+<away-goals>3</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-11</date>
+<home-team>Spencer 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-17</date>
+<home-team>Canterbury</home-team>
+<away-team>RAF Marham</away-team>
+<home-goals>10</home-goals>
+<away-goals>2</away-goals>
+<competition>East2</competition>
+</fixture>
+<fixture>
+<date>2010-04-17</date>
+<home-team>Spencer 2</home-team>
+<away-team>Northampton Town</away-team>
+<competition>East2</competition>
+<home-goals>P</home-goals>
+<away-goals>P</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-17</date>
+<home-team>Hampstead</home-team>
+<away-team>Walcountian Blues</away-team>
+<competition>Snr Flags Final</competition>
+<home-goals>8</home-goals>
+<away-goals>14</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-17</date>
+<home-team>Cardiff Harlequins</home-team>
+<away-team>Bristol Bombers</away-team>
+<competition>Int Flags Final</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-17</date>
+<home-team>Cardiff Harlequins A</home-team>
+<away-team>Southampton Tridents</away-team>
+<competition>Mnr Flags Final</competition>
+<home-goals>14</home-goals>
+<away-goals>7</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-24</date>
+<home-team>Southampton Tridents</home-team>
+<away-team>Southampton Alumni</away-team>
+<competition>Varsity</competition>
+<home-goals>4</home-goals>
+<away-goals>13</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-25</date>
+<home-team>Spencer 2</home-team>
+<away-team>RAF Marham</away-team>
+<competition>East2</competition>
+<home-goals>12</home-goals>
+<away-goals>2</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-25</date>
+<home-team>Spencer 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>11</home-goals>
+<away-goals>4</away-goals>
+</fixture>
+<fixture>
+<date>2010-04-25</date>
+<home-team>Walcountian Blues 3</home-team>
+<away-team>Canterbury</away-team>
+<competition>East2</competition>
+<home-goals>11</home-goals>
+<away-goals>9</away-goals>
+</fixture>
+<fixture>
+<date>2010-05-09</date>
+<home-team>Stockport</home-team>
+<away-team>Welwyn Warriors</away-team>
+<competition>Wilkinson Sword</competition>
+<home-goals>14</home-goals>
+<away-goals>5</away-goals>
+</fixture>
+<fixture>
+<date>2010-05-15</date>
+<home-team>Walcountian Blues</home-team>
+<away-team>Stockport</away-team>
+<competition>Iroquois Cup</competition>
+<home-goals>3</home-goals>
+<away-goals>21</away-goals>
+</fixture>
+</fixtures>

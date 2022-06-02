@@ -1,0 +1,2535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ This file is not used in the build, but is used to keep old club and ground information
+ in one place, so if they change back I don't have to dig thru the repository history.
+ 
+ NB: format may well be out of date
+ -->
+<clubs>
+ <club id="aberystwyth" modified="2014-08-03" founded="2001">
+  <name long="Aberystwyth University">Aberystwyth Uni</name>
+  <website>http://aberystwythlacrosse.yolasite.com/</website>
+  <ground lat="52.412402" long="-4.072993">
+   <address>
+    <street>Vicarage Playing Fields</street>
+    <street>Llanbadarn Fawr</street>
+    <locality>Aberystwyth</locality>
+    <postcode>SY23 1HA</postcode>
+   </address>
+   <directions>
+    <b>From the South</b>
+    <br/>The A487 from Llanrhystud takes you into Aberystwyth - Turn right at the first roundabout onto the A4120
+    - Straight across the Safeway's roundabout (the Blaendolau playing fields are on the right)
+    - Left at the next junction onto the A44, the Vicarage Playing Fields are approximately one kilometer along,
+    on the left.
+    <br/>
+    <br/>
+    <b>From the East</b>
+    <br/>Take the A470 from Newtown - At Llangurig, take the A44 all the way into Aberystwyth - The Vicarage
+    Playing Fields are approximately 1km beyond the junction with the A4120 in Llanbadarn Fawr.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey/>
+   <team division="West2">
+    <name short="Aberystwyth" minimal="Aber">Aberystwyth Uni</name>
+   </team>
+    <contact>
+    <role>President</role>
+    <name>Luke Wylie</name>
+    <email>luw17@aber.ac.uk</email>
+    <tel>07730 028730</tel>
+   </contact>
+   <contact team="Aberystwyth Uni">
+    <role>Captain</role>
+    <name>Luke Hamilton</name>
+    <email>Luh16@aber.ac.uk</email>
+    <tel>07827 089211</tel>
+   </contact>
+   <contact team="Aberystwyth Uni">
+    <role>Vice-Captain</role>
+    <name>Ben Lipinski</name>
+    <email>Bel15@aber.ac.uk</email>
+    <tel>07591 460927</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="bath-uni" modified="2007-05-09" founded="1995">
+  <name long="Bath University">Bath Uni</name>
+  <website>http://www.bathstudent.com/organisation/6307/</website>
+  <ground lat="51.380441" long="-2.330673">
+   <address>
+    <street>University of Bath</street>
+    <street>Claverton Down</street>
+    <locality>Bath</locality>
+    <postcode>BA2 7AY</postcode>
+   </address>
+   <directions>
+    From M4 exit at Jct 18 and follow the A46 south 8 miles to the Bath exit from the new dual carriageway.
+    Turning right here brings you on to the A4 westbound to Bath. After 1.5 miles turn left at the traffic
+    lights (signposted "City Centre A36"); after 700 yards turn left at the roundabout towards Warminster. In
+    approximately 300 yards turn right into North Road (signposted "Claverton Down"). The Quarry Road entrance
+    to the campus is on the left towards the top of the hill (approximately 1 mile); the lacrosse pitch is at
+    the bottom of the west car park (first car park on your right if entering from Quarry Road).
+    <br/>
+    <br/>From the city centre, the A4 or the A36 eastbound follow signs to "Warminster", "Claverton
+    Down", "American Museum" and "Park &amp; Ride (University)".
+    <br/>
+    <br/>From the A36 (northbound) follow signs to "Claverton Down".
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="West1">
+    <name>Bath Uni</name>
+   </team>
+   <contact>
+    <role>Chairperson</role>
+    <name>Tom Fewson</name>
+    <email>en3tcjf@bath.ac.uk</email>
+    <tel>07904 943538</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Jack Lewis</name>
+    <email>jll21@bath.ac.uk</email>
+    <tel>07792 712856</tel>
+   </contact>
+   <contact>
+    <role>Fixtures Secretary</role>
+    <email>pg214@bath.ac.uk</email>
+    <tel>07711 591086</tel>
+   </contact>
+  </section>
+ </club>
+<!-- 
+Birmingham City ground
+  <ground lat="52.464487" long="-1.934413">
+   <address>
+    <street>Edgbaston High School For Girls Playing Fields</street>
+    <street>Richmond Hill Road</street>
+    <locality>Birmingham</locality>
+    <postcode>B15 3RL</postcode>
+   </address>
+   <directions>
+    Follow directions above for Metchley Park, but at the turn for Pritchatts Park Village instead
+    continue straight on. At the mini roundabout continue straight over into Richmond Hill Road,
+    and the ground is on the right after 0.4 miles just opposite Brook Road, and down
+    a single track drive.
+    </directions>
+  </ground>
+  -->
+ <club id="bournemouth" modified="2011-10-24" founded="2011">
+  <name long="Bournemouth University">Bournemouth Uni</name>
+  <website>http://www.bournemouth.ac.uk/sportBU</website>
+  <ground lat="50.77922" long="-1.85871">
+   <address>
+    <street>Chapel Gate</street>
+    <street>East Parley</street>
+    <locality>Christchurch</locality>
+    <region>Dorset</region>
+    <postcode>BH23 6BL</postcode>
+   </address>
+   <tel>01202 581933</tel>
+   <directions>
+    <b>From north/east</b>
+    From the A31, take a left on to Bournemouth Spur Road (A338) following signs
+    for Bournemouth International Airport at all times. After about 5 miles take the exit for the B3073,
+    and at the T-junction turn right towards the Airport. After about a mile take the 
+    1st exit at the roundabout to stay on the B3073. Continue for about 2 miles, and at the Chapel Gate roundabout take the
+    2nd exit right into Chapel Gate, and the grtound is immediately on the left. 
+    <br/>
+    <br/>
+    <b>From west</b>
+    From say about Bere Regis (A35), it is less complicated to head for Wimborne on the A31. Take Wimborne
+    bypass (A31) heading for Southampton. At the Canford Bottom Roundabout take the fifth exit onto the B3073 towards Bournemouth
+    International Airport. At the roundabout with the A348 turn left at the first roundabout, and then immediately right
+    at the next, to stay on the B3073. After about 2 miles take the left lane to go straight over the Chapel Gate roundabout,
+    and the grtound is immediately on the left.
+    <br/> 
+    <br/>See <a rel="nofollow" href="http://www.chapel-gate.co.uk/">Chapel Gate website</a> for details.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="West2">
+    <name short="Bournemouth" minimal="Bmouth">Bournemouth Uni</name>
+   </team>
+   <kit>Navy blue/sky blue</kit>
+   <contact>
+    <role>Chair/Captain</role>
+    <name>Ben Piper</name>
+    <email>b.piper91@hotmail.com</email>
+    <tel>07952 926097</tel>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Emma Fish</name>
+    <email>i7938534@bournemouth.ac.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="bournemouth" modified="2017-09-02" founded="2013">
+  <name>Bournemouth</name>
+  <website>https://www.facebook.com/BournemouthLacrosse</website>
+  <ground lat="50.732240" long="-1.898514">
+   <address>
+    <street>Talbot Heath School</street>
+    <street>Rothesay Road</street>
+    <street>Talbot Woods</street>
+    <locality>Bournemouth</locality>
+    <region>Dorset</region>
+    <postcode>BH4 9NJ</postcode>
+   </address>
+   <tel>01202 761881</tel>
+   <directions>
+    <p><b>From north/east</b>
+    From the A31, take a left onto the A338 following signs for Bournemouth. After 
+    about 9 miles you will pass the roundabout for Bournemouth Station/Town Centre (E),
+    and then take the next exit for Wimborne/A347, and at the roundabout take the 5th exit for 
+    Wimborne/A347. Stay in the lefthand lane, and at the traffic lights turn left to stay
+    on the A347. At the next roundabout turn left into East Ave, and after about &frac34; mile turn
+    left into Rothesay Road, and the school is just over the bridge on the right.</p>
+    <p><b>From west</b>
+    Take the A35 to Bournemouth. As you approach Bournemouth remain on the the dual carriageway as
+    it becomes the A350 (don't take the A35 exit). At the next roundabout take the 2nd exit onto the A3049,
+    and continue following the A3049 for Bournemouth through several roundabouts. At the Boundary
+    Roundabout take the 2nd exit for the A347 Town Centre. At tne next roundabout take the 3rd exit
+    right into Glenferness Ave, after 0.6 miles turn right into East Ave, then left into Rothesay Road, and
+    the school is just over the bridge on the right.</p>
+   </directions>
+  </ground>
+  <colours>Navy blue/sky blue</colours>
+  <contact>
+   <role>Chairman</role>
+     <name>Anthony Woolmer</name>
+     <email>ant5395@hotmail.co.uk</email>
+     <tel>07804 493759</tel>
+  </contact>
+  <section type="mens">
+   <team division="West">
+    <name minimal="Bou">Bournemouth</name>
+    <contact>
+     <role>Co-Captain</role>
+     <name>Anthony Woolmer</name>
+     <email>ant5395@hotmail.co.uk</email>
+     <tel>07804 493759</tel>
+    </contact>
+    <contact>
+     <role>Co-Captain</role>
+     <name>James Baker</name>
+     <email>Jamesbaker@hotmail.co.uk</email>
+     <tel>07553 013901</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="brighton-panthers" modified="2018-08-02" founded="2005">
+  <name>Brighton Panthers</name>
+  <website>http://www.brightonunilacrosse.moonfruit.com/</website>
+  <ground lat="50.75956" long="0.26735">
+   <address>
+    <street>Hillbrow Sports Centre</street>
+    <street>University of Brighton</street>
+    <street>Denton Road</street>
+    <locality>Eastbourne</locality>
+    <region>Sussex</region>
+    <postcode>BN20 7SU</postcode>
+   </address>
+   <pitch type="3G"/>
+   <note><p><b>Home games start at 1:00pm</b></p></note>
+   <directions>
+    <p><b>From London (M25)</b>: the A22 (Jct 6) connects London to Eastbourne. As you approach Eastbourne, the A22
+    intersects the A27. Continue straight over the roundabout onto the A27 towards Brighton. After
+    2/3 mile keep in the left lane to join the A2270. Continue following this road into Eastbourne,
+    and at Station Roundabout (just before the station) take the 3rd exit into Grove Road, and
+    immediately keep left at the fork. As you approach the church keep in the right hand lane, and
+    turn right. After &frac12; mile turn right into Carlisle Road. After 0.2 miles turn left into
+    Gaudick Rd, and the immediately right into Denton Road. The Sports Centre is immediately on your left.</p>
+   </directions>
+  </ground>
+  <colours>Purple shirt, white shorts</colours>
+  <contact>
+   <role>President</role>
+   <name>James Corrall</name>
+   <email>jcorrall97@gmail.com</email>
+   <tel>07546 372999</tel>
+  </contact>
+  <section type="mens">
+   <team division="E-S1,L-HC2">
+    <name minimal="Pan" short="Panthers">Brighton Panthers</name>
+   <contact>
+    <role>Co-Captain</role>
+    <name>Mitchel Bennett</name>
+    <email>mitchelbennett97@gmail.com</email>
+    <tel>07393 350169</tel>
+   </contact>
+   <contact>
+    <role>Co-Captain</role>
+    <name>Sam Leybourne</name>
+    <email>s.leybourne1@uni.brighton.ac.uk</email>
+    <tel>07949 295646</tel>
+   </contact>
+   </team>
+  </section>
+ </club>
+ <!--
+ Bristol City grounds 
+  <ground lat="51.42422" long="-2.83608">
+   <address>
+    <street>The Hand Stadium</street>
+    <street>Davis Lane</street>
+    <locality>Clevedon</locality>
+    <region>Bristol</region>
+    <postcode>BS21 6TG</postcode>
+   </address>
+   <note>Pitch is a 3G surface - blades/astros/moulded studs recommended.</note>
+   <directions>
+    <b>From the M5</b> exit at Jct 20 and take the exit towards
+    Clevedon (B3133). At the roundabout take the 1st exit onto Central Way.
+    At the next roundabout take the 1st exit onto Kenn Road (B3133). Take the
+    2nd Left onto Davis Lane. Follow this road over the motorway and the
+    Stadium will be on the right hand side (signposted Clevedon Town Football Club).
+  </directions>
+  </ground>
+  <ground lat="51.48685" long="-2.52760">
+   <address>
+    <street>Oldbury Court Park</street>
+    <street>Oldbury Court Road</street>
+    <locality>Fishponds</locality>
+    <region>Bristol</region>
+    <postcode>BS16 2JH</postcode>
+   </address>
+  <directions>
+    <b>From the M32 Jct 1</b> take the 1st exit onto the A4174 signposted Kingswood/Yate.
+    At the next roundabout take the 2nd exit signposted Downend. Continue straight over the double mini
+    roundabout and turn right at the T junction onto the A432. After 1/2 mile turn right immediately past
+    the zebra crossing into Oldbury Court Road, and then immediate left to stay on Oldbury Court Road.
+    Follow this all the way to the entrance to the park, with car parking to the right side of the entrance.
+    The changing rooms are at the far end of the park, past the large Children's Play Area.
+  </directions>
+   </ground>
+  <ground lat="51.42422" long="-2.83608">
+   <address>
+    <street>The Hand Stadium</street>
+    <street>Davis Lane</street>
+    <locality>Clevedon</locality>
+    <region>Bristol</region>
+    <postcode>BS21 6TG</postcode>
+   </address>
+   <note>Pitch is a 3G surface - blades/astros/moulded studs recommended.</note>
+   <directions>
+    <b>From the M5</b> exit at Jct 20 and take the exit towards
+    Clevedon (B3133). At the roundabout take the 1st exit onto Central Way.
+    At the next roundabout take the 1st exit onto Kenn Road (B3133). Take the
+    2nd Left onto Davis Lane. Follow this road over the motorway and the
+    Stadium will be on the right hand side (signposted Clevedon Town Football Club).
+  </directions>
+  -->
+ <club id="bristol-uni" modified="2008-06-19" founded="2004">
+  <name>Bristol Sharks</name>
+  <website>http://www.bristollacrosse.com/</website>
+  <ground lat="51.490058" long="-2.613984">
+   <address>
+    <street>The Red Maids' School</street>
+    <street>Westbury Road</street>
+    <locality>Westbury-on-Trym</locality>
+    <region>Bristol</region>
+    <postcode>BS9 3AW</postcode>
+   </address>
+   <directions>
+    <b>From M5 West/North</b>
+    <br/>Exit at Jct 17, take the A4018 to Bristol (W). After 2.5 miles turn left onto the B4055 Henbury Rd.
+    The school is on the left after 0.6 miles.
+    <br/>
+    <br/><b>From M4 East</b>
+    <br/>Exit Jct 19 onto the M32. Exit the M32 at Jct 1, and turn right on to the A4174 towards Filton.
+    At the roundabout with the A38 continue straight over onto the B4056 (Southmead Road). After 1.8 miles
+    take the 2nd exit at the roundabout onto Eastfield Rd. Follow this road until it merges with the B4055
+    Westbury Rd, and the school is on your left.
+    <br/>
+    <br/>See also <a rel="nofollow" href="http://www.redmaids.bristol.sch.uk/"/>
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="West2">
+    <name>Bristol Sharks</name>
+   </team>
+   <kit>White with maroon shoulders. Away kit: black with maroon shoulders</kit>
+   <contact>
+    <role>Club Captain</role>
+    <name>Tom Gillibrand</name>
+    <email>tg4782@bristol.ac.uk</email>
+    <tel>07969 148946</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Matt Parkes</name>
+    <email>matt-parkes@hotmail.com</email>
+    <tel>07786 096820</tel>
+   </contact>
+   <contact>
+    <role>BUCS Captain</role>
+    <name>John Gill</name>
+    <email>johnyboy010@gmail.com</email>
+    <tel>07729 241728</tel>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Nick Davies</name>
+    <email>rd6821@bris.ac.uk</email>
+    <tel>07817 472313</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="army" modified="2020-09-23">
+  <name>British Army</name>
+  <website>https://www.facebook.com/groups/39102440479/</website>
+  <ground lat="51.265846" long="-0.749592">
+    <address>
+     <street>Aldershot Garrison Sports Centre</street>
+     <street>Rawlinson Rd</street>
+     <region>Aldershot</region>
+     <postcode>GU11 2LQ</postcode>
+    </address>
+    <note>
+    <p>Games are usually played on the Queens Avenue Sports Pitches, but contact Sgt Donaldson or Lt Barrigan by emails listed for detailed directions as pitch location can be changed, but will always be in the Aldershot Garrison area.</p>
+    </note>
+  </ground>
+  <colours>Red</colours>
+  <contact>
+   <role>Chair</role>
+   <name>Maj Brett Bader</name>
+   <email>brettbader@aol.com</email>
+   <tel>07810 503533</tel>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+   <name>Lt Chad Barrigan</name>
+   <email>Charles.Barrigan824@mod.gov.uk</email>
+  </contact>
+  <contact>
+   <role>Game Contact</role>
+   <name>Sgt Gavin Donaldson</name>
+   <email>up834305@myport.ac.uk</email>
+   <tel>07547 819023</tel>
+  </contact>
+  <section type="mens">
+   <team>
+    <name short="Army">British Army</name>
+    <contact>
+     <role>Captain</role>
+     <name>Maj Dan Murphy</name>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="brunel" modified="2016-07-28" founded="2016">
+  <name>Brunel</name>
+  <description>
+   <b>Please note: Brunel have withdrawn from the league, and all fixtures are void.</b>
+  </description>
+  <website>https://brunelstudents.com/sportsclubs/brunellacrosse/</website>
+  <ground lat="51.528705" long="-0.464853">
+   <address>
+    <street>Brunel University Sports Park</street>
+    <street>Kingston Lane</street>
+    <locality>Uxbridge</locality>
+    <postcode>UB8 3PN</postcode>
+   </address>
+   <directions>
+    <p><b>From the M4</b> take exit 4 north onto A408 Stockley Road, turn right onto Colham Green road then left onto
+    Pield Heath, turn right onto Kingston Lane and it's the first driveway on the right.</p>
+   </directions>
+  </ground>
+  <colours>Blue and Yellow</colours>
+  <contact>
+   <role>Chair</role>
+   <name>Christian O'Brien</name>
+   <email>1515468@my.brunel.ac.uk</email>
+   <tel>07464 627273</tel>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+   <name>Alex Godliman</name>
+   <email>1509027@my.brunel.ac.uk</email>
+   <tel>07411 845766</tel>
+  </contact>
+  <section type="mens">
+   <team division="East3">
+    <name minimal="Bru">Brunel</name>
+    <contact>
+     <role>Captain</role>
+     <name>Jake Campbell</name>
+     <email>1206433@my.brunel.ac.uk</email>
+     <tel>07891 404500</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="canterbury-uni" modified="2017-11-13" founded="2004">
+  <name long="Canterbury Christ Church University">Canterbury Uni</name>
+  <website>https://ccsu.co.uk/organisation/lacrossemens/</website>
+  <ground lat="51.261270" long="1.085225">
+   <address>
+    <street>Simon Langton Grammar School for Boys</street>
+    <street>Langton Lane</street>
+    <street>Nackington Rd</street>
+    <locality>Canterbury</locality>
+    <postcode>CT4 7AS</postcode>
+   </address>
+   <note><b>There are grass and 3G pitches at the ground, but assume grass unless instructed.</b></note>
+   <directions>
+    <p><b>Coast Bound From M2</b> Exit at Jct 7 and turn right on to the A2 (signed Dover, [A2] Canterbury, Channel Tunnel).
+    Go past Canterbury, and take the Bridge exit (also signed Howletts Wild Animal Park).
+    <br/>Turn right at the T-junction towards Bridge, and after 0.1 miles take the right fork, and at the T-junction turn
+    right again back towards Canterbury.
+    <br/>Follow this road back over the A2 for 1 mile, and at the roundabout take the 3rd exit (that's including the small exit for the pub)
+    onto Old Dover Rd. After &frac12; mile turn left at the traffic lights onto Nackington Rd/B2068, and in 0.6 miles pass
+    the Chaucer Hospital and turn right into Langton Lane. Follow the road to the end, and you will see the Sports Centre and car park on the right.</p>
+    <p><b>By Rail</b> Trains run frequently from <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/London/Canterbury/saturday/1255/arr">London to Canterbury East or West</a>,
+    and both stations have busy taxi ranks for the short journey to the ground. Alternatively the ground is a
+    <a rel="nofollow" href="https://www.google.co.uk/maps/dir/51.2744231,1.0759321/51.2612558,1.0852179/@51.2690883,1.0766908,15.5z/data=!4m2!4m1!3e3?hl=en">1.2 mile walk from Canterbury East</a>.
+    <br/>If there are 3 or more or you then you can also <a rel="nofollow" href="https://www.southeasternrailway.co.uk/tickets/ways-to-save/groupsave">get &frac13; off by using GroupSave</a>.
+    <br/>Southeastern also run high-speed trains from 
+    <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/STP/CBW/saturday/1255/arr">St Pancras to Canterbury West</a> (via Stratford), though these are more expensive -
+    and make sure you board in the front carriages, as the platform at Canterbury West is too short for the full high-speed trains.  
+    <br/></p>
+   </directions>
+  </ground>
+  <colours>Maroon and Light Blue</colours>
+  <contact>
+   <role>President</role>
+   <name>Giorgio Michael</name>
+   <email>giorgiomichael@hotmail.co.uk</email>
+   <tel>07470 603055</tel>
+  </contact>
+  <contact>
+   <role>Vice President</role>
+  <name>Joshua Branchett</name>
+  <email>jwbranchett@gmail.com</email>
+  <tel>07939 476069</tel>
+  </contact>
+  <section type="mens">
+   <team division="East3">
+    <name minimal="Can">Canterbury</name>
+     <contact>
+      <role>Captain</role>
+      <name>Patrick Gilbert</name>
+      <email>p.gilbert189@canterbury.ac.uk</email>
+      <tel>07517 662600</tel>
+     </contact>
+   </team>
+  </section>
+ </club>
+ <club id="cardiff" modified="2007-11-24" founded="2006">
+  <name long="Cardiff University">Cardiff</name>
+  <website>http://www.cardiffunilacrosse.co.uk/</website>
+  <ground lat="51.515996" long="-3.136118">
+   <address>
+    <street>Llanrumney Playing Fields</street>
+    <street>Mendip Road</street>
+    <locality>Llanrumney</locality>
+    <region>Cardiff</region>
+    <postcode>CF3 4JN</postcode>
+   </address>
+   <directions>
+    <b>From the East</b>
+    <br/>Exit M4 Jct 29 onto A48M - Continue ahead onto A48 - Exit onto A4161 (signposted Docks) - take inside
+    lane down the exit ramp - At the roundabout take first left into B4487 and follow road up hill (watch out for
+    speed cameras) - At the traffic lights in Rumney take the inside lane to go straight across, and after approx 20
+    yards turn left into Llanrumney Ave - Turn left opposite the Eastern Leisure Centre entrance into
+    Ball Road - at the bottom of the hill turn sharp left into Hartland Road - Where houses
+    stop turn right - car park on the left.
+    <br/>
+    <br/><b>From the West</b>
+    <br/>Exit M4 Jct 30 onto A4232 - At the second roundabout take the second exit onto the A48 - Follow directions
+    above for A48.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey away="true" />
+   <team division="West1">
+    <name short="Cardiff">Cardiff Uni</name>
+   </team>
+   <contact>
+    <role>Captain</role>
+    <name>Mike Peters</name>
+    <email>petersmj@cf.ac.uk</email>
+    <tel>07814 934440</tel>
+   </contact>
+   <contact>
+    <role>Vice-Captain</role>
+    <name>Nathan Harding</name>
+    <email>hardingnd@cf.ac.uk</email>
+    <tel>07970 990673</tel>
+   </contact>
+   <contact>
+    <role>General Contact</role>
+    <email>info@cardiffunilacrosse.co.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="harlequins" modified="2018-09-17" founded="2007">
+  <name>Cardiff Harlequins</name>
+  <website>http://www.cardifflacrosse.co.uk/</website>
+  <ground lat="51.517189" long="-3.241106">
+   <address>
+    <street>Cardiff High School Old Boys RFC</street>
+    <street>Diamond Sports Ground</street>
+    <street>Forest Farm Road</street>
+    <locality>Whitchurch</locality>
+    <region>Cardiff</region>
+    <postcode>CF14 7JH</postcode>
+   </address>
+   <tel>029 2069 3552</tel>
+   <directions>
+     <p><b>From M4 Junction 32</b>, take exit signposted A4054 Whitchurch. Follow road for approx 1 mile,
+     passing hospital on right-hand side. At roundabout, take 4th exit onto Velindre Road (with
+     Barber's on your left). Continue straight over mini roundabout, and follow road past housing
+     estates on both sides and past Whitchurch RFC on left. Road bends to the right and continues
+     onto single track road - Cardiff Harlequins LC is on the right hand side.</p>
+   </directions>
+  </ground>
+  <colours>Light blue</colours>
+  <contact>
+   <role>President</role>
+   <name>Will Barrett</name>
+   <email>laxwill11@yahoo.co.uk</email>
+   <tel>07967 632021</tel>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+   <name>Ceri Hill</name>
+   <email>cez100@msn.com</email>
+   <tel>07976 826073</tel>
+  </contact>
+  <section type="mens">
+   <team division="Div1,L-Cot1">
+    <name short="Harlequins" minimal="Qui">Cardiff Harlequins</name>
+    <contact>
+     <role>1st Team Co-Captain</role>
+      <name>Marc Cork</name>
+      <email>marc.cork@gmail.com</email>
+      <tel>07592 078193</tel>
+    </contact>
+    <contact>
+     <role>1st Team Co-Captain</role>
+      <name>Ben Piper</name>
+      <tel>07952 926097</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="chichester" modified="2020-09-23" founded="2011">
+  <name>Chichester University</name>
+  <!--
+  <website>http://www.pitchero.com/clubs/chichestercrusaderslacrosse</website>
+  -->
+  <description><b>Note:</b> Due to the BUCS season not starting until January 2021, Uni of Chichester are unable to play any of their scheduled SEMLA games before January and these are marked as VOID.</description>
+  <ground lat="50.845282" long="-0.774676">
+   <address>
+    <street>Chichester University</street>
+    <street>College Lane</street>
+    <street>Cavendish Road</street>
+    <locality>Chichester</locality>
+    <postcode>PO19 6PE</postcode>
+   </address>
+   <directions>
+  <p><b>From West</b>: leave the A27 at Fishbourne Roundabout (this is the first roundabout on the A27). Take
+  first exit into Chichester. At the next roundabout take the 3rd, Via Ravenna. Over the small
+  roundabout by the Westgate Leisure Centre, then 1st exit at the bigger roundabout onto Avenue de
+  Chartres. Straight over the next roundabout (Westgate Roundabout) and follow the road round to a
+  large roundabout with a fire station in the middle (Northgate Roundabout). Take the 3rd exit,
+  which is just past a ar park. At the next roundabout take the first exit and turn immediately
+  left, opposite the Hope pub. This is College Lane and the Campus is the first right, a few hundred
+  yards up the road. Turn into the campus and follow the road round to the left, past a small car
+  park until you see a large car park on the left. Park in there and the pitch is to your left.</p>
+  <p><b>From  the East</b>: leave the A27 at the first roundabout and take the second exit, signposted Chichester. At
+  the next roundabout take take the first exit. After a few hundred yards, you will come to two
+  roundabouts. Go straight over the first and right at the second, following signs to the hospital.
+  At the next roundabout go straightover. Past pedestrian traffic lights and past a right turn to
+  the hospital. Shortly after the hospital is right turn, opposite the Hope pub. Take this right
+  turn up College Lane and follow directions from West.</p>
+   </directions>
+  </ground>
+  <colours>Royal blue</colours>
+  <section type="mens">
+   <team division="L-SC">
+    <name short="Chichester" minimal="Chi">Chichester Uni</name>
+    <contact>
+      <role>Captain</role>
+      <name>Michael Chittock</name>
+      <email>michael-chittock@live.co.uk</email>
+      <tel>07854 030383</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="chichester" modified="2017-10-01" founded="2011">
+  <name>Chichester Crusaders</name>
+  <!--
+  <website>http://www.pitchero.com/clubs/chichestercrusaderslacrosse</website>
+  -->
+  <ground lat="50.845282" long="-0.774676">
+   <address>
+    <street>Chichester University</street>
+    <street>College Lane</street>
+    <street>Cavendish Road</street>
+    <locality>Chichester</locality>
+    <postcode>PO19 6PE</postcode>
+   </address>
+   <directions>
+  <p><b>From West</b>: leave the A27 at Fishbourne Roundabout (this is the first roundabout on the A27). Take
+  first exit into Chichester. At the next roundabout take the 3rd, Via Ravenna. Over the small
+  roundabout by the Westgate Leisure Centre, then 1st exit at the bigger roundabout onto Avenue de
+  Chartres. Straight over the next roundabout (Westgate Roundabout) and follow the road round to a
+  large roundabout with a fire station in the middle (Northgate Roundabout). Take the 3rd exit,
+  which is just past a ar park. At the next roundabout take the first exit and turn immediately
+  left, opposite the Hope pub. This is College Lane and the Campus is the first right, a few hundred
+  yards up the road. Turn into the campus and follow the road round to the left, past a small car
+  park until you see a large car park on the left. Park in there and the pitch is to your left.</p>
+  <p><b>From  the East</b>: leave the A27 at the first roundabout and take the second exit, signposted Chichester. At
+  the next roundabout take take the first exit. After a few hundred yards, you will come to two
+  roundabouts. Go straight over the first and right at the second, following signs to the hospital.
+  At the next roundabout go straightover. Past pedestrian traffic lights and past a right turn to
+  the hospital. Shortly after the hospital is right turn, opposite the Hope pub. Take this right
+  turn up College Lane and follow directions from West.</p>
+   </directions>
+  </ground>
+  <colours>Royal blue</colours>
+  <section type="mens">
+   <team division="East2">
+    <name short="Chichester" minimal="Chi">Chichester Crusaders</name>
+    <contact>
+     <role>Captain</role>
+     <name>Tom Harris</name>
+     <email>THarris3@stu.chi.ac.uk</email>
+     <tel>07837 180227</tel>
+    </contact>
+    <contact>
+     <role>Vice-Captain</role>
+     <name>Josh Castle</name>
+     <email>JCastle1@stu.chi.ac.uk</email>
+     <tel>07732 345588</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="colchester" modified="2013-09-03" founded="2009">
+  <name>Colchester</name>
+  <website>https://www.facebook.com/group.php?gid=17850006316</website>
+  <ground lat="51.874528" long="0.948042">
+    <address>
+     <street>University of Essex Sports Centre</street>
+     <street>Wivenhoe Park</street>
+     <locality>Colchester</locality>
+     <region>Essex</region>
+     <postcode>CO4 3SQ</postcode>
+    </address>
+    <directions>
+     If approaching from London/the South take the A12 (M25 Jct 28) towards Chelmsford, take the exit marked Colchester
+     (A133). If approaching from Ipswich and the North on the A12, take the exit marked Colchester.
+     From Colchester, the University is off the A133 to Clacton. The University visitors' car park
+     operates on a pay and display basis.
+     <br/>
+     <br/>
+     <b>Via public transport</b>
+     <br/>Take the train to Colchester - they run from Liverpool Street every 20-30 minutes. From Colchester station
+     take bus no. 61, 62 or 74, which all go straight to the University Sports Centre.
+    </directions>
+  </ground>
+  <section type="mens">
+   <team division="East1">
+    <name minimal="Colch">Colchester</name>
+   </team>
+   <contact>
+    <role>Chairman</role>
+    <name>Ben Parkes</name>
+    <email>bparkes1@gmail.com</email>
+    <tel>07738 681770</tel>
+   </contact>
+   <contact team="Colchester">
+    <role>Captain</role>
+    <name>Andrew Denison</name>
+    <email>andrewdennison2@hotmail.com</email>
+    <tel>07894 805542</tel>
+   </contact>
+   <contact team="Colchester">
+    <role>Vice Captain</role>
+    <name>Oliver Watkins</name>
+    <email>oliver_watkins@hotmail.co.uk</email>
+    <tel>07508 089655</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="croydon" modified="2016-11-04" founded="1964">
+  <name>Croydon</name>
+  <website>http://www.croydonlacrosse.co.uk/</website>
+  <ground lat="51.436509" long="0.053808">
+   <address>
+    <street>Coldharbour Leisure Centre</street> 
+    <street>Chapel Farm Road</street>
+    <locality>New Eltham</locality>
+    <region>London</region>
+    <postcode>SE9 3LX</postcode>
+   </address>
+   <pitch type="3G" />
+  <directions>
+    <p><b>From M25 Jct 3</b> head towards London on the A20. After about 7 miles you will cross the
+    traffic lights with the B263 by the Shell petrol station. Continue on the A20 for 700 yds then turn
+    left into Chapel Farm Rd, and the Leisure Centre is shortly on the left.</p>
+    <p><b>From London</b> take the A20 towards the Channel until you reach the A208, and turn right towards Mottingham.
+    At the T-juntion turn left into Mottingham Rd, and then second left into Chapel Farm Rd, and the Leisure Centre
+    is near the end on the right.</p>
+    <p><b>By rail</b> The ground is under 5 minutes walk from Mottingham Station, which is on the
+    Sidcup line from either London Bridge, Cannon Street or Charing Cross Stations. From the station turn right, cross
+    the A20 at the traffic lights and turn left. Take the second right into Chapel Farm Rd, and Leisure Centre is a
+    short distance on the left.</p> 
+  </directions>
+  </ground>
+  <colours>Light blue</colours>
+  <contact>
+   <role>Chairman</role>
+   <name>Rob Locke</name>
+   <email>rob.locke1@btinternet.com</email>
+   <tel>07535 135946</tel>
+  </contact>
+   <contact>
+    <role>President</role>
+    <name>Peter Mundy</name>
+    <email>peter.mundy2@gmail.com</email>
+    <tel>020 8857 5330</tel>
+   </contact>
+  <section type="mens">
+   <team division="East1">
+    <name minimal="Cro">Croydon</name>
+     <contact>
+      <role>Captain</role>
+      <name>Jacob Thorne</name>
+      <email>j.thorne@sussex.ac.uk</email>
+      <tel>07817 439872</tel>
+     </contact>
+   </team>
+  </section>
+ </club>
+ <club id="uea" modified="2009-07-01" founded="2005">
+  <name long="University of East Anglia">UEA</name>
+  <website>http://www.ueastudent.com/societies/sportssites/Lacrosse</website>
+  <ground lat="52.621591" long="1.224138">
+   <address>
+    <street>Colney Lane Playing Fields</street>
+    <street>University of East Anglia</street>
+    <street>Colney Lane</street>
+    <locality>Norwich</locality>
+    <region>Norfolk</region>
+    <postcode>NR4 7UE</postcode>
+   </address>
+  <directions>From London take the M11/A11; just outside Norwich take the A47 (Southern Bypass)
+    in the direction of Swafham; the University is signposted off at
+    the next exit. If you are driving from the North or the Midlands, you can
+    use the A47 via King's Lynn. Turn off and take the B1108 heading towards
+    Norwich - then turn right on Colney Lane towards the Norfolk and Norwich University Hospital.
+    The pitches are on the left after about 1/4 mile.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="East3">
+    <name>UEA</name>
+   </team>
+   <contact>
+    <role>Secretary</role>
+    <name>R. Wasel</name>
+    <email>r.wasel@uea.ac.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="east-coast" modified="2009-12-07" founded="2006">
+  <name long="East Coast (Norwich)">East Coast</name>
+  <website>http://www.eastcoastbaby.co.uk/</website>
+  <ground lat="51.883814" long="0.850828">
+    <address>
+      <street>King George V Playing Field</street>
+      <street>Clairmont Road</street>
+      <street>Lexden</street>
+      <locality>Colchester</locality>
+      <region>Essex</region>
+      <postcode>CO3 9BE</postcode>
+    </address>
+    <directions>
+    Take the A12 (M25 Jct 28) towards Chelmsford. After 35 miles exit at jct 26 for the A1124.
+    At the roundabout, take the 3rd exit onto A1124/Essex Yeomanry Way. Continue on the A1124
+    at the next roundabout, and after 0.8 miles turn right at Straight Rd, and then 2nd right
+    onto Clairmont Rd.
+    </directions>
+  </ground>
+  <ground lat="52.618391" long="1.278428">
+   <address>
+    <street>Norwich High School for Girls</street>
+    <street>95 Newmarket Road</street>
+    <locality>Norwich</locality>
+    <postcode>NR2 2HU</postcode>
+   </address>
+   <directions>
+    The school is on the A11, which is one of the main roads into Norwich.
+    <br/>
+    <br/><b>From the West</b>
+    <br/>From the A14 exit at Jct 38 onto the A11 for Norwich. As you approach Norwich continue across the A47, 2
+    1/2 miles after that cross the roundabout with the A140, and the school is after about 300 yds on your
+    left.
+    <br/>
+    <br/><b>From the South</b>
+    <br/>Exit the M11 at Jct 9 onto the A11. After a while this merges with the A14. Follow directions as from the
+    West.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="East1">
+    <name>East Coast</name>
+   </team>
+   <contact>
+    <role>President</role>
+    <name>Carl-Michael Carey</name>
+    <tel>07882 654 024</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Vince Grimes</name>
+    <email>climbcoach@aol.com</email>
+    <tel>07825 224260</tel>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Luke Berry</name>
+    <email>lukeberry1@googlemail.com</email>
+    <tel>07743 432 693</tel>
+   </contact>
+   <contact>
+    <role>General Info</role>
+    <email>info@eastcoastbaby.co.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="epsom" modified="2020-01-07" founded="2010">
+  <name>Epsom</name>
+  <website>https://www.facebook.com/EpsomLax/</website>
+  <!--
+  <website>http://www.pitchero.com/clubs/epsomlacrosse</website>
+  -->
+  <ground lat="51.326138" long="-0.270030">
+   <address>
+    <street>Epsom Sports Club</street>
+    <street>Francis Schnadhorst Memorial Ground</street>
+    <street>Woodcote Road</street>
+    <locality>Epsom</locality>
+    <region>Surrey</region>
+    <postcode>KT18 7QN</postcode>
+   </address>
+   <directions>
+    <p><b>From M25</b> Take Jct 9, Leatherhead exit, and follow the A24 towards London.
+    Continue through Ashtead towards Epsom, eventually passing Epsom Hospital on the right.
+    Just after hospital, turn right at traffic lights by BP garage into Woodcote Road.
+    Entrance to ground is &frac14; mile on right.</p>
+    <p><b>From London (A3)</b> Come off A3 at Tolworth exit (A24), and follow A24 towards Epsom and Dorking.
+    Follow A24 through Epsom town centre along Epsom High Street.
+    Follow the one way system along Ashley Avenue and follow the A24 towards Leatherhead and Dorking.
+    At traffic lights by BP garage, turn left into Woodcote Road.
+    Entrance to ground is &frac14; mile on right.</p>
+    <p><b>By rail</b> Take the train to <a rel="nofollow" href="http://www.nationalrail.co.uk/stations/EPS/details.html">Epsom (Surrey) Station</a> (TFL Zone 9)
+     which is <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/London/EPS/saturday/1255/arr">30-45 mins from London</a> from either
+     <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/WAT/EPS/saturday/1255/arr">Waterloo</a>
+     via <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/WIM/EPS/saturday/1255/arr">Wimbledon</a>,
+     or <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/VIC/EPS/saturday/1255/arr">Victoria</a>.</p>
+     <p><b>Note:</b> Depending on where you are travelling from it may be cheaper to get a paper ticket rather than using Oyster/contactless. Please check <a rel="nofollow" href="https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares/single-fare-finder">TFL single fare finder</a> vs <a rel="nofollow" href="https://www.nationalrail.co.uk/">National Rail</a> before travelling.</p>
+     <p>The ground is then a short taxi ride, or a <a rel="nofollow" href="https://www.google.co.uk/maps/dir/51.3341681,-0.2683015/51.326138,-0.27003/@51.3301515,-0.2745942,16z/data=!3m1!4b1!4m2!4m1!3e2">flat 0.7 mile walk</a>,
+     or alternatively take the 166 or 293 bus from the <a rel="nofollow" href="https://tfl.gov.uk/bus/stop/40004406119A/ashley-road">Ashley Road stop</a> for 1 stop to
+     <a rel="nofollow" href="https://tfl.gov.uk/bus/stop/40004406037B/elmslie-close">Elmslie Close</a>, continue down Dorking Rd for 90m
+     and turn left down the footpath before the hospital, and the gate to the ground is about 200m on the left.
+     Note buses return from the other side of the ground from the <a rel="nofollow" href="https://tfl.gov.uk/bus/stop/40004406011B/avenue-road">Avenue Road stop</a> on Woodcote Rd. 
+    </p>    
+   </directions>
+  </ground>
+  <colours>Navy Blue (with orange and white)</colours>
+  <contact>
+   <role>Chairman</role>
+      <name>Paul Clayton</name>
+      <email>theothermanfromuncle@hotmail.com</email>
+  </contact>
+  <contact>
+   <role>Junior Coordinator</role>
+   <name>Joey Nicholson</name>
+   <email>joe.nicholson123@gmail.com</email>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+      <name>James Goddard</name>
+      <email>jgoddard251@hotmail.com</email>
+  </contact>
+  <section type="mens">
+   <team division="D2,L-SC">
+    <name minimal="Eps">Epsom</name>
+    <contact>
+      <role>Captain</role>
+      <name>Paddy Burke</name>
+      <email>patrick.w.burke@live.co.uk</email>
+      <tel>07981 082422</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="exeter" modified="2013-06-18" founded="2013">
+  <name>Exeter City</name>
+  <website>https://www.facebook.com/ExeterCityLacrosseClub</website>
+  <ground lat="50.710128" long="-3.515080">
+   <address>
+    <street>Duckes Meadow Playing Fields</street>
+    <street>Salmon Pool Lane</street>
+    <street>off Topsham Road</street>
+    <locality>Exeter</locality>
+    <region>Devon</region>
+    <postcode>EX2 4SN</postcode>
+   </address>
+   <directions>
+    Exit the M5 at Jct 30 and take the A379 to the Countess Wear roundabout, Take the third exit onto the
+    Topsham Road and continue along this road, Turn left into Salmonpool Lane after the traffic lights and
+    opposite the Buckrell Lodge Hotel. As Salmonpool Lane bends to the left slow down and take the sharp
+    left down the narrow road between the two hedges.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="West2">
+    <name short="Exeter">Exeter City</name>
+   </team>
+   <kit>Green</kit>
+   <contact>
+    <role>Chair</role>
+    <name>Helen Murray</name>
+    <email>h.murray@englishlacrosse.co.uk</email>
+   </contact>
+   <contact team="Exeter City">
+    <role>Captain</role>
+    <name>Chris Adams</name>
+    <email>cja211@exeter.ac.uk</email>
+    <tel>07738 632823</tel>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Louisa Willoughby</name>
+    <email>lw345@exeter.ac.uk</email>
+   </contact>
+  </section>
+ </club>
+  <club id="foxes" modified="2016-09-10">
+  <name>Foxes</name>
+  <description>Age Group: 8 - 18 mixed boys and girls, from beginners upwards</description>
+  <website>http://foxeslacrosse.org/</website>
+  <twitter>@FoxesLacrosse</twitter>
+  <ground lat="51.4261" long="0.07257">
+   <address>
+    <street>Edgebury Primary School</street>
+    <street>Belmont Lane</street>
+    <locality>Chislehurst</locality>
+    <postcode>BR7 6BL</postcode>
+   </address>
+   <directions>
+    <p>If travelling from the M25 take J3 Swanley, at the roundabout, take the
+    5th exit onto the A20 ramp to Lewisham/South East London. Take the
+    A222 exit toward Bromley /Chislehurst /Sidcup. At the roundabout,
+    take the 1st exit onto Perry St/A222 turn right onto Ashfield Lane,
+    turn slight right (Heathfield Lane), turn slight right (Green Lane
+    B263) [if you miss the Ashfield Lane turning, turn right at the war
+    memorial (traffic lights) and take first right, this will also bring
+    you across the common to Green Lane B263], turn third right (at the
+    Coop) onto Belmont Lane continue straight on until you see the
+    school on your left. We use the Belmont Road entrance not the
+    Edgebury road entrance.</p>
+    <p>To get back to the A20 Turn right up Edgebury, turn right at the top
+    onto Green Lane and at the large junction by Burger King turn right
+    onto the A20.</p>
+   </directions>
+  </ground>
+  <colours>Royal Blue/Gold</colours>
+  <contact>
+   <role>Vice Chair / Secretary</role>
+   <name>Jacqui Hicks</name>
+   <email>jwaltonhicks@gmail.com</email>
+   <tel>07786 873185</tel>
+  </contact>
+  <!-- 
+  <contact>
+   <role>Coach</role>
+   <name>Adie Blackman</name>
+   <email>adie@foxeslacrosse.org</email>
+   <tel>07766 410377</tel>
+  </contact>
+   -->
+  <contact>
+   <role>Child Protection</role>
+   <name>Jennie Oliver</name>
+   <email>admin@foxeslacrosse.org</email>
+  </contact>
+  <section type="juniors">
+  </section>
+ </club>
+ <club id="fxu" modified="2014-05-17" founded="2011">
+  <name>FXU</name>
+  <website>https://www.facebook.com/pages/FXU-Lacrosse/102920006485671</website>
+  <ground lat="50.262380" long="-5.101203">
+    <address>
+     <street>Truro College</street>
+     <street>College Way</street>
+     <locality>Truro</locality>
+     <region>Cornwall</region>
+     <postcode>TR1 3XX</postcode>
+    </address>
+    <directions>The College is just off the A390, to the North-West of Truro.
+    From the A30, at the Chiverton Cross roundabout take the A390 towards Truro.
+    After nearly 3 miles turn right at the Maiden Green roundabout (signed Truro College),
+    and after 200 yds turn right into the College.</directions>
+  </ground>
+  <section type="mens">
+   <team division="West2">
+    <name>FXU</name>
+   </team>
+   <kit>Indigo and yellow</kit>
+   <contact>
+    <role>Chairman</role>
+    <name>Kelvin Archer</name>
+    <email>ka140310@falmouth.ac.uk</email>
+    <tel>07580 118084</tel>
+   </contact>
+   <contact team="FXU">
+    <role>Captain</role>
+    <name>Joe Cook</name>
+    <email>jc517@exeter.ac.uk</email>
+    <tel>07827 292153</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="gloucester-uni" modified="2007-09-29" founded="2003">
+  <name long="University of Gloucestershire">Gloucester Uni</name>
+  <website>http://www.ugsu.org/display/gloucestershire/Lacrosse</website>
+  <ground lat="51.887370" long="-2.088860">
+   <address>
+    <street>Park Campus, University of Gloucestershire</street>
+    <street>The Park</street>
+    <locality>Cheltenham</locality>
+    <region>Gloucestershire</region>
+    <postcode>GL50 2RH</postcode>
+   </address>
+   <directions>
+    From the M5 (North, South or West) exit Jct 11A following the signs to the A417 Cirencester. Take the
+    first exit from the A417 dual carriageway and turn left at the roundabout on to the A46 sign posted
+    Shurdington/ Cheltenham. Follow this road straight through for about 3 miles. At the first set of traffic
+    lights, by the Moorend Park Hotel, turn left. At the mini roundabout turn left. The entrance to the Park
+    Campus car park is about 450 yards on the right.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="Mids">
+    <name short="Gloucester">Gloucester Uni</name>
+   </team>
+   <contact>
+    <role>Club Captain</role>
+    <name>Pip Weberley</name>
+    <email>pip_weberley@hotmail.com</email>
+    <tel>07810 428381</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Richard Beattie</name>
+    <email>beattierp@hotmail.com</email>
+    <tel>07828 417276</tel>
+   </contact>
+  </section>
+ </club>
+ <!-- Hitchin ground
+   <ground lat="51.962360" long="-0.283827">
+   <address>
+    <street>The Priory School</street>
+    <street>Bedford Rd</street>
+    <locality>Hitchin</locality>
+    <region>Hertfordshire</region>
+    <postcode>SG5 2UR</postcode>
+   </address>
+   <note><p>
+   Post match hospitality is at <a rel="nofollow" href="https://www.google.co.uk/maps/place/The+Cricketers/@51.973846,-0.2883634,13.75z/data=!4m5!3m4!1s0x0:0xafafbb9c50c2c251!8m2!3d51.9745187!4d-0.2761777">The Cricketers</a>, 107 Arlesey Road, Ickleford SG5 3TH.
+   From the ground turn right onto the A600 towards Bedford, and turn right at the next
+   roundabout towards Ickleford. The pub is on the left after 0.7 miles.
+   </p></note>
+   <directions>
+    <p><b>From A1(M)</b> exit Jct 8 onto A602 into Hitchin. Follow directions for one-way system below.</p>
+    <p><b>From M1 North</b> exit Jct 12 (signposted Flitwick and Ampthill). Follow the A5120 for a short distance
+    towards Ampthill; take the second right signposted Harlington and Barton. After about 2 miles you come to
+    a T-junction. Turn left towards Barton le Clay and Hitchin. At Barton village, follow the signs to Hitchin
+    - you have to turn right at the mini-roundabout and then left onto the B655, signposted to Hitchin. Follow directions
+    for one-way system below.</p>
+    <p><b>From M1 South</b> exit Jct 10, follow the A1081/A505 all the way round Luton to Hitchin. Follow directions
+    for one-way system below.</p>
+    <p><b>From Hitchin one-way system</b> Follow signs for Bedford (A600) round the town's main one-way system and when
+    you reach the traffic lights by the large expanse of grass (known as Butts Close) go straight across, following signs
+    the the A505. At the next roundabout go straight ahead onto the A600 towards Bedford. Go through 4
+    roundabouts, and the school is on the right shortly after the BP garage.
+    <br/>Make sure you ignore the first entrance to the school, as that's no entry, use the entrance 40yds further, at the end of the layby.</p>
+    <p><b>By Public Transport</b> Trains to Hitchin run from <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/KGX/HIT/saturday/1250/arr">King's Cross</a>.
+    It's a short taxi ride from the station, where there's a busy taxi rank, or <a rel="nofollow" href="https://www.google.co.uk/maps/dir/Hitchin+Rail+Station,+Hitchin/51.96236,-0.283827/@51.9567794,-0.2838123,15z/data=!4m9!4m8!1m5!1m1!1s0x487633ea11dc4fd3:0x18be18d2571e7f2c!2m2!1d-0.263639!2d51.953328!1m0!3e2">it's a 1.6 mile walk</a>,
+    or you can take the infrequent bus service - but make sure you know where you're going, as the buses
+    are old Hoppers, and do not announce the next stop. However, the bus stop at the station does have a screen
+    listing live arrivals, so you can see if you'd be better off getting a taxi.</p>
+    <p><a rel="nofollow" href="http://www.centrebus.info/Pages/Hertfordshire.aspx">Buses that run from the station</a> are the
+    80 (every 30 mins), or 81 (every hour) and go to <a href="https://www.google.co.uk/maps/place/Nutleigh+Grove/@51.9561885,-0.2870908,17.25z/data=!4m5!3m4!1s0x487633f55fb2d4fb:0x6e09e546e3a5886b!8m2!3d51.9564632!4d-0.2866477">opp Nutleigh Grove</a>
+    (which is where the bus turns left at the double mini-roundabout on the A600). Walk back to the mini-roundabout, and turn left up Bedford Rd. The school is 650m on the opposite side.
+    These buses return from <a rel="nofollow" href="https://www.google.co.uk/maps/place/Beechwood+Close/@51.9618123,-0.2889864,17.58z/data=!4m5!3m4!1s0x4876347599acba97:0x17ab6462670200b5!8m2!3d51.9608994!4d-0.2881732">opp Beechwood Close</a>.
+    <br/>Alternatively buses run past the school up Bedford Rd from the centre of Hitchin (which is a 0.6 mile walk/bus ride to the station).</p>
+   </directions>
+  </ground>
+  
+  -->
+ <club id="hertfordshire-uni" modified="2007-06-18" founded="2005">
+  <name long="Hertfordshire Comets">Herts Comets</name>
+  <website>http://www.hertscomets.co.uk/</website>
+  <ground lat="51.760793" long="-0.250242">
+   <address>
+    <street>Hertfordshire Sports Village</street>
+    <street>de Havilland Campus</street>
+    <street>Hatfield Business Park</street>
+    <locality>Hatfield</locality>
+    <region>Hertfordshire</region>
+    <postcode>AL10 9EU</postcode>
+   </address>
+   <directions>
+    <b>From M25</b>
+    <br/>From all directions on the M25, take the A1(M) North at Jct 23. Follow directions below for A1(M).
+    <br/>
+    <br/><b>From A1(M)</b>
+    <br/>Exit at Jct 3, and take the A1001 Comey Way (2nd exit if travelling from the south, 3rd if coming from
+    the north). At the next roundabout turn left onto the A1057, cross the next roundabout, and the Sports Village is on your right,
+    <br/>
+    <br/><b>From M1</b>
+    <br/>For those travelling from the North down the M1, exit at Jct 7, which takes you onto the M10. Travel
+    along for about 3 miles to the next roundabout and take the second exit onto the A414. Keep to this road
+    for about 3 miles following signs to Hatfield. When you get to Jct 3 with the A1(M) follow the
+    directions above for A1(M).
+    <br/>
+    <br/><b>By public transport</b>
+    <br/>By rail to Hatfield train station (Kings Cross line). Take bus 602 or 603 towards Hatfield Business Park
+    and alight at the de Havilland Campus (although ask the bus driver first, as these buses also go elsewhere from
+    this bus stop!). You can check the times using the following website: <a rel="nofollow" href="http://www.unobus.info/routes.html"/>
+    <br/>Once at the de Havilland Campus, walk through the car par with the large building on your right hand side, until
+    you come to a gym (called the Sports Village) directly in front of you.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="East1">
+    <name short="Herts Comets">Hertfordshire Comets</name>
+   </team>
+   <contact>
+    <role>Chairperson</role>
+    <name>Joanna Denyer</name>
+    <email>jodenyer87@hotmail.com</email>
+    <tel>07929 375606</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Klaus Broker</name>
+    <email>k.broker@herts.ac.uk</email>
+    <tel>07905 301741</tel>
+   </contact>
+   <contact>
+    <role>Administrator</role>
+    <name>Katy Hollands</name>
+    <email>k.e.hollands@herts.ac.uk</email>
+    <tel type="work">01707 281180</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="imperial" modified="2008-09-13" founded="2008">
+  <name long="Imperial College">Imperial College</name>
+  <website>http://www.imperialcollegeunion.org/clubs-and-societies/a-to-z/l/lacrosse-medics/</website>
+  <ground lat="51.490007" long="-0.441979">
+   <address>
+    <street>Harlington Sports Ground</street>
+    <street>Sipson Lane</street>
+    <locality>Harlington</locality>
+    <region>Middlesex</region>
+    <postcode>UB3 5AQ</postcode>
+   </address>
+   <directions>
+     <b>By Road</b> Take the M4 to Heathrow Airport Exit (Junction 4). Take
+     the exit from the roundabout signposted 'Staines &amp; Uxbridge'. Keep
+     in the left hand lane which merges with the A408 to Sipson. Drive
+     back under the M4 and then turn left at the mini-roundabout toward
+     Sipson. Follow the Sipson road for about half a mile into Sipson
+     Village. Turn left into Sipson Lane heading back over the airport
+     spur road. The sports ground is about half a mile on the left.
+     <br/><br/><b>By Public Transport</b> Take the London Underground (Picadilly line
+     towards Heathrow) toward Hatton Cross, exit the station and take
+     Bus route 90B or 222 to the end of Sipson Lane.
+     <br/>Or by rail from Paddington to Hayes &amp; Harlington Station, then Bus 140 towards Heathrow Airport Central
+      or Bus 90 towards Feltham Leisure West, or Bus H98 towards Hounslow Bus Station/London Rd
+      to the end of Sipson Lane.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="East2">
+    <name short="Imperial">Imperial College</name>
+   </team>
+  </section>
+ </club>
+ <club id="keele-uni" modified="2007-11-09">
+  <name long="Keele University">Keele Uni</name>
+  <website>http://www.keelelacrosse.com/</website>
+  <ground lat="53.003952" long="-2.274598">
+   <address>
+    <street>Keele University Leisure Centre</street>
+    <locality>Keele</locality>
+    <region>Staffordshire</region>
+    <postcode>ST5 5BG</postcode>
+   </address>
+   <directions>
+    <b>From the North</b>
+    <br/>Exit M6 at Jct 16, signed A500/Alton Towers. At the motorway
+    roundabout turn right onto the A500 for Crewe and Nantwich. The University is signed from here. At the
+    next roundabout, go straight on A500 (A531) and at the next one turn left onto the A531 (A525) for Keele.
+    After approximately 7 miles, turn right at the roundabout onto campus. From the motorway journey time
+    is about 20-25 minutes.
+    <br/>
+    <br/><b>From the South</b>
+    <br/>Exit M6 at Jct 15 and follow the signs for the A519 into Newcastle-under-Lyme. The University is
+    signed from the first roundabout, after leaving the motorway follow signs for the University and Science
+    Park. Two miles out of Newcastle, turn left at the roundabout onto campus. From the motorway journey time is about 15-20 minutes.
+    <br/>
+    <br/><b>From the East</b>
+    <br/>If you are travelling on the A53 follow signs to Newcastle-under-Lyme. If you are using the A50, join the
+    A500 and then turn off on the A53 to Newcastle. Travel from the M1 is easiest using the new Jct 23A
+    onto the Derby bypass and following signs for the A50.
+    <br/>
+    <br/><b>From the West</b>
+    <br/>Follow signs for the A525.
+    <br/>
+    <br/><b>Directions to the leisure centre</b> Follow the road down the hill and turn right at the roundabout. Then take the next left and then right.
+    This brings you into a car park and the leisure centre is in front of you.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="Mids">
+    <name short="Keele">Keele Uni</name>
+   </team>
+   <contact>
+    <role>President</role>
+    <name>Stephen Johns</name>
+    <email>keelelacrosse@hotmail.co.uk</email>
+    <tel>07725 846837</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Max van Praag</name>
+    <email>keelelacrosse@hotmail.co.uk</email>
+    <tel>07772 657118</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="kent-uni" modified="2008-10-03">
+  <name long="University of Kent">Kent Uni</name>
+  <ground lat="51.295360" long="1.065981">
+    <address>
+      <street>Keynes College</street>
+      <street>University of Kent</street>
+      <locality>Canterbury</locality>
+      <region>Kent</region>
+      <postcode>CT2 7NP</postcode>
+    </address>
+  <directions>
+    <b>Coast Bound From M2</b> Leave the M2 at Jct 7 and turn right on to the A2
+    (signed Dover, [A2] Canterbury, Channel Tunnel) -  Leave Canterbury Junction A2050 - follow road untill
+    roundabout - first exit past Victoria Hotel (London Road) - Continue on London Road - Left at
+    mini roundabout (A290 Whitstable Road) - Continue on A290 (Whitstable Road will become St. Thomas Hill)
+    - half a mile turn right onto Universtiy Road - take left exit after bus shelter (and before roundabout)
+    - park in Keynes College, pitch located behind car park (someone should meet you there)
+     </directions>
+  </ground>
+  <section type="mens">
+   <team division="East2">
+    <name short="Kent">Kent Uni</name>
+   </team>
+   <kit>Jersey: Black, light blue trim</kit>
+   <contact>
+    <role>President</role>
+    <name>Greg Ingram</name>
+    <email>gi4@kent.ac.uk</email>
+    <tel>07920 402151</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Nick Hayden</name>
+    <email>nh82@kent.ac.uk</email>
+    <tel>07843 085937</tel>
+   </contact>
+   <contact>
+    <role>Other Contact</role>
+    <name>Dom Green</name>
+    <tel>07912 355182</tel>
+   </contact>
+  </section>
+ </club>
+  <!--
+  London Uni grounds 
+  <ground lat="51.71187" long="-0.27936">
+   <address>
+    <street>University College London Athletic Ground</street>
+    <street>Bell Lane</street>
+    <locality>London Colney</locality>
+    <region>Herts</region>
+    <postcode>AL2 1BZ</postcode>
+   </address>
+   <directions>
+    <b>From the M25 Westbound</b> (anticlockwise) exit at Jct 22, go straight across the roundabout into the B556 Bell Lane towards Radlett.
+    Cross the next roundabout to continue on the B556, and after 150 yds take the first left, and continue left into the ground.
+    <br/><b>From the M25 Eastbound</b> (clockwise) exit at Jct 22, at the roundabout take the 5th exit for Radlett (B556), and at the next roundabout take the
+    2nd exit right into the B556 Bell Lane, and follow directions as above.
+    <br/><b>From the A5183/Elstree</b> go through Elstree and Radlett (through the town centre, past the Railway station).
+    On the north side of Radlett, just before a major downwards hill, turn right into the B556 Harper Lane towards Colney. After 1 1/2 miles
+    go across the roundabout, and the ground is 1/2 mile on the right, just after the Pelican crossing. 
+    <br/><br/><b>By Rail</b> Although the nearest train station is Radlett (reachable by Thameslink services
+    from Blackfriars &amp; St Pancras), it is difficult to get transport from there to the ground, so we recommend that you go to
+    St Albans station (which is one stop further on the Thameslink service).
+    From here either get a Taxi (around £7 per taxi), or take the No 84 bus towards New Barnet, which runs every 20 mins, and takes about 20 mins.
+    The nearest bus stop is in Alma Rd, which is right out of the station towards the City Centre, and then left at the crossroads.
+    Alight at the Bell Lane stop, which is just before the road crosses over the M25 by Junction 22, and walk towards Radlett along
+    Bell Lane (the B556). The grounds are signposted and about a quarter of a mile away on your left.
+   </directions>
+  </ground>
+  <ground lat="51.569338" long="-0.100297">
+   <address>
+    <street>Finsbury Park</street>
+    <street>Seven Sisters Road</street>
+    <region>London</region>
+    <postcode>N4 2NQ</postcode>
+   </address>
+   <note>
+    <b>All games start at 1pm</b> in order to allow access to showers/changing rooms.</note>
+   <directions>
+    The pitch is in the south east of Finsbury Park. The nearest landmark is McKenzie Pavilion, which
+    is shown on most maps on public information boards in the park.
+    <br/>
+    <br/>
+    <b>From Finsbury Park Station</b>
+    (Piccadilly and Victoria tube, First Capital Connect to Kings Cross and
+    northbound on lines to Welwyn Garden City, Hertford, Peterborough and Cambridge).
+    Exit the station onto Seven Sisters Road, turning left. Walk approximately 600m
+    north east along Seven Sisters Road and use the entrance to the park
+    opposite to Alexandra Grove (just after the pelican crossing). The ground is the raised pitch 70m into
+    the park from the road.
+    <br/>
+    <br/>
+    <b>By car</b> The park is on the A503. Access to pay &amp; display parking within Finsbury Park via
+    the Hornsey Gate entrance, which is on the B150 Upper Tollington Place/Endymion Road. The Park is closed to
+    all vehicles on days when major events take place.
+   </directions>
+  </ground>
+   -->
+ <club id="loughborough-uni" modified="2007-01-01" founded="1982">
+  <name long="Loughborough University">Loughborough Uni</name>
+   <website>http://www.loughboroughlacrosse.co.uk/</website>
+  <website>http://www.lufbra.net/club_homepage.asp?clubid=585</website>
+  <ground lat="52.764873" long="-1.229474">
+   <address>
+    <street>Loughborough University</street>
+    <region>Leicestershire</region>
+    <postcode>LE11 3TU</postcode>
+   </address>
+   <directions>From M1 (Jct 23) or the A6, follow the signs to the University.</directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team division="Mids">
+    <name short="Loughborough">Loughborough Uni</name>
+   </team>
+   <contact>
+    <role>Captain</role>
+    <name>Tom Lincoln</name>
+    <email>tomlincoln63@hotmail.com</email>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Tom Castle</name>
+    <email>cannonball_tom@hotmail.co.uk</email>
+   </contact>
+   <contact>
+    <role>Fixtures Secretary</role>
+    <name>Seb Sanders</name>
+    <email>darqness69@hotmail.com</email>
+    <tel>07914 854 088</tel>
+   </contact>
+  </section>
+ </club>
+ <!--
+ MK ground
+  <ground lat="52.02694" long="-0.71885">
+   <address>
+    <street>Woughton On The Green Sports Pavilion</street>
+    <street>Woughton on the Green</street>
+    <locality>Milton Keynes</locality>
+    <region>Buckinghamshire</region>
+    <postcode>MK6 3EA</postcode>
+   </address>
+   <tel>01908 665337</tel>
+   <directions>
+   <b>From M1 Northbound</b> exit at Jct 13 and take the A421 towards Milton Keynes.
+   After about 4 miles you will cross over the roundabout with the A4146 (Brinklow Roundabout). Go straight over the next
+   roundabout to continue on the A421, and after 3/4 mile take the left turn signed Woughton Park/Woughton Playing Fields.
+   Turn immediately right, going under the dual carriageway, then right again into Woughton Playing Fields, and follow the road round
+   to the Pavilion.
+   <br/><b>From M1 Southbound</b> exit at Jct 14 and at the roundabout take the 3rd
+   exit onto A509 towards Milton Keynes. At the next roundabout take the 2nd exit onto the A4146.
+   At the next roundabout take the 1st exit to continue on the A4146. At the next roundabout take the 3rd
+   exit right onto the A421, and follow directions above as from the Brinklow Roundabout.
+   <br/><b>From the west</b> Follow the A421 until you pass the
+   Hospital roundabout. At next double roundabout stay on the A421 (signed M1). After 400m take the left turn signed Woughton
+   Playing Fields, turn immediately right, then 2nd left (just before the bridge) into Woughton Playing Fields.
+   </directions>
+  </ground>
+ 
+ -->
+ <club id="maidstone" modified="2017-11-13" founded="2009">
+  <name>Maidstone</name>
+  <website>http://maidstonelacrosse.com/</website>
+  <twitter>@MaidstoneLAX</twitter>
+  <ground lat="51.261270" long="1.085225">
+   <address>
+    <street>Simon Langton Grammar School for Boys</street>
+    <street>Langton Lane</street>
+    <street>Nackington Rd</street>
+    <locality>Canterbury</locality>
+    <postcode>CT4 7AS</postcode>
+   </address>
+   <note><b>There are grass and 3G pitches at the ground, but assume grass unless instructed.</b></note>
+   <directions>
+    <p><b>Coast Bound From M2</b> Exit at Jct 7 and turn right on to the A2 (signed Dover, [A2] Canterbury, Channel Tunnel).
+    Go past Canterbury, and take the Bridge exit (also signed Howletts Wild Animal Park).
+    <br/>Turn right at the T-junction towards Bridge, and after 0.1 miles take the right fork, and at the T-junction turn
+    right again back towards Canterbury.
+    <br/>Follow this road back over the A2 for 1 mile, and at the roundabout take the 3rd exit (that's including the small exit for the pub)
+    onto Old Dover Rd. After &frac12; mile turn left at the traffic lights onto Nackington Rd/B2068, and in 0.6 miles pass
+    the Chaucer Hospital and turn right into Langton Lane. Follow the road to the end, and you will see the Sports Centre and car park on the right.</p>
+    <p><b>By Rail</b> Trains run frequently from <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/London/Canterbury/saturday/1255/arr">London to Canterbury East or West</a>,
+    and both stations have busy taxi ranks for the short journey to the ground. Alternatively the ground is a
+    <a rel="nofollow" href="https://www.google.co.uk/maps/dir/51.2744231,1.0759321/51.2612558,1.0852179/@51.2690883,1.0766908,15.5z/data=!4m2!4m1!3e3?hl=en">1.2 mile walk from Canterbury East</a>.
+    <br/>If there are 3 or more or you then you can also <a rel="nofollow" href="https://www.southeasternrailway.co.uk/tickets/ways-to-save/groupsave">get &frac13; off by using GroupSave</a>.
+    <br/>Southeastern also run high-speed trains from 
+    <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/STP/CBW/saturday/1255/arr">St Pancras to Canterbury West</a> (via Stratford), though these are more expensive -
+    and make sure you board in the front carriages, as the platform at Canterbury West is too short for the full high-speed trains.  
+    <br/></p>
+   </directions>
+  </ground>
+  <colours>White, Red/Lime Green</colours>
+  <contact>
+   <role>Chairman</role>
+   <name>Joe Burnett</name>
+   <email>maidstonelacrosseclub@gmail.com</email>
+  </contact>
+  <section type="mens">
+   <team division="East1">
+    <name minimal="Mds">Maidstone</name>
+    <contact>
+     <role>Captain</role>
+     <name>Jake Stones</name>
+     <email>maidstonemenslacrosse@gmail.com</email>
+     <tel>07813 007682</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="northampton-uni" modified="2007-10-15">
+  <name long="Northampton University">Northampton Uni</name>
+  <website>http://www.northamptonunion.com/DisplayPage.aspx?GroupId=37663&amp;ID=7536</website>
+  <ground lat="52.272481" long="-0.882548">
+   <address>
+    <street>Pavilion Field</street>
+    <street>UCN, Park Campus</street>
+    <street>Boughton Green Rd</street>
+    <locality>Northampton</locality>
+    <postcode>NN2 7AL</postcode>
+   </address>
+   <directions>
+    <b>From the North</b>
+    <br/>Leave M1/M6 at Jct 19 and head east on the A14. Leave the A14 at Jct 2, A508 Market Harborough
+    and Northampton. Follow signs to Northampton. After approximately 8 miles you will enter Northampton. At
+    the first set of traffic lights (cemetery on the left) turn left and follow signs for University College
+    Park Campus. At the first roundabout take the fourth exit onto Boughton Green Road. The entrance to the
+    Visitors Car Park is on the left at the top of the hill.
+    <br/>
+    <br/><b>From the South</b>
+    <br/>Leave the M1 at Jct 15 and turn right onto the A508 Northampton. This leads into the A45 Nene Valley
+    Way. Leave at the Jct A43 Kettering. Turn left onto the A43 Lumbertubs Way and go straight over at
+    the first roundabout. At the second roundabout take the second exit onto Moulton Park and follow signs for
+    University College Park Campus. At the second roundabout take the second exit onto Boughton Green Road.
+    The entrance to the Visitors Car Park is on the left at the top of the hill.
+    <br/>
+    <br/><b>From the East</b>
+    <br/>From the A14 leave at the junction A43 Northampton and Kettering. Turn left onto the A43 Northampton and
+    follow signs to Moulton. Continue on the A43 and at the large roundabout take the fifth exit onto Moulton
+    Park and follow signs for University Park Campus. At the second roundabout take the second exit onto
+    Moulton Park and follow signs for University College Park Campus. At the second roundabout take the second
+    exit onto Boughton Green Road. The entrance to the Visitors Car Park is on the left at the top of the
+    hill.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey away="true" />
+   <team division="East2">
+    <name short="Northampton">Northampton Uni</name>
+   </team>
+   <contact>
+    <role>Captain</role>
+    <name>Jon Bowles</name>
+    <email>jon_ax@hotmail.com</email>
+    <tel>07955 817642</tel>
+   </contact>
+   <contact>
+    <role>Vice-Captain</role>
+    <name>Tom Melvin</name>
+    <email>meb_man@hotmai.com</email>
+    <tel>07792 736731</tel>
+   </contact>
+   <contact>
+    <role>UCN Sports Rep</role>
+    <name>Seb Carmichael-Brown</name>
+    <email>seb@northamptonunion.com</email>
+   </contact>
+  </section>
+ </club>
+ <club id="north-london" modified="2013-02-15">
+  <name>North London</name>
+  <!-- ground version used by London Uni -->
+  <ground lat="51.58140" long="-0.13458">
+   <address>
+    <street>North London Cricket Club</street>
+    <street>Crouch End Playing Fields</street>
+    <street>Montenotte Rd</street>
+    <region>London</region>
+    <postcode>N8 8RL</postcode>
+   </address>
+   <tel>020 8340 8184</tel>
+   <directions>
+   <b>Via Public Transport</b>
+   <br/>From Highgate tube (Northern Line) follow the road out of the station car park
+   and turn left into Shepherd's Hill. Montenotte Rd is just over 1/2 a mile on the left.  
+   The clubhouse and pitches are at the bottom on the left of the school.
+   <br/>The 134 bus between North Finchley and Tottenham Court Road stops outside
+   Highgate tube station on Archway Road and you need to follow the same
+   directions as above.
+   <br/>The 91 bus between Tottenham Lane YMCA and Whitehall stops at Hornsey
+   Rise, take the left onto Crescent Road, then straight over onto
+   Coolhurst Road and straight over again onto Montenotte Road (0.4mi).
+   <br/><br/><b>By Road:</b> There is ample parking at the ground.
+   <br/><b>From the South/West</b> Follow the A40 from Maylebone Road to Euston Road, after Regents Park take
+   the next left up Albany Street onto Parkway (A4201), continue over the
+   traffic lights at Camden Road Station onto Kentish Town Road (A400),
+   continue for 1.9mi. At Archway Tube station roundabout take the second
+   exit onto Archway Road (A1), continue for 0.8mi and take the fourth
+   right onto Shepherds Hill. Montenotte Road is the fourth left (0.6mi).
+   <br/><b>From the North</b> At Junction 2 of the M1 take the Barnet by-pass exit onto the A1 towards
+   Holloway, continue to follow (2.2mi) to merge with the A406. Remain on
+   the A1 to Falloden Way, the A1 becomes Archway Road after 2.0mi, take
+   the first left after Highgate Tube station onto Shepherds Hill.
+   Montenotte Road is the fourth left (0.6mi).
+   </directions>
+  </ground>
+  <ground lat="51.58140" long="-0.13458">
+   <address>
+    <street>North London Cricket Club</street>
+    <street>Crouch End Playing Fields</street>
+    <street>Montenotte Rd</street>
+    <region>London</region>
+    <postcode>N8 8RL</postcode>
+   </address>
+   <directions>
+   <b>From the A1</b> head towards Highgate, and turn east into Shepherd's Hill at
+   the traffic lights by Highgate Tube (the boxed junction with 5 exits). After about 1/2 mile turn left
+   into Montenotte Rd, and the club is at the end of the road.
+   <br/><br/><b>By Tube</b> From Highgate tube (Northen Line) follow the road out of
+   the station car park and turn left into Shepherd's Hill. Montenotte Rd is just over 1/2
+   a mile on the left.  
+   </directions>
+  </ground>
+  <section type="mens">
+   <team>
+    <name>North London</name>
+   </team>
+   <contact>
+    <role>Contact</role>
+    <name>Sam Spurrell</name>
+    <email>s.spurrell@englishlacrosse.co.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="northampton-town" modified="2014-09-03">
+  <name long="Northampton Town">Northampton Town</name>
+  <ground lat="52.235153" long="-0.862063">
+   <address>
+    <street>Old Scouts Rugby Club</street>
+    <street>Rushmere Road</street>
+    <locality>Northampton</locality>
+    <postcode>NN1 5RY</postcode>
+   </address>
+   <directions>
+    <b>From North and South</b>
+    <br/>Exit M1 on junction 15, at the roundabout take 3rd exit onto the A45, follow this road until the
+    second roundabout, branch left then at Bedford Road roundabout take the 2nd exit onto the A5095.
+    Follow the A5095 until you cross the river then the Old Scouts Rugby Club car parks are directly on
+    the right and left.
+    <br/>
+    <br/>
+    <b>From East</b>
+    <br/>On A14 take junction 13 to the A45, stay on A45 signposted to Northampton. When Approaching
+    Northampton the A45 will merge into three lanes, stay on the inside lane and take the exit sign posted
+    Town Centre, at the Bedford Road roundabout take 4th exit onto the A4509. Follow the A5095 until you
+    cross the river then the Old Scouts Rugby Club car parks are directly on the right and left.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="East2">
+    <name short="Northampton" minimal="N'ton">Northampton Town</name>
+   </team>
+   <contact team="Northampton Town">
+    <role>Captain</role>
+    <name>Valts Grinbergs</name>
+    <email>valts.grinbergs@gmail.com</email>
+    <tel>07917 823063</tel>
+   </contact>
+  </section>
+ </club>
+  <club id="nottingham-uni" modified="2008-06-21">
+  <name long="Nottingham University">Nottingham Uni</name>
+  <website>http://www.students-union.nottingham.ac.uk/activities/activities_clubs_info.php?id=36</website>
+  <ground lat="52.939664" long="-1.205825">
+   <address>
+    <street>University of Nottingham Sports Centre</street>
+    <street>University Park</street>
+    <locality>Nottingham</locality>
+    <postcode>NG7 2RD</postcode>
+   </address>
+   <directions>
+    <b>From North/South</b>
+    <br/>From M1 Jct 25 take the A52 to Nottingham. After about 4 miles turn right at The Priory roundabout
+    onto the B6464, then left at next roundabout to enter the University's West Entrance. Follow the road
+    round to the left, and continue on this road until you see the sign post for the Sports Centre, which is
+    on the left.
+    <br/>
+    <br/><b>From the West</b>
+    <br/>Take the A50 to join the M1 and follow directions as above.
+    <br/>
+    <br/><b>From the East</b>
+    <br/>Take the A52 from Grantham follow the signs to Nottingham. Take the A52 ringroad, follow signs to Derby,
+    Queens Medical Centre, University of Nottingham. Over the flyover passing the Showcase Cinema complex,
+    keep in the left hand lane, turning left at the roundabout along University Boulevard. For the Sports
+    Centre continue to the island turn right and right at the next island to enter campus via the West
+    Entrance.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team>
+    <name short="Nottingham">Nottingham Uni</name>
+   </team>
+   <contact>
+    <role>President</role>
+    <name>Luke Wheelhouse</name>
+    <email>luke_wheelhouse@hotmail.com</email>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Liam McGreary</name>
+    <tel>07985 569480</tel>
+   </contact>
+   <contact>
+    <role>General Contact</role>
+    <email>nottinghamunilacrosse@hotmail.com</email>
+   </contact>
+  </section>
+ </club>
+ <club id="norwich" modified="2013-03-05" founded="2011">
+  <name long="Norwich">Norwich</name>
+  <website>http://www.eteamz.com/norwichlacrosseclub/</website>
+  <ground lat="52.61324" long="1.29331">
+   <address>
+    <street>Hewitt School</street>
+    <street>Cecil Rd</street>
+    <locality>Norwich</locality>
+    <region>Norfolk</region>
+    <postcode>NR1 2PL</postcode>
+   </address>
+   <directions>
+    The best entrance to park is off Hall Road, not Cecil Road.
+    <br/>
+    <b>From the West</b> From the A14 exit at Jct 38 onto the A11 for Norwich. As you approach Norwich continue across the A47, 2
+    1/2 miles after that turn right onto the A140. Go straight at the traffic lights then at the next roundabout
+    turn left and the school entrance will be on your left.
+    <br/>
+    <b>From the South-West</b> Exit the M11 at Jct 9 onto the A11. After a while this merges with the A14. Follow directions as from the
+    West.
+    <br/>
+    <b>From the South</b> Take the A140 and follow signs to Norwich. Go straight ahead at the
+    Harford Park and Ride roundabout, following the A140/Ipswich Road and go through 5 sets of traffic lights, and at the 6th set
+    turn right onto the A146 Lakenham Rd. At the roundabout turn left and the school entrance is on your left.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="East2">
+    <name>Norwich</name>
+   </team>
+   <kit>Green/yellow</kit>
+   <contact>
+    <role>Captain</role>
+    <name>Michael Person</name>
+    <email>mrmperson@gmail.com</email>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Nicholas Spacey</name>
+    <email>nick.spacey@yahoo.co.uk</email>
+    <tel>07880 340928</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="penarth" modified="2009-07-06" founded="1982">
+  <name>Penarth</name>
+  <website>http://www.penarthlacrosse.com/</website>
+  <ground lat="51.427413" long="-3.182897">
+   <address>
+    <street>Penarth Athletic Ground</street>
+    <street>Lavernock Road</street>
+    <locality>Penarth</locality>
+    <postcode>CF64 3NZ</postcode>
+   </address>
+   <directions>
+    From M4 take Jct 33 onto the A4232 (Barry and Penarth). Leave at the third exit, and take the A4055
+    (Barry and Penarth). Go across large roundabout, through next traffic lights, and bear left at the traffic
+    lights onto B4267 (Sully Rd). Go through 2 sets of traffic lights, and just ahead you'll see the houses on
+    the left set back from the road with the Post Box on the entrance to the lane into the ground.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey/>
+   <team division="West1">
+    <name>Penarth</name>
+   </team>
+   <contact>
+    <role>Contact</role>
+    <name>Dave Porter</name>
+    <email>davross98@yahoo.com</email>
+    <tel>07882 098052</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Ceri Hill</name>
+    <email>cez100@msn.com</email>
+    <tel>07976 826073</tel>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Michael Vodden</name>
+    <email>mvodden@yahoo.com</email>
+   </contact>
+  </section>
+ </club>
+ <club id="plymouth-uni" modified="2020-09-25" founded="2012">
+  <name long="Plymouth University">Plymouth Uni</name>
+  <website>https://www.upsu.com/sports/clubs/6617/</website>
+  <ground lat="50.386272" long="-4.153840">
+   <address>
+    <street>Plymouth Life Centre</street>
+    <street>40 Mayflower Drive</street>
+    <locality>Plymouth</locality>
+    <postcode>PL2 3DG</postcode>
+   </address>
+   <directions>
+    <p><b>From the east</b> head towards Plymouth on the M5, and then
+    the A38. As you approach Plymouth take the exit for the A386 towards City Centre,
+    Torpoint. At the roundabout take the second exit towards Plymouth Argyle FC.
+    After 1.2 miles take a left into Plymouth Life Centre car park.</p>
+    <p>The pitch is located south of the Life Centre past the circular fountain on the left.</p>
+   </directions>
+  </ground>
+  <colours>Navy</colours>
+  <contact>
+    <role>General Contact</role>
+    <email>uniplymouthlacrosse@gmail.com</email>
+   </contact>
+  <section type="mens">
+   <team division="West,L-Pen">
+    <name minimal="Ply U">Plymouth Uni</name>
+    <contact>
+     <role>Captain</role>
+      <name>Nick Worthy</name>
+      <email>nicholasworthy14@gmail.com</email>
+      <tel>07547 585053</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="portsmouth-uni" modified="2013-09-27" founded="1994">
+  <name long="Portsmouth University">Portsmouth Uni</name>
+  <website>http://www.portslacrosse.com/</website>
+  <ground lat="50.796940" long="-1.041704">
+   <address>
+    <street>Langstone Campus</street>
+    <street>Furze Lane</street>
+    <street>off Locksway Road</street>
+    <locality>Portsmouth</locality>
+    <postcode>PO4 8LW</postcode>
+   </address>
+   <directions>
+    Take the A2030 Eastern Road into Portsmouth (signed 'Portsmouth East') whether approaching from the east
+    (A3(M)/A27) or the west (M27). NB if approaching from M27 ignore junction signed to M275.
+    <br/>
+    <br/>Continue along the A2030 through several sets of traffic lights to the junction by Liningtons Renault
+    Garage. Turn left along Milton Road keeping in the left lane. After the zebra crossing take the fourth
+    road left into Locksway Road just before the next set of traffic lights. Continue along Locksway Road and
+    turn left into Furze Lane.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey/>
+   <team division="West2">
+    <name short="Portsmouth" minimal="Ports">Portsmouth Uni</name>
+   </team>
+   <contact>
+    <role>President</role>
+    <name>Sam Harris</name>
+    <email>hrm00233@myport.ac.uk</email>
+    <tel>07588 654886</tel>
+   </contact>
+   <contact>
+    <role>Club Captain</role>
+    <name>Ben Perry</name>
+    <email>cam01248@myport.ac.uk</email>
+    <tel>07868 700846</tel>
+   </contact>
+   <contact team="Portsmouth Uni">
+    <role>1st Team Captain</role>
+    <name>Tom Behiry</name>
+    <email>up625060@myport.ac.uk</email>
+    <tel>07896 676580</tel>
+   </contact>
+   !- 
+   <contact team="Portsmouth Uni 2">
+    <role>2nd Team Captain</role>
+    <name>Johnathan Loudan-Nicholas </name>
+    <email>up618022@myport.ac.uk</email>
+    <tel>07757 757512</tel>
+   </contact>
+   -
+  </section>
+ </club>
+ <club id="raf-marham" modified="2011-06-25" founded="2009">
+  <name>RAF Marham</name>
+  <website>http://www.raf.mod.uk/rafmarham/</website>
+  <ground lat="52.657444" long="0.545592">
+   <address>
+    <street>RAF Marham</street>
+    <locality>King's Lynn</locality>
+    <region>Norfolk</region>
+    <postcode>PE33 9NP</postcode>
+   </address>
+   <tel>01760 337261</tel>
+   <note>
+    <b>IMPORTANT</b>
+   <br/>
+   <br/>Send a list of the players' and visitors' names and their car registrations to the Secretary about <b>a week
+    in advance to get clearance.</b>
+   <br/>
+   <br/>All visitors must bring either a <b>passport or photo id</b>, and are
+   required to go to the main guardroom and ask for them to contact the lacrosse team.
+   </note>
+   <directions>
+    <b>From the A10</b> head East on the A1122 at Downham Market,
+     and from there RAF Marham is signposted. Follow the signs for the guardroom,
+     and ask for them to contact the lacrosse team.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="East3">
+    <name minimal="RAF">RAF Marham</name>
+   </team>
+   <kit>White</kit>
+   <contact>
+    <role>Captain &amp; Secretary</role>
+    <name>James Hodgson (Hodge)</name>
+    <email>jameshodgson105@yahoo.com</email>
+    <tel>07515 653520</tel>
+   </contact>
+  </section>
+ </club>
+ <!--
+ Reading ground 
+    <ground lat="51.464858" long="-1.012078">
+   <address>
+    <street>Prudential Ibis Sports Club</street>
+    <street>Scours Lane</street>
+    <street>Tilehurst</street>
+    <locality>Reading</locality>
+    <postcode>RG30 6AY</postcode>
+   </address>
+   <tel>0118 942 4130</tel>
+   <directions>
+    <b>From M4</b>
+    <br/>Exit at Jct 12, and take the A4 towards Reading - Proceed straight over the first two roundabouts -
+    At the traffic lights, turn left towards Tilehurst, up Langley Hill crossing all the roundabouts - Turn Right at the first
+    set of traffic lights into Norcot Road - On reaching the bottom of the hill, take the first exit at the roundabout
+    left towards Oxford and Pangbourne (A329) - Turn immediately right into Scours Lane - Go under the Railway Bridge
+    and turn right - Go between the 2 pillars and up the drive which leads you to the Prudential Ibis Club.
+    <br/>
+    <br/>
+    <b>From Reading</b>
+    <br/>Head West out of Reading centre on the A329 Oxford Road towards Pangbourne - Eventually you'll hit a
+    roundabout with a Pizza Hut on it - Go straight on at this roundabout (still towards Pangbourne) - Turn immediately
+    right into Scours Lane - Go under the Railway Bridge and turn right
+    <br/>
+    <br/>
+    <b>From Oxford</b>
+    <br/>Proceed towards Reading on the A329. Pass a large Waitrose and just before the Tilehurst roundabout turn
+    left into Scours Lane, under the railway bridge and turn right.
+   </directions>
+  </ground>
+  -->
+ <club id="royal-holloway" modified="2017-10-01">
+  <name>Royal Holloway</name>
+  <website>https://www.facebook.com/rhullax</website>
+  <ground lat="51.423491" long="-0.559307">
+   <address>
+    <street>Royal Holloway Sports Centre</street>
+    <street>Prune Hill</street>
+    <locality>Egham</locality>
+    <region>Surrey</region>
+    <postcode>TW20 0EX</postcode>
+   </address>
+   <directions>
+    <p>From M25 take J13 and head for Egham A30. Follow signs for Royal Holloway University of London
+    along the A30, passing the Ferrari garage and BP station going up Egham Hill. Ignore the
+    main entrance for the University, and continue to a set of lights. At the lights turn left into
+    Bakeham Lane (University should now be on the left hand side). After about 300 meters the road will fork.
+    Turn left here into Prune Hill, and follow this small road until just at the bottom there is a left turn into
+    the Sports Centre.</p>
+    <p><b>By public transport</b> take the train to Egham Station, which is linked to
+    <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/WAT/EGH/saturday/1250/arr">London Waterloo</a> and
+    <a rel="nofollow" href="http://ojp.nationalrail.co.uk/service/timesandfares/RDG/EGH/saturday/1250/arr">Reading</a>. 
+    The campus is a 0.7 mile flat walk, or there is a taxi rank at the station. It is also possible to get a bus
+    to the campus, however that bus stop is about a half mile walk away from the Sports Centre.</p>
+    <p>Exit Egham Station onto Station Rd, by the level crossing. On the opposite side of Station Rd you'll
+    see Rusham Rd immediately to the right of the train tracks. Follow this road, and take the 3rd right into
+    Osborne Rd, at the end turn left into Clarence St, next right into Ripley Ave, and immediately left into
+    Lynwood Ave. At the end follow the long drive to the right of the house, bearing left to follow the path
+    into the rear entrance of the campus, and take the left fork down to the Sports Centre car park.</p>
+   </directions>
+  </ground>
+  <colours>Dark green with purple and white accents</colours>
+  <contact>
+   <role>President</role>
+    <name>Nicole Brown</name>
+    <email>nbrown2722@gmail.com</email>
+  </contact>
+  <section type="mens">
+   <team division="East3">
+    <name small="RHUL" minimal="RHU">Royal Holloway</name>
+    <contact>
+     <role>Captain</role>
+     <name>Will MacGillivray</name>
+     <email>will.macgill@gmail.com</email>
+     <tel>07754 318101</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="rmas" modified="2011-09-12">
+  <name long="Royal Military Academy, Sandhurst">RMAS</name>
+  <website>http://www.sandhurst.mod.uk/</website>
+  <ground lat="51.339858" long="-0.749990">
+   <address>
+    <street>The Royal Military Academy Sandhurst</street>
+    <locality>Camberley</locality>
+    <region>Surrey</region>
+    <postcode>GU15 4PQ</postcode>
+   </address>
+   <directions>
+    From M4: Jct 10 to A329M to Basingstoke, Follow A322 through Basingstoke to Bagshot and pick up the A30 to
+    Camberley. At Camberley come to a set of traffic lights with 'The Staff' public house on the left. RMAS is
+    on the right immediately after the lights.
+    <br/>
+    <br/>From M3: Jct 4 to A3095 Camberley. At roundabout follow A30 Camberley (London Road). This takes you along
+    the southern boundary of RMAS. The entrance is about 1.5 miles along, immediately before the war memorial
+    but it is set back and not easy to spot. (If you reach a set of traffic lights with 'The Staff' pub on
+    your right, you have gone too far. Do not attempt to back track through the town centre, you will get
+    snarled up in the One Way system. Go on to the next lights and turn right at 'The Cambridge' pub. There
+    are plenty of places to turn down this road.)
+    <br/>
+    <br/><b>Security</b> All civilian visitors must be cleared into RMAS and details (Name and vehicle registrations) must be
+    provided at least 48 hours prior to matches either by Fax to 01276 412249 (For the attention of Major A M
+    Hart) or by e-mail to <email>leadership@rmas.mod.uk</email>. Passes and detailed RV directions will be available at the gate on entry.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey />
+   <team>
+    <name>RMAS</name>
+   </team>
+   <contact>
+    <role>Contact 1</role>
+    <name>Captain Mark Colbourne</name>
+    <email>sinstr37@rmas.mod.uk</email>
+   </contact>
+   <contact>
+    <role>Contact 2</role>
+    <name>Captain Sam Cooke</name>
+    <email>sinstr51@rmas.mod.uk</email>
+   </contact>
+  </section>
+ </club>
+ <club id="royal-navy-yeovil" modified="2007-01-01">
+  <name long="Royal Navy, Yeovil">Royal Navy</name>
+  <ground lat="51.0124" long="-2.6469">
+   <address>
+    <street>RNAS Yeovilton</street>
+    <locality>Ilchester</locality>
+    <region>Somerset</region>
+    <postcode>BA22 8HT</postcode>
+   </address>
+   <directions>
+    Opposite the Fleet Air Arm Museum (which is well signed) on the B3151, just off the A303 and A37. It is
+    accessible from the M5 Jct 25 at Taunton.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team>
+    <name short="Royal Navy">Royal Navy, Yeovil</name>
+   </team>
+   <contact>
+    <role>Chairman</role>
+    <name>Daniel Weil</name>
+    <email>daniel@bathexiles.com</email>
+    <tel>07739 107586</tel>
+   </contact>
+   <contact>
+    <role>Captain</role>
+    <name>Graham Teal</name>
+    <email>g7eal@tiscali.co.uk</email>
+    <tel>07843 580187</tel>
+   </contact>
+  </section>
+ </club>
+ <club id="southampton" modified="2018-09-21" founded="1983">
+  <name>Southampton</name>
+  <ground lat="50.951555" long="-1.363813">
+   <address>
+    <street>Wide Lane Sports Grounds</street>
+    <street>Wide Lane</street>
+    <locality>Eastleigh</locality>
+    <region>Hampshire</region>
+    <postcode>SO50 5PE</postcode>
+   </address>
+   <pitch type="3G"/>
+   <directions>
+    <p>From M27 Jct 5 take the A335 towards Eastleigh (signposted Airport). At the roundabout take
+    the first left into Wide Lane. The University Sports Grounds can be found on the left 180
+    metres from the roundabout, 50 metres past the entrance to the Parkway Railway Station
+    and just beyond the pelican crossing.</p>
+   </directions>
+  </ground>
+  <colours>Orange with black trim</colours>
+    <contact>
+      <role>President</role>
+      <name>Arch Menzies</name>
+      <email>am3g15@soton.ac.uk</email>
+      <tel>07816 311284</tel>
+    </contact>
+    <contact>
+      <role>Vice President</role>
+      <name>John Mulcahy</name>
+      <email>jm1n15@soton.ac.uk</email>
+      <tel>07743 997163</tel>
+    </contact>
+  <contact>
+   <role>General Enquiries</role>
+   <email>southamptonlacrosse@gmail.com</email>
+  </contact>
+  <section type="mens">
+   <team division="W-N,L-SC">
+    <name minimal="Stn">Southampton</name>
+    <contact>
+     <role>1st Team Captain</role>
+      <name>Dan Hanson</name>
+      <email>danjhanson@hotmail.co.uk</email>
+      <tel>07873 638168</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="southampton-city" modified="2013-01-02" founded="2008">
+  <name>Southampton City</name>
+  <website>http://www.southamptonlacrosse.com/</website>
+  <ground lat="50.951555" long="-1.363813">
+   <address>
+    <street>Wide Lane Sports Grounds</street>
+    <street>Wide Lane</street>
+    <locality>Eastleigh</locality>
+    <region>Hampshire</region>
+    <postcode>SO50 5PE</postcode>
+   </address>
+   <note>Please bring moulded cleats as screw-ins are not allowed.
+    <br/>
+    <br/>Games are played on the rubber crumb pitch. This synthetic surface, unlike Astroturf allows the use of
+    moulded studs. In practice, trainers are perfectly acceptable for play (untested on wet surface) so hopefully
+    this will not cause anyone undue distress.
+    <br/>
+    <br/>
+    <b>Allowed:</b> Football boots with moulded studs or moulded 'blades', Lacrosse cleats, Astroturf boots, trainers
+    <br/>
+    <b>Not allowed:</b> Long screw in studs, rugby boots
+   </note>
+   <directions>
+    From M27 Jct 5 take the A335 towards Eastleigh (signposted Airport). At the roundabout take
+    the first left into Wide Lane. The University Sports Grounds can be found on the left 180
+    metres from the roundabout, 50 metres past the entrance to the Parkway Railway Station
+    and just beyond the pelican crossing.
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="West1">
+    <name short="Southampton" minimal="Soton">Southampton City</name>
+   </team>
+   <kit>Black with orange trim</kit>
+    <contact>
+    <role>Captain</role>
+    <name>Ben McMylor</name>
+    <email>benmcmylor@gmail.com</email>
+   </contact>
+   <contact>
+    <role>General Contact</role>
+    <name>Club email</name>
+    <email>sotoncitylacrosse@gmail.com</email>
+   </contact>
+   <contact>
+    <role>Secretary</role>
+    <name>Mathew Leslie</name>
+    <email>mat.leslie@gmail.com</email>
+    <tel>07841 533752</tel>
+   </contact>
+  </section>
+ </club>
+ <!--
+ Spencer ground 2 
+    <ground lat="51.448020" long="-0.194240">
+   <address>
+    <street>King George's Park</street>
+    <street>Burr Road</street>
+    <locality>Earlsfield</locality>
+    <region>London</region>
+    <postcode>SW18 4LY</postcode>
+   </address>
+   <note>Car parking is available at this venue. Changing facilities are available but are primative. We'll go back to the Spencer Club, 5 mins drive away, for post-game food/drinks.</note>
+   <directions>
+    The ground is under 10 minutes walk from Earlsfield Station (see above for more details) or Southfields tube (District Line).
+    <br/>From Earlsfield: Right out of the station into Garrett Lane. After about 1/3 mile turn left into Lydden Rd. At the end of the
+    road continue straight across the footbridge over the Wandle River, and the changing rooms are directly in front of you.
+    <br/>From Southfields: Left out of the station and cross road into Pirbright Road, follow to end and cross into Burr Road.
+    <br/>
+    <br/>If driving Burr Road can be accessed either directly from the A218 Merton Road, or from the A217 Garratt Lane via Kimber Rd and left into Burr Rd.
+   </directions>
+  </ground>
+  -->
+ <club id="staffordshire" modified="2008-03-27">
+  <name long="Staffordshire University">Staffordshire Uni</name>
+  <ground lat="53.008337" long="-2.175788">
+   <address>
+    <street>Staffordshire University</street>
+    <street>Leek Road Campus</street>
+    <locality>Stoke-On-Trent</locality>
+    <postcode>ST4 2DF</postcode>
+   </address>
+   <directions>
+    <b>From M6</b>
+    <br/>Leave the M6 at Jct 15 and go straight across the roundabout (signposted Stoke-on-Trent)
+    - Follow the dual carriageway, the A500 and at the first roundabout take the third exit (signposted
+    Fenton/Longton) - Continue under the railway bridge, then take a sharp left at the smaller roundabout
+    - Follow this road to the first set of traffic lights, keeping in the right hand lane for Leek Road
+    - Take the right hand lane to continue straight on through the traffic lights
+    - Travel over a pedestrian crossing until you reach the next set of traffic lights
+    - Turn right onto the campus and then left just past the Security Lodge to park your car.
+    <br/>
+    <br/><b>From Derby/M1 - A50</b>
+    <br/>Travel along the A50 towards Stoke-on-Trent - Just past the Britannia Stadium (on your left)
+    you will to to a large roundabout - Turn right, go down the slip road and join the A500
+    - Follow directions from M6 above
+    <br/>
+    <br /><b>By Train</b>
+    <br/>The University is just over 500 yds from Stoke-on-Trent train station - turn right into Station Road, then
+    left at the traffic lights into Leek Road, and the University is on your right.
+    <br/>
+    <br/>Directions for Leek Road Campus are also at: <a rel="nofollow" href="http://www.staffs.ac.uk/maps/stoke_directions/index.php"/>
+   </directions>
+  </ground>
+  <section type="mens">
+   <team division="Mids">
+    <name short="Staffordshire">Staffordshire Uni</name>
+   </team>
+   <contact>
+    <role>Captain</role>
+    <name>Jamie Armstrong</name>
+    <email>jammy_arm@hotmail.com</email>
+    <tel>07765 771430</tel>
+   </contact>
+   <contact>
+    <role>Vice-Captain</role>
+    <name>Stuart Bausor</name>
+    <email>stuartbausor_123@hotmail.com</email>
+   </contact>
+  </section>
+ </club>
+<club id="sussex" modified="2016-07-28" founded="2016">
+  <name long="University of Sussex">Sussex Uni</name>
+  <website>http://sussexlacrosse.com/</website>
+  <ground lat="50.862691" long="-0.091586">
+   <address>
+    <street>Stanmer Park Pavilion</street>
+    <street>Falmer</street>
+    <locality>Brighton</locality>
+    <postcode>BN1 9RB</postcode>
+   </address>
+   <note>Sussex have withdrawn for the league after the fixtures were finalised.
+   All games will be void.</note>
+   <directions>
+    <p><b>From London</b> take the A23 towards Brighton. As you approach Brighton take the left-hand lane
+    signposted Newhaven, Lewes (A27) and follow directions towards the University of Sussex.
+    Turn off at Falmer (B2123), and turn left at the roundabout into Knights Gate Road. Turn
+    left onto the Southern Ring Road, and by the Medical School turn left again to stay on the
+    Southern Ring Road, which turns into Sportcentre Road. Follow this road out of the university, and
+    turn right into Stanmer Park. The car park is the first right.</p>
+    <p><b>By Train</b> From <a href="http://www.nationalrail.co.uk/stations/FMR/details.html">Falmer station</a>, follow signs for the Univeristy of Sussex.
+    When you reach the pedestration crossing follow the road to the left, and after 2 minutes
+    walk the pitch is on the right.</p>
+   </directions>
+  </ground>
+  <colours>Blue/Red</colours>
+  <contact>
+   <role>Chair</role>
+   <name>Miles Singleton</name>
+   <email>milesrhsingleton@gmail.com</email>
+   <tel>07946 597937</tel>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+   <name>Calum Hewlett</name>
+   <email>calumhewlett@live.co.uk</email>
+   <tel>07795 425997</tel>
+  </contact>
+  <section type="mens">
+   <team division="East3">
+    <name short="Sussex" minimal="Sus">Sussex Uni</name>
+    <contact>
+     <role>Captain</role>
+     <name>Miles Singleton</name>
+     <email>milesrhsingleton@gmail.com</email>
+     <tel>07946 597937</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+  <club id="swansea" modified="2016-10-11">
+  <name>Swansea Hawks</name>
+  <ground lat="51.626282" long="-3.966083">
+   <address>
+    <street>The Phoenix</street>
+    <street>Paradise Park</street>
+    <street>Powys Avenue</street>
+    <locality>Townhill</locality>
+    <region>Swansea</region>
+    <postcode>SA1 6PJ</postcode>
+   </address>
+   <pitch type="Sand-Astro"/>
+   <note>Swansea have withdrawn for the league after the fixtures were finalised.
+   All games will be void.</note>
+   <directions>
+    <p>From M4 Jct 42, exit onto A483 towards Swansea - Go through 1 roundabout 4.6 mi - Continue on A4067/Quay
+    Parade 0.3 mi - Turn right at B4489/Wind St Continue to follow B4489 0.3 mi - Turn left at College St 233
+    ft - At the roundabout, take the 2nd exit onto Belle Vue Way 0.1 mi - Turn left at A4118/Grove Pl 243 ft -
+    Turn right at Grove Pl 36 ft - Continue on Mt Pleasant 0.3 mi - Mt Pleasant turns slightly left and
+    becomes Terrace Rd 0.2 mi - Continue on Penygraig Rd 0.3 mi - Turn left at Dyfed Ave 0.3 mi - At the
+    roundabout, take the 4th exit into the Phoenix Centre.</p>
+    <p><b>Avoiding central Swansea</b>
+    <br/>From M4 Jct 42, exit onto A483 towards Swansea - Follow the dual carriageway for 4.5 miles - As you approach
+    Swansea you will cross a bridge - Continue straight on to the A4067 signed City Centre West and Gower
+    - after 2 miles you will pass the University on your right hand side - take the next right onto the A4216
+    towards Carmarthen - keep following this road for 1.5 miles until you reach two adjacent mini roundabouts - At the first
+    mini roundabout turn left signposted Llanelli (A4216), and at the second take the second
+    exit into Townhill Rd - Continue up the hill, and at the next roundabout take the 3rd exit into Powys Ave -
+    at the next roundabout take the 1st exit into the Phoenix Centre.</p>
+   </directions>
+  </ground>
+  <colours>White</colours>
+  <contact>
+   <role>Chairman</role>
+   <name>Aaron Marensi</name>
+   <email>acm_marenske@hotmail.co.uk</email>
+   <tel>07708 747532</tel>
+  </contact>
+  <contact>
+   <role>Secretary</role>
+   <name>Tom Cox</name>
+   <email>dobbither2@hotmail.com</email>
+   <tel>07825 167398</tel>
+  </contact>
+  <section type="mens">
+   <team division="West">
+    <name small="Swansea" minimal="Swa">Swansea Hawks</name>
+    <contact>
+     <role>Captain</role>
+     <name>Ben Piper</name>
+     <email>b.piper91@hotmail.com</email>
+     <tel>07952 926097</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="uea" modified="2018-12-05" founded="2005">
+  <name long="University of East Anglia">UEA</name>
+  <ground lat="52.621591" long="1.224138">
+   <address>
+    <street>Colney Lane Playing Fields</street>
+    <street>University of East Anglia</street>
+    <street>Colney Lane</street>
+    <locality>Norwich</locality>
+    <region>Norfolk</region>
+    <postcode>NR4 7UE</postcode>
+   </address>
+  <directions>
+  <p>From London take the M11/A11; just outside Norwich take the A47 (Southern Bypass)
+    in the direction of Swafham; the University is signposted off at
+    the next exit. If you are driving from the North or the Midlands, you can
+    use the A47 via King's Lynn. Turn off and take the B1108 heading towards
+    Norwich - then turn right on Colney Lane towards the Norfolk and Norwich University Hospital.</p>
+    <p>The pitches are on the left after about &frac14; mile.</p>
+   </directions>
+  </ground>
+    <contact>
+      <role>Chair</role>
+      <name>Charlie Albuery</name>
+      <email>charliealbuery7@gmail.com</email>
+      <tel>07999 326078</tel>
+    </contact>
+    <contact>
+      <role>Secretary</role>
+      <name>Sebastian Antoni Grant</name>
+      <email>sebastian.grant@hotmail.co.uk</email>
+      <tel>07718 279708</tel>
+    </contact>
+  <section type="mens">
+   <team division="L-EA2">
+    <name>UEA</name>
+    <contact>
+      <role>Captain</role>
+      <name>Ethan Brickwood</name>
+      <email>ebrickwood.01@gmail.com</email>
+      <tel>07412 790979</tel>
+    </contact>
+   </team>
+  </section>
+ </club>
+ <club id="uwic" modified="2009-10-01" founded="2002">
+  <name long="University of Wales Institute, Cardiff">UWIC</name>
+  <website>http://www.uwicsu.co.uk/au/content/index.php?page=23036</website>
+  <ground lat="51.509886" long="-3.164095">
+   <address>
+    <street>Cyncoed Campus</street>
+    <street>Cyncoed Road</street>
+    <region>Cardiff</region>
+    <postcode>CF23 6XD</postcode>
+   </address>
+   <directions>
+    Match ground is on the infield of the running track.
+    <br/>
+    <br/><b>From the East:</b> Take Jct 29 off the M4 and travel westward on the A48(M) for approx. 3 miles.Turn off at the
+    Llanederyn junction and take the 3rd exit off the roundabout.At the next roundabout take the first turning
+    on your left up Llanederyn Road, follow this road to the traffic light junction where you join the right
+    hand lane.Turn right onto Cyncoed Road; travel for approx. half a mile and UWIC will be on your right-hand
+    side.
+    <br/>
+    <br/><b>From the West:</b> Take Jct 32 off the M4 and join the A470 towards the city centre. Continue along this road until you
+    reach the Gabalfa roundabout. Stay in the left hand lane and take the first left onto the A48(M)
+    eastward. Turn off at the Llanederyn junction and take the first left at the roundabout. Follow above
+    directions 'from the east' from point 3.
+    <br/>
+    <br/><b>From North Wales:</b> Follow the A470 towards the city centre. Follow the above directions 'from the west' from point 2.
+   </directions>
+  </ground>
+  <section type="mens">
+   <jersey away="true" />
+   <team division="West2">
+    <name>UWIC</name>
+   </team>
+   <contact>
+    <role>Captain</role>
+    <name>Patrick Peacock</name>
+    <email>paddylacrosse@hotmail.co.uk</email>
+    <tel>07825 076391</tel>
+   </contact>
+   <contact>
+    <role>Vice-Captain</role>
+    <name>Michael Edmondson</name>
+    <email>mike.c.edmondson@hotmail.co.uk</email>
+    <tel>07531 268739</tel>
+   </contact>
+  </section>
+ </club>
+  <!--
+  Welwyn ground 
+  <ground lat="51.827288" long="-0.216683">
+   <address>
+    <street>Playing Fields</street>
+    <street>Ottway Walk</street>
+    <locality>Welwyn</locality>
+    <region>Hertfordshire</region>
+    <postcode>AL6 9AT</postcode>
+   </address>
+   <note>Possibly used for some men's games.</note>
+   <directions>
+    <b>From A1(M) South</b>
+    <br/>Leave the A1(M) at Jct 6 (A1000/ Welwyn). Turn left at the slip road roundabout signposted towards
+    Stanborough. In about 200 yards turn right into London Road just past the BP garage. Ottway Walk is on
+    your left in about 400 yards, opposite The Steamer public house and just before the hill down into the
+    village.
+    <br/>
+    <br/>
+    <b>From A1(M) North</b>
+    <br/>Leave the A1(M) at Jct 6 (A1000/ Welwyn) then turn right at the slip road roundabout and go back
+    under the A1(M). Almost immediately filter left, (just under the second bridge), into Welwyn village.
+    Follow the road around the left hand bend to a T-junction. Turn left up the hill and Ottway Walk will be
+    on your right at the top of the hill.
+   </directions>
+  </ground>
+  <ground lat="51.826338" long="-0.205677">
+   <address>
+    <street>Sherrardswood School</street>
+    <street>Lockleys</street>
+    <locality>Welwyn Garden City</locality>
+    <region>Hertfordshire</region>
+    <postcode>AL6 0BJ</postcode>
+   </address>
+   <directions>
+    When you get to the school there is a car park on the right, just before the school buildings.
+    The changing rooms are in the building on the left, and are accessed from opposite side
+    to the main entrance. The pitches are up the hill on the grass from the car park.
+    <br/><b>From the South</b> Exit A1(M) Jct 6, and at roundabout take the 2nd exit onto
+    the A1000 to Welwyn Garden City. At the next roundabout take the 3rd exit to continue on
+    the A1000. Go under the A1(M), and through the next roundabout, and after 300 yds turn left
+    into Sherrardswood School.
+    <br/><b>From the North</b> Exit A1(M) Jct 6, and at roundabout take the 1st exit
+    for A1000 heading to Welwyn Garden City. After 300 yds turn left into Sherrardswood School.
+   </directions>
+  </ground>
+   -->
+</clubs>

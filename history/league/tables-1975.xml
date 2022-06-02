@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="1975">
+<division><division-name>Division 1</division-name>
+<team><team-name>Lee</team-name><won>15</won><drawn>3</drawn><lost>0</lost><points>33</points><for>205</for><against>49</against></team>
+<team><team-name>Hampstead</team-name><won>14</won><drawn>3</drawn><lost>1</lost><points>31</points><for>219</for><against>76</against></team>
+<team><team-name>Oxford Uni</team-name><won>8</won><drawn>4</drawn><lost>0</lost><points>20</points><for>99</for><against>40</against></team>
+<team><team-name>Cambridge Uni</team-name><won>10</won><drawn>0</drawn><lost>8</lost><points>20</points><for>103</for><against>93</against></team>
+<team><team-name>Purley</team-name><won>9</won><drawn>0</drawn><lost>6</lost><points>18</points><for>187</for><against>112</against></team>
+<team><team-name>Buckhurst Hill</team-name><won>6</won><drawn>2</drawn><lost>7</lost><points>14</points><for>98</for><against>127</against></team>
+<team><team-name>London Uni</team-name><won>5</won><drawn>2</drawn><lost>11</lost><points>12</points><for>125</for><against>181</against></team>
+<team><team-name>Kenton</team-name><won>4</won><drawn>0</drawn><lost>11</lost><points>8</points><for>62</for><against>131</against></team>
+<team><team-name>St Helier</team-name><won>2</won><drawn>0</drawn><lost>15</lost><points>4</points><for>76</for><against>230</against></team>
+<team><team-name>Old Sedcopians</team-name><won>2</won><drawn>0</drawn><lost>16</lost><points>4</points><for>93</for><against>228</against></team>
+<remarks>Note: St Helier defeated Old Sedcopians 18-6 in play off for bottom place in Division 1</remarks>
+</division>
+<division><division-name>Division 2</division-name>
+<team><team-name>Hampstead Hurons</team-name><won>17</won><drawn>0</drawn><lost>2</lost><points>34</points><for>173</for><against>56</against></team>
+<team><team-name>Croydon</team-name><won>16</won><drawn>0</drawn><lost>2</lost><points>32</points><for>219</for><against>87</against></team>
+<team><team-name>Beckenham</team-name><won>10</won><drawn>0</drawn><lost>5</lost><points>20</points><for>129</for><against>66</against></team>
+<team><team-name>Buckhurst Hill A</team-name><won>9</won><drawn>1</drawn><lost>7</lost><points>19</points><for>144</for><against>135</against></team>
+<team><team-name>Lee A</team-name><won>9</won><drawn>1</drawn><lost>9</lost><points>19</points><for>164</for><against>154</against></team>
+<team><team-name>Hillcroft</team-name><won>8</won><drawn>1</drawn><lost>8</lost><points>17</points><for>121</for><against>114</against></team>
+<team><team-name>Purley A</team-name><won>8</won><drawn>0</drawn><lost>7</lost><points>16</points><for>137</for><against>121</against></team>
+<team><team-name>Purley B</team-name><won>8</won><drawn>0</drawn><lost>10</lost><points>16</points><for>118</for><against>133</against></team>
+<team><team-name>St Helier A</team-name><won>4</won><drawn>1</drawn><lost>14</lost><points>9</points><for>45</for><against>165</against></team>
+<team><team-name>Kenton A</team-name><won>4</won><drawn>0</drawn><lost>12</lost><points>8</points><for>35</for><against>110</against></team>
+<team><team-name>Old Sedcopians A</team-name><won>0</won><drawn>0</drawn><lost>17</lost><points>0</points><for>47</for><against>191</against></team>
+</division>
+<division cols="pts-avg"><division-name>Division 3 (Autumn)</division-name>
+<team><team-name>Oxford Iroquois</team-name><played>10</played><points>20</points></team>
+<team><team-name>Cambridge Eagles</team-name><played>14</played><points>24</points></team>
+<team><team-name>Lee B</team-name><played>11</played><points>14</points></team>
+<team><team-name>Purley C</team-name><played>13</played><points>16</points></team>
+<team><team-name>Imperial College</team-name><played>12</played><points>10</points></team>
+<team><team-name>Buckhurst Hill B</team-name><played>13</played><points>8</points></team>
+<team><team-name>Hillcroft A</team-name><played>13</played><points>8</points></team>
+<team><team-name>Croydon A</team-name><played>14</played><points>0</points></team>
+</division>
+<division cols="pts-avg"><division-name>Division 3 (Spring)</division-name>
+<team><team-name>Oxford Iroquois</team-name><played>6</played><points>12</points></team>
+<team><team-name>Lee B</team-name><played>6</played><points>12</points></team>
+<team><team-name>Imperial College</team-name><played>7</played><points>10</points></team>
+<team><team-name>Hillcroft A</team-name><played>8</played><points>10</points></team>
+<team><team-name>Purley C</team-name><played>9</played><points>8</points></team>
+<team><team-name>Buckhurst Hill B</team-name><played>7</played><points>6</points></team>
+<team><team-name>Cambridge Eagles</team-name><played>6</played><points>2</points></team>
+<team><team-name>Beckenham A</team-name><played>11</played><points>0</points></team>
+</division>
+</league-tables>

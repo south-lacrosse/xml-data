@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="Six-a-Sides Winners">
+  <competitions>
+    <comp id="snr">Senior</comp>
+    <comp id="int">Intermediate</comp>
+    <comp id="mnr">Minor</comp>
+    <comp id="div4">Division 4</comp>
+  </competitions>
+  <season year="2019">
+    <winner compId="snr">Hillcroft</winner>
+    <winner compId="int">Hitchin</winner>
+    <winner compId="mnr">Alligators of the World</winner>
+  </season>
+  <season year="2018">
+    <winner compId="snr">Spencer</winner>
+    <winner compId="int">Some Centurions</winner>
+    <winner compId="mnr">Reading 1sts</winner>
+  </season>
+  <season year="2017">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Oxford Uni</winner>
+    <winner compId="mnr">Centurions</winner>
+  </season>
+  <season year="2016">
+    <winner compId="snr">Hitchin</winner>
+    <winner compId="int">Spencer</winner>
+    <winner compId="mnr">Oxford Uni</winner>
+  </season>
+  <season year="2015">
+    <winner compId="snr">Hitchin</winner>
+    <winner compId="int">Hillcroft B</winner>
+    <winner compId="mnr">Oxford Iroquois</winner>
+  </season>
+  <season year="2014">
+    <winner compId="snr">Reading Wildcats</winner>
+    <winner compId="int">Spencer 2</winner>
+    <winner compId="mnr">Oxford Uni</winner>
+  </season>
+  <season year="2013">
+    <winner compId="snr">East Grinstead</winner>
+    <winner compId="int">Maidstone</winner>
+    <winner compId="mnr">London Uni</winner>
+  </season>
+  <season year="2012">
+    <winner compId="int">Portsmouth Uni</winner>
+    <winner compId="mnr">Maidstone</winner>
+  </season>
+  <season year="2011">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Portsmouth Uni</winner>
+    <winner compId="mnr">Spencer 2</winner>
+  </season>
+  <season year="2010">
+    <winner compId="snr">Walcountian Blues</winner>
+    <winner compId="int">Portsmouth Uni</winner>
+    <winner compId="mnr">Portsmouth Uni 2</winner>
+  </season>
+  <season year="2009">
+    <winner compId="snr">Welwyn Warriors</winner>
+    <winner compId="int">East Grinstead A</winner>
+    <winner compId="mnr">Spencer 2</winner>
+  </season>
+  <season year="2008">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Welwyn Warriors</winner>
+    <winner compId="mnr">Brighton Panthers</winner>
+  </season>
+  <season year="2007">
+    <winner compId="snr">Walcountian Blues</winner>
+    <winner compId="int">Welwyn Warriors</winner>
+    <winner compId="mnr">Cardiff</winner>
+  </season>
+  <season year="2006">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Buckhurst Hill</winner>
+    <winner compId="mnr">Swansea</winner>
+  </season>
+  <season year="2005">
+    <winner compId="snr">Reading Wildcats</winner>
+    <winner compId="int">Croydon</winner>
+    <winner compId="mnr">Walcountian Blues 2</winner>
+  </season>
+  <season year="2004">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Buckhurst Hill</winner>
+    <winner compId="mnr">Welwyn Warriors</winner>
+  </season>
+  <season year="2003">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Buckhurst Hill</winner>
+    <winner compId="mnr">Wales U 19s</winner>
+  </season>
+  <season year="2002">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Reading Wildcats</winner>
+    <winner compId="mnr">Buckhurst Hill</winner>
+  </season>
+  <season year="2001">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Penarth</winner>
+    <winner compId="mnr">Buckhurst Hill</winner>
+  </season>
+  <season year="2000">
+    <winner compId="snr">Beckenham</winner>
+    <winner compId="int">Croydon</winner>
+    <winner compId="mnr">Penarth</winner>
+  </season>
+  <season year="1999">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hitchin</winner>
+    <winner compId="mnr">Bournemouth</winner>
+  </season>
+  <season year="1998">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Beckenham</winner>
+    <winner compId="mnr">Portsmouth</winner>
+  </season>
+  <season year="1997">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Tatsfield</winner>
+  </season>
+  <season year="1996">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Croydon</winner>
+    <winner compId="mnr">Purley A</winner>
+  </season>
+  <season year="1995">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Beckenham</winner>
+    <winner compId="mnr">Buckhurst Hill</winner>
+  </season>
+  <season year="1994">
+    <winner compId="snr">Croydon</winner>
+    <winner compId="int">Orpington</winner>
+    <winner compId="mnr">Hitchin</winner>
+  </season>
+  <season year="1993">
+    <winner compId="snr">Croydon</winner>
+    <winner compId="int">Orpington</winner>
+    <winner compId="mnr">Dunstable</winner>
+  </season>
+  <season year="1992">
+    <winner compId="snr">Hillcroft</winner>
+    <winner compId="int">Croydon</winner>
+    <winner compId="mnr">Hillcroft A</winner>
+  </season>
+  <season year="1991">
+    <winner compId="snr">London Uni</winner>
+    <winner compId="int">Buckhurst Hill</winner>
+    <winner compId="mnr">Tatsfield</winner>
+  </season>
+  <season year="1990">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hillcroft</winner>
+    <winner compId="mnr">Enfield</winner>
+  </season>
+  <season year="1989">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hitchin</winner>
+    <winner compId="mnr">Hillcroft A</winner>
+    <winner compId="div4">Beckenham A</winner>
+  </season>
+  <season year="1988">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hitchin</winner>
+    <winner compId="mnr">Bath A</winner>
+  </season>
+  <season year="1987">
+    <winner compId="snr">Kenton</winner>
+    <winner compId="int">Hitchin</winner>
+    <winner compId="mnr">Croydon A</winner>
+  </season>
+  <season year="1986">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Oxford Uni</winner>
+    <winner compId="mnr">Bath</winner>
+  </season>
+  <season year="1985">
+    <winner compId="snr">Kenton</winner>
+    <winner compId="int">Cambridge Uni</winner>
+    <winner compId="mnr">Purley A</winner>
+    <winner compId="div4">Southampton Uni</winner>
+  </season>
+  <season year="1984">
+    <winner compId="snr">Kenton</winner>
+    <winner compId="int">Calthorpe</winner>
+    <winner compId="mnr">Swanley</winner>
+    <winner compId="div4">Hillcroft B</winner>
+  </season>
+  <season year="1983">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Chipstead</winner>
+    <winner compId="mnr">Swanley</winner>
+    <winner compId="div4">Three Bridges</winner>
+  </season>
+  <season year="1982">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Beckenham</winner>
+    <winner compId="mnr">Hillcroft A</winner>
+    <winner compId="div4">Lee B</winner>
+  </season>
+  <season year="1981">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Bexleyheath</winner>
+    <winner compId="mnr">Hillcroft A</winner>
+    <winner compId="div4">Hillcroft B</winner>
+  </season>
+  <season year="1980">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hillcroft</winner>
+    <winner compId="mnr">Oxford Iroquois</winner>
+  </season>
+  <season year="1979">
+    <winner compId="snr">Buckhurst Hill</winner>
+    <winner compId="int">Hampstead A</winner>
+    <winner compId="mnr">Buckhurst Hill B</winner>
+  </season>
+  <season year="1978">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Hampstead A</winner>
+    <winner compId="mnr">Lee B</winner>
+  </season>
+  <season year="1977">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hampstead A</winner>
+    <winner compId="mnr">Hillcroft A</winner>
+  </season>
+  <season year="1976">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Hampstead A</winner>
+    <winner compId="mnr">St Helier A</winner>
+  </season>
+  <season year="1975">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="int">Croydon</winner>
+    <winner compId="mnr">Purley C</winner>
+  </season>
+  <season year="1974">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Purley A</winner>
+    <winner compId="mnr">Purley C</winner>
+  </season>
+  <season year="1973">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Lee A</winner>
+    <winner compId="mnr">Croydon A</winner>
+  </season>
+  <season year="1972">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Kenton</winner>
+    <winner compId="mnr">Purley B</winner>
+  </season>
+  <season year="1971">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Lee A</winner>
+    <winner compId="mnr">John Ruskin Grammar School</winner>
+  </season>
+  <season year="1970">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Kenton</winner>
+  </season>
+  <season year="1969">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Croydon</winner>
+  </season>
+  <season year="1968">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Buckhurst Hill</winner>
+  </season>
+  <season year="1967">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Purley B</winner>
+  </season>
+  <season year="1966">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Lee A</winner>
+  </season>
+  <season year="1965">
+    <winner compId="snr">London Uni</winner>
+    <winner compId="int">Lee A</winner>
+  </season>
+  <season year="1964">
+    <winner compId="snr">London Uni</winner>
+    <winner compId="int">Old Sedcopians</winner>
+  </season>
+  <season year="1963">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Lee A</winner>
+  </season>
+  <season year="1962">
+    <winner compId="snr">London Uni</winner>
+    <winner compId="int">Hampstead</winner>
+  </season>
+  <season year="1961">
+    <winner compId="snr">S Manchester &amp; Wythenshawe</winner>
+    <winner compId="int">S Manchester &amp; Wythenshawe Falcons</winner>
+  </season>
+  <season year="1960">
+    <winner compId="snr">S Manchester &amp; Wythenshawe</winner>
+    <winner compId="int">Purley A</winner>
+  </season>
+  <season year="1959">
+    <winner compId="snr">Oxford Uni</winner>
+    <winner compId="int">Purley A</winner>
+  </season>
+  <season year="1958">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Centurions</winner>
+  </season>
+  <season year="1957">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Manchester G.S.</winner>
+  </season>
+  <season year="1956">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Manchester G.S.</winner>
+  </season>
+  <season year="1955">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Lee II</winner>
+  </season>
+  <season year="1954">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Old Sedcopians</winner>
+    <winner compId="mnr">Henry Thornton School I</winner>
+  </season>
+  <season year="1953">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Old Sedcopians</winner>
+    <winner compId="mnr">Henry Thornton School III</winner>
+  </season>
+  <season year="1952">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Hampstead</winner>
+    <winner compId="mnr">Purley IV</winner>
+  </season>
+  <season year="1951">
+    <winner compId="snr">Lee</winner>
+    <winner compId="int">Leicester &amp; Birmingham</winner>
+    <winner compId="mnr">Dulwich A</winner>
+  </season>
+  <season year="1950">
+    <winner compId="snr">Purley</winner>
+    <winner compId="int">Leicester</winner>
+    <winner compId="mnr">Chislehurst &amp; Sidcup Grammar School A</winner>
+  </season>
+  <season year="1949">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Cambridge Uni</winner>
+    <winner compId="mnr">Walworth SS</winner>
+  </season>
+  <season year="1948">
+    <winner compId="snr">Cambridge Uni</winner>
+    <winner compId="int">Old Thorntonians</winner>
+    <winner compId="mnr">Henry Thornton School II</winner>
+  </season>
+  <season year="1947">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="mnr">Clark's Nondescripts</winner>
+  </season>
+  <season year="1939">
+    <winner compId="snr">Hampstead</winner>
+    <winner compId="mnr">Old Dunstonians II</winner>
+  </season>
+  <season year="1938">
+    <winner compId="snr">Surbiton</winner>
+    <winner compId="mnr">Old Dunstonians II</winner>
+  </season>
+  <season year="1937">
+    <winner compId="snr">Willoughby</winner>
+  </season>
+</results>

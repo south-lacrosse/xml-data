@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding="UTF-8"?>
+
+<!ENTITY quot    "&#34;"> <!--  quotation mark, U+0022 ISOnum -->
+<!ENTITY amp     "&#38;#38;"> <!--  ampersand, U+0026 ISOnum -->
+<!ENTITY lt      "&#38;#60;"> <!--  less-than sign, U+003C ISOnum -->
+<!ENTITY gt      "&#62;"> <!--  greater-than sign, U+003E ISOnum -->
+<!ENTITY apos	 "&#39;"> <!--  apostrophe = APL quote, U+0027 ISOnum -->
+
+<!ENTITY nbsp   "&#160;"> <!-- no-break space = non-breaking space,
+                                  U+00A0 ISOnum -->
+<!ENTITY pound  "&#163;"> <!-- pound sign, U+00A3 ISOnum -->
+<!ENTITY copy   "&#169;"> <!-- copyright sign, U+00A9 ISOnum -->
+
+<!ENTITY laquo  "&#171;"> <!-- left-pointing double angle quotation mark
+                                  = left pointing guillemet, U+00AB ISOnum -->
+<!ENTITY raquo  "&#187;"> <!-- right-pointing double angle quotation mark
+                                  = right pointing guillemet, U+00BB ISOnum -->
+<!ENTITY frac14 "&#188;"> <!-- vulgar fraction one quarter
+                                  = fraction one quarter, U+00BC ISOnum -->
+<!ENTITY frac12 "&#189;"> <!-- vulgar fraction one half
+                                  = fraction one half, U+00BD ISOnum -->
+<!ENTITY frac34 "&#190;"> <!-- vulgar fraction three quarters
+                                  = fraction three quarters, U+00BE ISOnum -->
+<!ENTITY frac13 "&#x2153;">                                  
+<!ENTITY ndash  "&#8211;"> <!-- en dash, U+2013 ISOpub -->
+<!ENTITY mdash  "&#8212;"> <!-- em dash, U+2014 ISOpub -->
+<!ENTITY lsquo  "&#8216;"> <!-- left single quotation mark,
+                                    U+2018 ISOnum -->
+<!ENTITY rsquo  "&#8217;"> <!-- right single quotation mark,
+                                    U+2019 ISOnum -->
+<!ENTITY ldquo  "&#8220;"> <!-- left double quotation mark,
+                                    U+201C ISOnum -->
+<!ENTITY rdquo  "&#8221;"> <!-- right double quotation mark,
+                                    U+201D ISOnum -->                                  
+
+<!-- club information -->
+
+<!ENTITY % inline "a | b | br | email | img">
+<!ENTITY % Inline "(#PCDATA | %inline; )*">
+<!ENTITY % Flow "( #PCDATA | %inline; | p)*">
+
+<!ELEMENT clubs ( club+ ) >
+
+<!ELEMENT club ( name, description?, website?, twitter?, ground*, colours?, ( contact | section)* ) >
+<!ATTLIST club
+	id ID #REQUIRED 
+	founded NMTOKEN #IMPLIED 
+	modified NMTOKEN #REQUIRED
+	path NMTOKEN #IMPLIED
+>
+
+<!ELEMENT name ( #PCDATA ) >
+<!ATTLIST name
+	long CDATA #IMPLIED
+	short CDATA #IMPLIED
+	small CDATA #IMPLIED
+	minimal CDATA #IMPLIED
+>
+<!ELEMENT description %Flow; >
+<!ELEMENT website ( #PCDATA ) >
+<!ELEMENT twitter ( #PCDATA ) >
+
+<!ELEMENT ground ( name?, address, tel?, pitch?, note?, directions? ) >
+<!ATTLIST ground 
+	lat NMTOKEN #REQUIRED
+	long NMTOKEN #REQUIRED
+>
+
+<!ELEMENT address ( street*, locality?, region?, postcode?) >
+<!ELEMENT street ( #PCDATA ) >
+<!ELEMENT locality ( #PCDATA ) >
+<!ELEMENT region ( #PCDATA ) >
+<!ELEMENT postcode ( #PCDATA ) >
+
+<!ELEMENT pitch %Flow; >
+<!ATTLIST pitch	type ( 3G | Sand-Astro | Astro ) #REQUIRED>
+
+<!ELEMENT note %Flow; >
+
+<!ELEMENT directions %Flow; >
+
+<!ELEMENT a ( #PCDATA ) >
+<!ATTLIST a href CDATA #IMPLIED >
+<!ATTLIST a rel CDATA #IMPLIED >
+<!ELEMENT br EMPTY >
+<!ELEMENT b ( #PCDATA ) >
+<!ELEMENT img EMPTY>
+<!ATTLIST img
+	alt CDATA #IMPLIED
+	title CDATA #IMPLIED
+	src CDATA #REQUIRED
+	class CDATA #IMPLIED
+	usemap CDATA #IMPLIED
+	width CDATA #IMPLIED
+	height CDATA #IMPLIED
+>
+<!ELEMENT p %Inline;>
+<!ATTLIST p
+	class CDATA #IMPLIED
+>
+
+<!ELEMENT section ( contact*, team* ) >
+<!ATTLIST section type ( mens | juniors ) #REQUIRED >
+
+<!ELEMENT team ( name, contact* ) >
+<!ATTLIST team
+	division CDATA #IMPLIED
+	age ( U16 | U14 | U12 ) #IMPLIED
+>
+
+<!ELEMENT contact ( role, name?, email*, tel* ) >
+<!ELEMENT role ( #PCDATA ) >
+<!ELEMENT tel ( #PCDATA ) >
+<!ATTLIST tel type ( home | work | messages ) #IMPLIED >
+<!ELEMENT email ( #PCDATA ) >
+<!ATTLIST email type ( alt | home | work ) #IMPLIED >
+
+<!ELEMENT colours ( #PCDATA ) >

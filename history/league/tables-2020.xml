@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE league-tables PUBLIC "-//Purleylax//DTD Document 1.0//EN" "document.dtd">
+<league-tables year="2020" cols="goal-avg">
+  <division>
+    <division-name short="Prem">Premier Division</division-name>
+    <team>
+      <team-name minimal="Hmp">Hampstead</team-name>
+      <won>10</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>40</points>
+      <for>143</for>
+      <against>47</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr">Hillcroft</team-name>
+      <won>8</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>36</points>
+      <for>113</for>
+      <against>73</against>
+    </team>
+    <team>
+      <team-name minimal="Spn">Spencer</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>30</points>
+      <for>111</for>
+      <against>47</against>
+    </team>
+    <team>
+      <team-name short="Blues" minimal="Blu">Walcountian Blues</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <deducted>1</deducted>
+      <points>23</points>
+      <for>74</for>
+      <against>90</against>
+    </team>
+    <team>
+      <team-name minimal="Hit">Hitchin</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <points>22</points>
+      <for>49</for>
+      <against>84</against>
+    </team>
+    <team class="divider">
+      <team-name short="Raptors" minimal="Rap">London Raptors</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>20</points>
+      <for>47</for>
+      <against>106</against>
+    </team>
+    <team>
+      <team-name short="Welwyn" minimal="Wel">Welwyn Warriors</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>20</points>
+      <for>36</for>
+      <against>126</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="D1">Division 1</division-name>
+    <team>
+      <team-name minimal="Spn 2">Spencer 2</team-name>
+      <won>9</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>36</points>
+      <for>111</for>
+      <against>35</against>
+    </team>
+    <team>
+      <team-name short="Reading" minimal="Rdg">Reading Wildcats</team-name>
+      <won>4</won>
+      <drawn>2</drawn>
+      <lost>2</lost>
+      <points>26</points>
+      <for>60</for>
+      <against>52</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="OxU">Oxford Uni</team-name>
+      <won>3</won>
+      <drawn>1</drawn>
+      <lost>3</lost>
+      <points>21</points>
+      <for>49</for>
+      <against>52</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr A">Hillcroft A</team-name>
+      <won>2</won>
+      <drawn>2</drawn>
+      <lost>3</lost>
+      <points>20</points>
+      <for>45</for>
+      <against>41</against>
+    </team>
+    <team>
+      <team-name short="Cambridge" minimal="Cam">Cambridge Uni</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <points>18</points>
+      <for>46</for>
+      <against>66</against>
+    </team>
+    <team class="divider">
+      <team-name small="Bristol" minimal="Bri">Bristol Bombers</team-name>
+      <won>0</won>
+      <drawn>1</drawn>
+      <lost>7</lost>
+      <points>17</points>
+      <for>33</for>
+      <against>98</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="D2">Division 2</division-name>
+    <team>
+      <team-name short="Camden" minimal="Cdn">Camden Capybaras</team-name>
+      <won>9</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>36</points>
+      <for>160</for>
+      <against>25</against>
+    </team>
+    <team>
+      <team-name minimal="Spn 3">Spencer 3</team-name>
+      <won>8</won>
+      <drawn>2</drawn>
+      <lost>1</lost>
+      <points>40</points>
+      <for>165</for>
+      <against>50</against>
+    </team>
+    <team class="divider">
+      <team-name small="EG" minimal="EG">East Grinstead</team-name>
+      <won>5</won>
+      <drawn>2</drawn>
+      <lost>3</lost>
+      <points>32</points>
+      <for>93</for>
+      <against>64</against>
+    </team>
+    <team>
+      <team-name minimal="Pur">Purley</team-name>
+      <won>4</won>
+      <drawn>2</drawn>
+      <lost>5</lost>
+      <points>30</points>
+      <for>76</for>
+      <against>86</against>
+    </team>
+    <team>
+      <team-name minimal="Che">Cheltenham</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>28</points>
+      <for>88</for>
+      <against>49</against>
+    </team>
+    <team>
+      <team-name short="Owls" minimal="Owl">Oxford Owls</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>10</lost>
+      <points>20</points>
+      <for>6</for>
+      <against>177</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Eps">Epsom</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>16</points>
+      <for>14</for>
+      <against>151</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic. Camden were declared champions as they have a better head-to-head record than Spencer 3s.</remarks>
+  </division>
+  <division>
+    <division-name short="E-N">East (North)</division-name>
+    <team>
+      <team-name minimal="Hit A">Hitchin A</team-name>
+      <won>7</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>28</points>
+      <for>97</for>
+      <against>24</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Lon" short="London">London Uni</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>26</points>
+      <for>70</for>
+      <against>34</against>
+    </team>
+    <team>
+      <team-name short="Welwyn 2" minimal="Wel 2">Welwyn Warriors 2</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>24</points>
+      <for>66</for>
+      <against>51</against>
+    </team>
+    <team>
+      <team-name short="Camden 2" minimal="Cdn2">Camden Capybaras 2</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>18</points>
+      <for>42</for>
+      <against>78</against>
+    </team>
+    <team>
+      <team-name small="MK" short="Milton Keynes" minimal="MK">Milton Keynes Minotaurs</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>5</lost>
+      <points>18</points>
+      <for>29</for>
+      <against>61</against>
+    </team>
+    <team>
+      <team-name short="Bucks" minimal="Buc">Buckhurst Hill</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>14</points>
+      <for>31</for>
+      <against>87</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="E-S">East (South)</division-name>
+    <team>
+      <team-name short="Canterbury" minimal="Can">Canterbury City</team-name>
+      <won>7</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>28</points>
+      <for>82</for>
+      <against>24</against>
+    </team>
+    <team class="divider">
+      <team-name short="Raptors 2" minimal="Rap2">London Raptors 2</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>22</points>
+      <for>82</for>
+      <against>45</against>
+    </team>
+    <team>
+      <team-name short="Guildford" minimal="Gui">Guildford Gators</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>18</points>
+      <for>53</for>
+      <against>69</against>
+    </team>
+    <team>
+      <team-name minimal="Spn 4">Spencer 4</team-name>
+      <won>1</won>
+      <drawn>1</drawn>
+      <lost>3</lost>
+      <points>13</points>
+      <for>34</for>
+      <against>49</against>
+    </team>
+    <team>
+      <team-name short="Reading 2" minimal="Rdg 2">Reading Wildcats 2</team-name>
+      <won>0</won>
+      <drawn>1</drawn>
+      <lost>6</lost>
+      <points>11</points>
+      <for>27</for>
+      <against>81</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr B">Hillcroft B</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>8</points>
+      <for>26</for>
+      <against>36</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="W">West</division-name>
+    <team>
+      <team-name minimal="Bth">Bath</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>24</points>
+      <for>60</for>
+      <against>0</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Ply U">Plymouth Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>4</points>
+      <for>10</for>
+      <against>20</against>
+    </team>
+    <team>
+      <team-name short="Exeter" minimal="Ex">Exeter Uni</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>2</points>
+      <for>0</for>
+      <against>30</against>
+    </team>
+    <team>
+      <team-name short="Plymouth" minimal="Ply Prv">Plymouth Privateers</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>0</points>
+      <for>0</for>
+      <against>20</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Lon1">Local London D1</division-name>
+    <team>
+      <team-name minimal="Hmp">Hampstead</team-name>
+      <won>6</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>24</points>
+      <for>82</for>
+      <against>31</against>
+    </team>
+    <team>
+      <team-name minimal="Spn">Spencer</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>16</points>
+      <for>40</for>
+      <against>39</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr">Hillcroft</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>14</points>
+      <for>36</for>
+      <against>51</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Spn 2">Spencer 2</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>10</points>
+      <for>24</for>
+      <against>61</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Lon2">Local London D2</division-name>
+    <team>
+      <team-name minimal="Hcr A">Hillcroft A</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>16</points>
+      <for>34</for>
+      <against>32</against>
+    </team>
+    <team class="divider">
+      <team-name short="Camden" minimal="Cdn">Camden Capybaras</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>16</points>
+      <for>35</for>
+      <against>40</against>
+    </team>
+    <team>
+      <team-name short="Reading" minimal="Rdg">Reading Wildcats</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>16</points>
+      <for>40</for>
+      <against>35</against>
+    </team>
+    <team class="divider">
+      <team-name short="Raptors" minimal="Rap">London Raptors</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>12</points>
+      <for>30</for>
+      <against>32</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Lon3">Local London D3</division-name>
+    <team>
+      <team-name minimal="Spn 3">Spencer 3</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>20</points>
+      <for>96</for>
+      <against>9</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Spn 4">Spencer 4</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>16</points>
+      <for>30</for>
+      <against>71</against>
+    </team>
+    <team>
+      <team-name minimal="Hcr B">Hillcroft B</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>12</points>
+      <for>30</for>
+      <against>41</against>
+    </team>
+    <team class="divider">
+      <team-name short="Bucks" minimal="Buc">Buckhurst Hill</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>12</points>
+      <for>23</for>
+      <against>58</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Lon4">Local London D4</division-name>
+    <team>
+      <team-name short="Raptors 2" minimal="Rap2">London Raptors 2</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>20</points>
+      <for>66</for>
+      <against>20</against>
+    </team>
+    <team class="divider">
+      <team-name short="Imperial" minimal="Imp">Imperial College</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>14</points>
+      <for>35</for>
+      <against>22</against>
+    </team>
+    <team>
+      <team-name minimal="Lon" short="London">London Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>12</points>
+      <for>40</for>
+      <against>47</against>
+    </team>
+    <team>
+      <team-name short="Camden 2" minimal="Cdn2">Camden Capybaras 2</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>8</points>
+      <for>9</for>
+      <against>61</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-HC">Local Home Counties</division-name>
+    <team>
+      <team-name small="EG" minimal="EG">East Grinstead</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>20</points>
+      <for>51</for>
+      <against>31</against>
+    </team>
+    <team>
+      <team-name short="Blues" minimal="Blu">Walcountian Blues</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>12</points>
+      <for>44</for>
+      <against>18</against>
+    </team>
+    <team>
+      <team-name short="Canterbury" minimal="Can">Canterbury City</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>12</points>
+      <for>27</for>
+      <against>50</against>
+    </team>
+    <team>
+      <team-name minimal="Pur">Purley</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>10</points>
+      <for>22</for>
+      <against>45</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="L-SC">Local South Central</division-name>
+    <team>
+      <team-name small="EG A" minimal="EG A">East Grinstead A</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>18</points>
+      <for>50</for>
+      <against>22</against>
+    </team>
+    <team>
+      <team-name short="Reading 2" minimal="Rdg 2">Reading Wildcats 2</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>10</points>
+      <for>28</for>
+      <against>30</against>
+    </team>
+    <team>
+      <team-name minimal="Eps">Epsom</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>8</points>
+      <for>29</for>
+      <against>49</against>
+    </team>
+    <team>
+      <team-name short="Guildford" minimal="Gui">Guildford Gators</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>7</points>
+      <for>20</for>
+      <against>26</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Pen">Local Peninsula</division-name>
+    <team>
+      <team-name short="Plymouth" minimal="Ply Prv">Plymouth Privateers</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>12</points>
+      <for>35</for>
+      <against>3</against>
+    </team>
+    <team>
+      <team-name minimal="Ply U">Plymouth Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>6</points>
+      <for>13</for>
+      <against>15</against>
+    </team>
+    <team>
+      <team-name short="Exeter" minimal="Ex">Exeter Uni</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>0</points>
+      <for>0</for>
+      <against>30</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Cot1">Local Cotswolds D1</division-name>
+    <team>
+      <team-name minimal="OxU">Oxford Uni</team-name>
+      <won>4</won>
+      <drawn>2</drawn>
+      <lost>0</lost>
+      <points>22</points>
+      <for>54</for>
+      <against>42</against>
+    </team>
+    <team>
+      <team-name minimal="Che">Cheltenham</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>20</points>
+      <for>54</for>
+      <against>44</against>
+    </team>
+    <team>
+      <team-name minimal="Bth">Bath</team-name>
+      <won>1</won>
+      <drawn>1</drawn>
+      <lost>4</lost>
+      <points>15</points>
+      <for>43</for>
+      <against>58</against>
+    </team>
+    <team class="divider">
+      <team-name small="Bristol" minimal="Bri">Bristol Bombers</team-name>
+      <won>0</won>
+      <drawn>3</drawn>
+      <lost>3</lost>
+      <points>15</points>
+      <for>37</for>
+      <against>44</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Cot2">Local Cotswolds D2</division-name>
+    <team>
+      <team-name minimal="OxC">Oxford City</team-name>
+      <won>5</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>22</points>
+      <for>56</for>
+      <against>33</against>
+    </team>
+    <team class="divider">
+      <team-name small="Bristol 2" minimal="Bri 2">Bristol Bombers 2</team-name>
+      <won>3</won>
+      <drawn>1</drawn>
+      <lost>2</lost>
+      <points>19</points>
+      <for>59</for>
+      <against>29</against>
+    </team>
+    <team>
+      <team-name minimal="BtUni">Bath Uni</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>18</points>
+      <for>30</for>
+      <against>58</against>
+    </team>
+    <team>
+      <team-name short="Owls" minimal="Owl">Oxford Owls</team-name>
+      <won>0</won>
+      <drawn>1</drawn>
+      <lost>5</lost>
+      <points>11</points>
+      <for>25</for>
+      <against>50</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-Mid">Local Midlands</division-name>
+    <team>
+      <team-name minimal="Nun">Nuneaton</team-name>
+      <won>8</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>34</points>
+      <for>75</for>
+      <against>45</against>
+    </team>
+    <team>
+      <team-name short="Loughborough" minimal="Lou">Loughborough Uni</team-name>
+      <won>9</won>
+      <drawn>0</drawn>
+      <lost>1</lost>
+      <points>38</points>
+      <for>98</for>
+      <against>38</against>
+    </team>
+    <team>
+      <team-name short="Leicester" minimal="Lei">Leicester Badgers</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>6</lost>
+      <points>28</points>
+      <for>55</for>
+      <against>58</against>
+    </team>
+    <team>
+      <team-name short="Stoke" minimal="CoS">City of Stoke</team-name>
+      <won>4</won>
+      <drawn>0</drawn>
+      <lost>4</lost>
+      <points>24</points>
+      <for>55</for>
+      <against>51</against>
+    </team>
+    <team>
+      <team-name short="Birmingham" minimal="Bhm">Birmingham Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>7</lost>
+      <points>16</points>
+      <for>34</for>
+      <against>70</against>
+    </team>
+    <team>
+      <team-name minimal="War" short="Warwick">Warwick Uni</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>8</lost>
+      <points>16</points>
+      <for>28</for>
+      <against>83</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic. Nuneaton were declared champions as they had the better head-to-head record against Loughborough University.</remarks>
+  </division>
+  <division>
+    <division-name short="L-EA1">Local East Anglia D1</division-name>
+    <team>
+      <team-name minimal="Hit">Hitchin</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>12</points>
+      <for>40</for>
+      <against>11</against>
+    </team>
+    <team>
+      <team-name short="Welwyn" minimal="Wel">Welwyn Warriors</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>12</points>
+      <for>39</for>
+      <against>25</against>
+    </team>
+    <team class="divider">
+      <team-name short="Cambridge" minimal="Cam">Cambridge Uni</team-name>
+      <won>0</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>6</points>
+      <for>7</for>
+      <against>50</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+  <division>
+    <division-name short="L-EA2">Local East Anglia D2</division-name>
+    <team>
+      <team-name small="MK" short="Milton Keynes" minimal="MK">Milton Keynes Minotaurs</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>14</points>
+      <for>34</for>
+      <against>49</against>
+    </team>
+    <team class="divider">
+      <team-name minimal="Hit A">Hitchin A</team-name>
+      <won>3</won>
+      <drawn>0</drawn>
+      <lost>0</lost>
+      <points>12</points>
+      <for>37</for>
+      <against>15</against>
+    </team>
+    <team>
+      <team-name short="Welwyn 2" minimal="Wel 2">Welwyn Warriors 2</team-name>
+      <won>2</won>
+      <drawn>0</drawn>
+      <lost>2</lost>
+      <points>12</points>
+      <for>37</for>
+      <against>29</against>
+    </team>
+    <team>
+      <team-name short="Eagles" minimal="Eag">Cambridge Eagles</team-name>
+      <won>1</won>
+      <drawn>0</drawn>
+      <lost>3</lost>
+      <points>10</points>
+      <for>21</for>
+      <against>36</against>
+    </team>
+    <remarks>The season was ended early, with some games being declared void, because of the COVID-19 pandemic, and there was no promotion or relegation.</remarks>
+  </division>
+</league-tables>

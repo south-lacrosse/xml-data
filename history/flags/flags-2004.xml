@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flags name="Flags" short="Flag" year="2004">
+  <flags-competition id="snr" short="Snr" name="Senior">
+    <round name="Round 1" short="R1" date="2003-11-01">
+      <match home="1" matchNum="1">
+        <team1>Hillcroft</team1>
+        <team2>Reading Wildcats</team2>
+        <score>6 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Hampstead</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Purley</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Penarth</team1>
+        <team2>Hitchin</team2>
+        <score>6 - 10</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2003-12-06">
+      <match home="2" matchNum="1">
+        <team1>Hillcroft</team1>
+        <team2>Hampstead</team2>
+        <score>12 - 11</score>
+      </match>
+      <match matchNum="2">
+        <team1>Purley</team1>
+        <team2>Hitchin</team2>
+        <score>19 - 3</score>
+      </match>
+    </round>
+    <round name="Final" date="2004-03-20">
+      <match matchNum="1">
+        <team1>Hillcroft</team1>
+        <team2>Purley</team2>
+        <score>5 - 16</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="int" short="Int" name="Intermediate">
+    <round name="Round 1" short="R1" date="2003-12-06">
+      <match home="1" matchNum="1">
+        <team1>Bath</team1>
+        <team2>Spencer</team2>
+        <score>20 - 7</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Croydon</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>0 - 23</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Walcountian Blues</team1>
+        <team2>Bye</team2>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Oxford Uni</team1>
+        <team2>Bye</team2>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2004-01-24">
+      <match matchNum="1">
+        <team1>Bath</team1>
+        <team2>Buckhurst Hill</team2>
+        <score>15 - 4</score>
+      </match>
+      <match matchNum="2">
+        <team1>Walcountian Blues</team1>
+        <team2>Oxford Uni</team2>
+        <score>13 - 5</score>
+      </match>
+    </round>
+    <round name="Final" date="2004-03-20">
+      <match matchNum="1">
+        <team1>Bath</team1>
+        <team2>Walcountian Blues</team2>
+        <score>13 - 1</score>
+      </match>
+    </round>
+  </flags-competition>
+  <flags-competition id="mnr" short="Mnr" minimal="Mr" name="Minor">
+    <round name="Prelim" date="2003-10-11">
+      <match matchNum="8">>
+        <team1>Southampton Tridents</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>1 - 7</score>
+      </match>
+    </round>
+    <round name="Round 1" short="R1" date="2003-11-29">
+      <match home="1" matchNum="1">
+        <team1>Cambridge Uni</team1>
+        <team2>Northampton Uni</team2>
+        <score>10 - 0</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Gloucester Uni</team1>
+        <team2>UWIC</team2>
+        <score>1 - 6</score>
+      </match>
+      <match home="1" matchNum="3">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Hitchin A</team2>
+        <score>12 - 6</score>
+      </match>
+      <match home="1" matchNum="4">
+        <team1>Bath Uni</team1>
+        <team2>Portsmouth Uni</team2>
+        <score>6 - 2</score>
+      </match>
+    </round>
+    <round name="Semi Final" short="SF" date="2004-01-31">
+      <match home="1" matchNum="1">
+        <team1>Cambridge Uni</team1>
+        <team2>UWIC</team2>
+        <score>8 - 5</score>
+      </match>
+      <match home="1" matchNum="2">
+        <team1>Walcountian Blues 2</team1>
+        <team2>Bath Uni</team2>
+        <score>4 - 17</score>
+      </match>
+    </round>
+    <round name="Final" date="2004-03-20">
+      <match matchNum="1">
+        <team1>Cambridge Uni</team1>
+        <team2>Bath Uni</team2>
+        <score>5 - 17</score>
+      </match>
+    </round>
+  </flags-competition>
+</flags>

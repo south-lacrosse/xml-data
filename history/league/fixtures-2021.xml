@@ -1,0 +1,4266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures created="2020-09-01T12:00:00">
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>6</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>16</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>11</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>15</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>6</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>17</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>6</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Purley</away-team>
+    <competition>L-HC</competition>
+    <home-goals>18</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>L-HC</competition>
+    <home-goals>4</home-goals>
+    <away-goals>26</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>East Grinstead A</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Chichester Uni</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bath</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>11</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Cheltenham 2</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Cambridge Eagles</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>L-EA</competition>
+    <home-goals>2</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>16</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-03</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>L-EA</competition>
+    <home-goals>6</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>18</home-goals>
+    <away-goals>2</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Spencer</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>21</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>10</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>5</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>3</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Purley</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>5</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>4</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>Imperial College</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-10</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>9</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>4</home-goals>
+    <away-goals>19</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>3</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>0</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>4</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Bath</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>4</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>13</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>E-N</competition>
+    <home-goals>17</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>London Uni</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>2</home-goals>
+    <away-goals>19</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>16</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-17</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>14</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>Birmingham Uni</home-team>
+    <away-team>Nuneaton 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>2</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>Birmingham Uni</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <venue>Birmingham Uni</venue>
+    <home-team>Nuneaton 2</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>City of Stoke</home-team>
+    <away-team>City of Stoke 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>2</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>City of Stoke</home-team>
+    <away-team>Loughborough Lions</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>1</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>City of Stoke 2</home-team>
+    <away-team>Loughborough Lions</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>0</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>Lincoln City</home-team>
+    <away-team>Leicester City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>4</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <home-team>Lincoln City</home-team>
+    <away-team>Nuneaton</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>7</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-18</date>
+    <venue>Lincoln City</venue>
+    <home-team>Nuneaton</home-team>
+    <away-team>Leicester City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>3</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Spencer</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>7</home-goals>
+    <away-goals>14</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>11</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>8</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>5</home-goals>
+    <away-goals>20</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Imperial College</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>5</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>4</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Purley</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>L-HC</competition>
+    <home-goals>2</home-goals>
+    <away-goals>11</away-goals>
+    <time>12:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Chichester Uni</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>13</home-goals>
+    <away-goals>2</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>14</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Oxford City</home-team>
+    <away-team>Bath</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>5</home-goals>
+    <away-goals>16</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Cheltenham 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Cambridge Eagles</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>L-EA</competition>
+    <home-goals>6</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>UEA</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>L-EA</competition>
+    <home-goals>1</home-goals>
+    <away-goals>20</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-24</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>7</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Hitchin</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>11</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>3</home-goals>
+    <away-goals>13</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>9</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>6</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>15</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>14</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-10-31</date>
+    <home-team>Bath</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>Jon Harrop Cup</competition>
+    <home-goals>15</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Leicester City</home-team>
+    <away-team>City of Stoke 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>8</home-goals>
+    <away-goals>1</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Leicester City</home-team>
+    <away-team>Nuneaton 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>14</home-goals>
+    <away-goals>1</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <venue>Leicester City</venue>
+    <home-team>Nuneaton 2</home-team>
+    <away-team>City of Stoke 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>4</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <venue>Loughborough Lions</venue>
+    <home-team>Lincoln City</home-team>
+    <away-team>Birmingham Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Loughborough Lions</home-team>
+    <away-team>Birmingham Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Loughborough Lions</home-team>
+    <away-team>Lincoln City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>13</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <venue>Warwick Uni</venue>
+    <home-team>Nuneaton</home-team>
+    <away-team>City of Stoke</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>8</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Warwick Uni</home-team>
+    <away-team>City of Stoke</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>11</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-01</date>
+    <home-team>Warwick Uni</home-team>
+    <away-team>Nuneaton</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>2</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Spencer</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>Purley</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-07</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Bath</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>London Uni</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <pitch>3G</pitch>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>E-N</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>West</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-14</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>Birmingham Uni</home-team>
+    <away-team>City of Stoke</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>Birmingham Uni</home-team>
+    <away-team>Leicester City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <venue>Birmingham Uni</venue>
+    <home-team>City of Stoke</home-team>
+    <away-team>Leicester City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>City of Stoke 2</home-team>
+    <away-team>Lincoln City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>City of Stoke 2</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <venue>City of Stoke</venue>
+    <home-team>Lincoln City</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>Nuneaton</home-team>
+    <away-team>Loughborough Lions</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>Nuneaton 2</home-team>
+    <away-team>Loughborough Lions</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-15</date>
+    <home-team>Nuneaton 2</home-team>
+    <away-team>Nuneaton</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>24</home-goals>
+    <away-goals>1</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Imperial College</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Purley</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>East Grinstead A</home-team>
+    <away-team>Chichester Uni</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Bath</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Cheltenham 2</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-21</date>
+    <home-team>UEA</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Bath</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Purley</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>London Uni</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>West</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-28</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Lincoln City</home-team>
+    <away-team>City of Stoke</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Lincoln City</home-team>
+    <away-team>Nuneaton 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <venue>Lincoln City</venue>
+    <home-team>Nuneaton 2</home-team>
+    <away-team>City of Stoke</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <venue>Loughborough Lions</venue>
+    <home-team>Leicester City</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Loughborough Lions</home-team>
+    <away-team>Leicester City</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Loughborough Lions</home-team>
+    <away-team>Warwick Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <venue>Nuneaton</venue>
+    <home-team>City of Stoke 2</home-team>
+    <away-team>Birmingham Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Nuneaton</home-team>
+    <away-team>Birmingham Uni</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-11-29</date>
+    <home-team>Nuneaton</home-team>
+    <away-team>City of Stoke 2</away-team>
+    <competition>L-Mid</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>7</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>5</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>12</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Imperial College</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Purley</away-team>
+    <competition>L-HC</competition>
+    <home-goals>7</home-goals>
+    <away-goals>2</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>L-SC</competition>
+    <home-goals>9</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Bath</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>23</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Cheltenham 2</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>L-EA</competition>
+    <home-goals>8</home-goals>
+    <away-goals>19</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>UEA</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer</home-team>
+    <away-team>Purley</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>Snr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Bath</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>Int Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>Int Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>Int Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>Int Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>Int Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Loughborough Lions</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>British Army</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Imperial College</home-team>
+    <away-team>Nuneaton</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-05</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>Mnr Flags R16</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-12</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-12</date>
+    <home-team>Spencer</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>15</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2020-12-12</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Purley</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <pitch>3G</pitch>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-09</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Spencer</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Imperial College</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Purley</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Chichester Uni</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Bath</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Oxford City</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Cheltenham 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-16</date>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>Cambridge Eagles</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-23</date>
+    <home-team>Hampstead</home-team>
+    <away-team>TBD</away-team>
+    <competition>Snr Flags QF</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-23</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>TBD</away-team>
+    <competition>Snr Flags QF</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-23</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>TBD</away-team>
+    <competition>Int Flags QF</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-23</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>Int Flags QF</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-23</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>TBD</away-team>
+    <competition>Mnr Flags QF</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Spencer</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>London Uni</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Purley</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>East Grinstead A</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Chichester Uni</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Bath</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Cheltenham 2</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Cambridge Eagles</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-01-30</date>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Bath</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-06</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Spencer</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Purley</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <pitch>3G</pitch>
+    <home-team>Welwyn Warriors 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>E-N</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-13</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Purley</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Chichester Uni</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Exeter Uni</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Plymouth Uni</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>L-Pen</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Bath</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Oxford City</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Cheltenham 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Cambridge Eagles</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-20</date>
+    <home-team>UEA</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Purley</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-02-27</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Oxford Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Bath</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>London Uni</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>London Raptors 2</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Camborne School of Mines</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-13</date>
+    <home-team>Plymouth Privateers</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-20</date>
+    <home-team>London Uni</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Spencer</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Oxford Uni</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>London Uni</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Camborne School of Mines</home-team>
+    <away-team>Plymouth Uni</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-03-27</date>
+    <home-team>Exeter Uni</home-team>
+    <away-team>Plymouth Privateers</away-team>
+    <competition>West</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>11</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>10</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>6</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>3</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>15</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Imperial College</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Purley</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>7</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>15</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>L-SC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Bath</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Oxford City</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>6</home-goals>
+    <away-goals>15</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Cambridge Eagles</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-10</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>L-EA</competition>
+    <home-goals>16</home-goals>
+    <away-goals>0</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hampstead</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Bath</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Purley</away-team>
+    <competition>D2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Welwyn Warriors 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>London Raptors 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Spencer 4</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>19</home-goals>
+    <away-goals>6</away-goals>
+    <time>1:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>12</home-goals>
+    <away-goals>15</away-goals>
+    <time>3:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>18</home-goals>
+    <away-goals>2</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>9</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>13</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Purley</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>East Grinstead A</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Bath</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>14</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>5</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>Cambridge Eagles</away-team>
+    <competition>L-EA</competition>
+    <home-goals>6</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>L-EA</competition>
+    <home-goals>3</home-goals>
+    <away-goals>16</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-17</date>
+    <home-team>UEA</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>10</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Spencer</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>5</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>13</home-goals>
+    <away-goals>8</away-goals>
+    <time>1:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>1</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>0</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>13</home-goals>
+    <away-goals>10</away-goals>
+    <time>3:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Imperial College</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>17</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Purley</away-team>
+    <competition>L-HC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>East Grinstead A</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Bath</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>2</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Oxford City</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>4</home-goals>
+    <away-goals>17</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>1</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Cambridge Eagles</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>L-EA</competition>
+    <home-goals>6</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-04-24</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>L-EA</competition>
+    <home-goals>13</home-goals>
+    <away-goals>1</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>L-Lon1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>14</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>8</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>Spencer 3</away-team>
+    <competition>L-Lon3</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>19</home-goals>
+    <away-goals>2</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>London Uni</home-team>
+    <away-team>Imperial College</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>L-HC</competition>
+    <home-goals>2</home-goals>
+    <away-goals>17</away-goals>
+    <multi>2</multi>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>L-HC</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Reading Wildcats 2</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Bath</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>8</home-goals>
+    <away-goals>15</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Bath Uni</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Cambridge Eagles</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>19</home-goals>
+    <away-goals>1</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-01</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>L-EA</competition>
+    <home-goals>9</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Spencer</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>14</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>4</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Spencer 2</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>17</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>9</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Hillcroft B</away-team>
+    <competition>E-S</competition>
+    <home-goals>6</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>London Uni</away-team>
+    <competition>L-Lon4</competition>
+    <home-goals>7</home-goals>
+    <away-goals>13</away-goals>
+    <time>1:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <venue>East Grinstead</venue>
+    <home-team>Purley</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>L-HC</competition>
+    <home-goals>1</home-goals>
+    <away-goals>14</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>East Grinstead A</away-team>
+    <competition>L-SC</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-08</date>
+    <home-team>Bath Uni</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>11</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>11</home-goals>
+    <away-goals>12</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Camden Capybaras</home-team>
+    <away-team>Cambridge Uni</away-team>
+    <competition>D1</competition>
+    <home-goals>16</home-goals>
+    <away-goals>1</away-goals>
+    <time>1:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Reading Wildcats</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>7</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Hillcroft A</away-team>
+    <competition>D1</competition>
+    <home-goals>2</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Bath</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>11</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Canterbury City</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>4</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Camden Capybaras 2</home-team>
+    <away-team>Buckhurst Hill</away-team>
+    <competition>E-N</competition>
+    <home-goals>13</home-goals>
+    <away-goals>2</away-goals>
+    <time>3:00pm</time>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>London Uni</home-team>
+    <away-team>Milton Keynes Minotaurs</away-team>
+    <competition>E-N</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Guildford Gators</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>R</home-goals>
+    <away-goals>R</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-15</date>
+    <home-team>Bristol Bombers 2</home-team>
+    <away-team>Cardiff Harlequins</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Hillcroft</home-team>
+    <away-team>Walcountian Blues</away-team>
+    <competition>Prem</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Spencer</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>13</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Welwyn Warriors</home-team>
+    <away-team>London Raptors</away-team>
+    <competition>Prem</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Cambridge Uni</home-team>
+    <away-team>Spencer 2</away-team>
+    <competition>D1</competition>
+    <home-goals>3</home-goals>
+    <away-goals>17</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>D1</competition>
+    <home-goals>9</home-goals>
+    <away-goals>10</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Spencer 3</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>11</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>9</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Purley</home-team>
+    <away-team>Hitchin A</away-team>
+    <competition>D2</competition>
+    <home-goals>7</home-goals>
+    <away-goals>11</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Buckhurst Hill</home-team>
+    <away-team>London Uni</away-team>
+    <competition>E-N</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Hillcroft B</home-team>
+    <away-team>Reading Wildcats 2</away-team>
+    <competition>E-S</competition>
+    <home-goals>9</home-goals>
+    <away-goals>5</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-22</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>6</home-goals>
+    <away-goals>8</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-29</date>
+    <home-team>Spencer 4</home-team>
+    <away-team>Camden Capybaras 3</away-team>
+    <competition>E-S</competition>
+    <home-goals>9</home-goals>
+    <away-goals>6</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-05-29</date>
+    <home-team>Milton Keynes Minotaurs</home-team>
+    <away-team>UEA</away-team>
+    <competition>L-EA</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Hitchin</home-team>
+    <away-team>Hillcroft</away-team>
+    <competition>Prem</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Welwyn Warriors</away-team>
+    <competition>Prem</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <pitch>3G</pitch>
+    <home-team>Hillcroft A</home-team>
+    <away-team>Camden Capybaras</away-team>
+    <competition>D1</competition>
+    <home-goals>0</home-goals>
+    <away-goals>7</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Cheltenham</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Hitchin A</home-team>
+    <away-team>East Grinstead</away-team>
+    <competition>D2</competition>
+    <home-goals>8</home-goals>
+    <away-goals>15</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Purley</home-team>
+    <away-team>Bath</away-team>
+    <competition>D2</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>London Uni</home-team>
+    <away-team>Camden Capybaras 2</away-team>
+    <competition>E-N</competition>
+    <home-goals>6</home-goals>
+    <away-goals>9</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Camden Capybaras 3</home-team>
+    <away-team>Guildford Gators</away-team>
+    <competition>E-S</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-05</date>
+    <home-team>Bristol Bombers</home-team>
+    <away-team>Oxford City</away-team>
+    <competition>L-Cot1</competition>
+    <home-goals>18</home-goals>
+    <away-goals>3</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-12</date>
+    <home-team>Walcountian Blues</home-team>
+    <away-team>Hampstead</away-team>
+    <competition>Prem</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-12</date>
+    <home-team>Bath</home-team>
+    <away-team>Canterbury City</away-team>
+    <competition>D2</competition>
+    <home-goals>4</home-goals>
+    <away-goals>4</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-12</date>
+    <home-team>East Grinstead</home-team>
+    <away-team>Cheltenham</away-team>
+    <competition>D2</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-12</date>
+    <home-team>Purley</home-team>
+    <away-team>Bristol Bombers</away-team>
+    <competition>D2</competition>
+    <home-goals>6</home-goals>
+    <away-goals>14</away-goals>
+  </fixture>
+  <fixture>
+    <date>2021-06-12</date>
+    <home-team>London Raptors</home-team>
+    <away-team>Reading Wildcats</away-team>
+    <competition>L-Lon2</competition>
+    <home-goals>0</home-goals>
+    <away-goals>10</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-19</date>
+    <home-team>Hampstead</home-team>
+    <away-team>Hitchin</away-team>
+    <competition>Prem</competition>
+    <home-goals>10</home-goals>
+    <away-goals>0</away-goals>
+    <penalty>C</penalty>
+  </fixture>
+  <fixture>
+    <date>2021-06-26</date>
+    <home-team>Cardiff Harlequins</home-team>
+    <away-team>Bristol Bombers 2</away-team>
+    <competition>L-Cot2</competition>
+    <home-goals>V</home-goals>
+    <away-goals>V</away-goals>
+  </fixture>
+</fixtures>
